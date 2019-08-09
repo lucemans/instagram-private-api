@@ -1,6 +1,6 @@
 > **[instagram-private-api](../README.md)**
 
-[Globals](../README.md) / ["responses/direct-thread.feed.response"](../modules/_responses_direct_thread_feed_response_.md) / [DirectThreadFeedResponse300687565](_responses_direct_thread_feed_response_.directthreadfeedresponse300687565.md) /
+[Globals](../globals.md) / ["responses/direct-thread.feed.response"](../modules/_responses_direct_thread_feed_response_.md) / [DirectThreadFeedResponse300687565](_responses_direct_thread_feed_response_.directthreadfeedresponse300687565.md) /
 
 # Interface: DirectThreadFeedResponse300687565
 
@@ -21,7 +21,7 @@
 
 • **item_id**: *string*
 
-*Defined in [responses/direct-thread.feed.response.ts:62](https://github.com/dilame/instagram-private-api/blob/01eb399/src/responses/direct-thread.feed.response.ts#L62)*
+*Defined in [responses/direct-thread.feed.response.ts:62](https://github.com/Nerixyz/instagram-private-api/blob/e5037ee/src/responses/direct-thread.feed.response.ts#L62)*
 
 ___
 
@@ -29,4 +29,4 @@ ___
 
 • **timestamp**: *string*
 
-*Defined in [responses/direct-thread.feed.response.ts:61](https://github.com/dilame/instagram-private-api/blob/01eb399/src/responses/direct-thread.feed.response.ts#L61)*
+*Defined in [responses/direct-thread.feed.response.ts:61](https://github.com/Nerixyz/instagram-private-api/blob/e5037ee/src/responses/direct-thread.feed.response.ts#L61)*

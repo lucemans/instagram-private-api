@@ -1,6 +1,6 @@
 > **[instagram-private-api](../README.md)**
 
-[Globals](../README.md) / ["repositories/challenge.repository"](_repositories_challenge_repository_.md) /
+[Globals](../globals.md) / ["repositories/challenge.repository"](_repositories_challenge_repository_.md) /
 
 # External module: "repositories/challenge.repository"
 

@@ -1,6 +1,6 @@
 > **[instagram-private-api](../README.md)**
 
-[Globals](../README.md) / ["types/posting.album.options"](../modules/_types_posting_album_options_.md) / [PostingAlbumItem](_types_posting_album_options_.postingalbumitem.md) /
+[Globals](../globals.md) / ["types/posting.album.options"](../modules/_types_posting_album_options_.md) / [PostingAlbumItem](_types_posting_album_options_.postingalbumitem.md) /
 
 # Interface: PostingAlbumItem
 
@@ -25,7 +25,7 @@
 
 • **uploadId**? : *string*
 
-*Defined in [types/posting.album.options.ts:10](https://github.com/dilame/instagram-private-api/blob/01eb399/src/types/posting.album.options.ts#L10)*
+*Defined in [types/posting.album.options.ts:10](https://github.com/Nerixyz/instagram-private-api/blob/e5037ee/src/types/posting.album.options.ts#L10)*
 
 ___
 
@@ -33,4 +33,4 @@ ___
 
 • **usertags**? : *[PostingUsertags](_types_posting_options_.postingusertags.md)*
 
-*Defined in [types/posting.album.options.ts:9](https://github.com/dilame/instagram-private-api/blob/01eb399/src/types/posting.album.options.ts#L9)*
+*Defined in [types/posting.album.options.ts:9](https://github.com/Nerixyz/instagram-private-api/blob/e5037ee/src/types/posting.album.options.ts#L9)*

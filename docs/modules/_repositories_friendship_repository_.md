@@ -1,6 +1,6 @@
 > **[instagram-private-api](../README.md)**
 
-[Globals](../README.md) / ["repositories/friendship.repository"](_repositories_friendship_repository_.md) /
+[Globals](../globals.md) / ["repositories/friendship.repository"](_repositories_friendship_repository_.md) /
 
 # External module: "repositories/friendship.repository"
 

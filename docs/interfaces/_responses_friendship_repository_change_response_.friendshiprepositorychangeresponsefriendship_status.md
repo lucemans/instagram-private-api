@@ -1,6 +1,6 @@
 > **[instagram-private-api](../README.md)**
 
-[Globals](../README.md) / ["responses/friendship.repository.change.response"](../modules/_responses_friendship_repository_change_response_.md) / [FriendshipRepositoryChangeResponseFriendship_status](_responses_friendship_repository_change_response_.friendshiprepositorychangeresponsefriendship_status.md) /
+[Globals](../globals.md) / ["responses/friendship.repository.change.response"](../modules/_responses_friendship_repository_change_response_.md) / [FriendshipRepositoryChangeResponseFriendship_status](_responses_friendship_repository_change_response_.friendshiprepositorychangeresponsefriendship_status.md) /
 
 # Interface: FriendshipRepositoryChangeResponseFriendship_status
 
@@ -27,7 +27,7 @@
 
 • **blocking**: *boolean*
 
-*Defined in [responses/friendship.repository.change.response.ts:8](https://github.com/dilame/instagram-private-api/blob/01eb399/src/responses/friendship.repository.change.response.ts#L8)*
+*Defined in [responses/friendship.repository.change.response.ts:8](https://github.com/Nerixyz/instagram-private-api/blob/e5037ee/src/responses/friendship.repository.change.response.ts#L8)*
 
 ___
 
@@ -35,7 +35,7 @@ ___
 
 • **followed_by**: *boolean*
 
-*Defined in [responses/friendship.repository.change.response.ts:7](https://github.com/dilame/instagram-private-api/blob/01eb399/src/responses/friendship.repository.change.response.ts#L7)*
+*Defined in [responses/friendship.repository.change.response.ts:7](https://github.com/Nerixyz/instagram-private-api/blob/e5037ee/src/responses/friendship.repository.change.response.ts#L7)*
 
 ___
 
@@ -43,7 +43,7 @@ ___
 
 • **following**: *boolean*
 
-*Defined in [responses/friendship.repository.change.response.ts:6](https://github.com/dilame/instagram-private-api/blob/01eb399/src/responses/friendship.repository.change.response.ts#L6)*
+*Defined in [responses/friendship.repository.change.response.ts:6](https://github.com/Nerixyz/instagram-private-api/blob/e5037ee/src/responses/friendship.repository.change.response.ts#L6)*
 
 ___
 
@@ -51,7 +51,7 @@ ___
 
 • **incoming_request**: *boolean*
 
-*Defined in [responses/friendship.repository.change.response.ts:11](https://github.com/dilame/instagram-private-api/blob/01eb399/src/responses/friendship.repository.change.response.ts#L11)*
+*Defined in [responses/friendship.repository.change.response.ts:11](https://github.com/Nerixyz/instagram-private-api/blob/e5037ee/src/responses/friendship.repository.change.response.ts#L11)*
 
 ___
 
@@ -59,7 +59,7 @@ ___
 
 • **is_bestie**: *boolean*
 
-*Defined in [responses/friendship.repository.change.response.ts:13](https://github.com/dilame/instagram-private-api/blob/01eb399/src/responses/friendship.repository.change.response.ts#L13)*
+*Defined in [responses/friendship.repository.change.response.ts:13](https://github.com/Nerixyz/instagram-private-api/blob/e5037ee/src/responses/friendship.repository.change.response.ts#L13)*
 
 ___
 
@@ -67,7 +67,7 @@ ___
 
 • **is_private**: *boolean*
 
-*Defined in [responses/friendship.repository.change.response.ts:10](https://github.com/dilame/instagram-private-api/blob/01eb399/src/responses/friendship.repository.change.response.ts#L10)*
+*Defined in [responses/friendship.repository.change.response.ts:10](https://github.com/Nerixyz/instagram-private-api/blob/e5037ee/src/responses/friendship.repository.change.response.ts#L10)*
 
 ___
 
@@ -75,7 +75,7 @@ ___
 
 • **muting**: *boolean*
 
-*Defined in [responses/friendship.repository.change.response.ts:9](https://github.com/dilame/instagram-private-api/blob/01eb399/src/responses/friendship.repository.change.response.ts#L9)*
+*Defined in [responses/friendship.repository.change.response.ts:9](https://github.com/Nerixyz/instagram-private-api/blob/e5037ee/src/responses/friendship.repository.change.response.ts#L9)*
 
 ___
 
@@ -83,4 +83,4 @@ ___
 
 • **outgoing_request**: *boolean*
 
-*Defined in [responses/friendship.repository.change.response.ts:12](https://github.com/dilame/instagram-private-api/blob/01eb399/src/responses/friendship.repository.change.response.ts#L12)*
+*Defined in [responses/friendship.repository.change.response.ts:12](https://github.com/Nerixyz/instagram-private-api/blob/e5037ee/src/responses/friendship.repository.change.response.ts#L12)*

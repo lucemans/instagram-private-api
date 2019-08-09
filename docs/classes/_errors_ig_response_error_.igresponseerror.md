@@ -1,6 +1,6 @@
 > **[instagram-private-api](../README.md)**
 
-[Globals](../README.md) / ["errors/ig-response.error"](../modules/_errors_ig_response_error_.md) / [IgResponseError](_errors_ig_response_error_.igresponseerror.md) /
+[Globals](../globals.md) / ["errors/ig-response.error"](../modules/_errors_ig_response_error_.md) / [IgResponseError](_errors_ig_response_error_.igresponseerror.md) /
 
 # Class: IgResponseError <**TBody**>
 
@@ -58,7 +58,7 @@
 
 *Overrides [IgClientError](_errors_ig_client_error_.igclienterror.md).[constructor](_errors_ig_client_error_.igclienterror.md#constructor)*
 
-*Defined in [errors/ig-response.error.ts:9](https://github.com/dilame/instagram-private-api/blob/01eb399/src/errors/ig-response.error.ts#L9)*
+*Defined in [errors/ig-response.error.ts:9](https://github.com/Nerixyz/instagram-private-api/blob/e5037ee/src/errors/ig-response.error.ts#L9)*
 
 **Parameters:**
 
@@ -76,7 +76,7 @@ Name | Type |
 
 *Inherited from void*
 
-Defined in /Users/bowzee/WebstormProjects/instagram-private-api/node_modules/typedoc/node_modules/typescript/lib/lib.es5.d.ts:964
+Defined in D:/GitHubDesktopRepos/SKMNetSharp/instagram-private-api/node_modules/typedoc/node_modules/typescript/lib/lib.es5.d.ts:964
 
 ___
 
@@ -88,7 +88,7 @@ ___
 
 *Overrides void*
 
-Defined in /Users/bowzee/WebstormProjects/instagram-private-api/node_modules/ts-custom-error/dist/custom-error.d.ts:2
+Defined in D:/GitHubDesktopRepos/SKMNetSharp/instagram-private-api/node_modules/ts-custom-error/dist/custom-error.d.ts:2
 
 ___
 
@@ -96,7 +96,7 @@ ___
 
 • **response**: *[IgResponse](../modules/_types_common_types_.md#igresponse)‹*`TBody`*›*
 
-*Defined in [errors/ig-response.error.ts:9](https://github.com/dilame/instagram-private-api/blob/01eb399/src/errors/ig-response.error.ts#L9)*
+*Defined in [errors/ig-response.error.ts:9](https://github.com/Nerixyz/instagram-private-api/blob/e5037ee/src/errors/ig-response.error.ts#L9)*
 
 ___
 
@@ -108,7 +108,7 @@ ___
 
 *Overrides void*
 
-Defined in /Users/bowzee/WebstormProjects/instagram-private-api/node_modules/typedoc/node_modules/typescript/lib/lib.es5.d.ts:965
+Defined in D:/GitHubDesktopRepos/SKMNetSharp/instagram-private-api/node_modules/typedoc/node_modules/typescript/lib/lib.es5.d.ts:965
 
 ___
 
@@ -116,4 +116,4 @@ ___
 
 • **text**: *string*
 
-*Defined in [errors/ig-response.error.ts:7](https://github.com/dilame/instagram-private-api/blob/01eb399/src/errors/ig-response.error.ts#L7)*
+*Defined in [errors/ig-response.error.ts:7](https://github.com/Nerixyz/instagram-private-api/blob/e5037ee/src/errors/ig-response.error.ts#L7)*

@@ -1,6 +1,6 @@
 > **[instagram-private-api](../README.md)**
 
-[Globals](../README.md) / ["feeds/saved.feed"](_feeds_saved_feed_.md) /
+[Globals](../globals.md) / ["feeds/saved.feed"](_feeds_saved_feed_.md) /
 
 # External module: "feeds/saved.feed"
 

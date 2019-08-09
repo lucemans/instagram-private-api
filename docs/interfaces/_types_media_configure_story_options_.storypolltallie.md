@@ -1,6 +1,6 @@
 > **[instagram-private-api](../README.md)**
 
-[Globals](../README.md) / ["types/media.configure-story.options"](../modules/_types_media_configure_story_options_.md) / [StoryPollTallie](_types_media_configure_story_options_.storypolltallie.md) /
+[Globals](../globals.md) / ["types/media.configure-story.options"](../modules/_types_media_configure_story_options_.md) / [StoryPollTallie](_types_media_configure_story_options_.storypolltallie.md) /
 
 # Interface: StoryPollTallie
 
@@ -22,7 +22,7 @@
 
 • **count**: *`0`*
 
-*Defined in [types/media.configure-story.options.ts:131](https://github.com/dilame/instagram-private-api/blob/01eb399/src/types/media.configure-story.options.ts#L131)*
+*Defined in [types/media.configure-story.options.ts:131](https://github.com/Nerixyz/instagram-private-api/blob/e5037ee/src/types/media.configure-story.options.ts#L131)*
 
 ___
 
@@ -30,7 +30,7 @@ ___
 
 • **font_size**: *number*
 
-*Defined in [types/media.configure-story.options.ts:133](https://github.com/dilame/instagram-private-api/blob/01eb399/src/types/media.configure-story.options.ts#L133)*
+*Defined in [types/media.configure-story.options.ts:133](https://github.com/Nerixyz/instagram-private-api/blob/e5037ee/src/types/media.configure-story.options.ts#L133)*
 
 ___
 
@@ -38,4 +38,4 @@ ___
 
 • **text**: *string*
 
-*Defined in [types/media.configure-story.options.ts:130](https://github.com/dilame/instagram-private-api/blob/01eb399/src/types/media.configure-story.options.ts#L130)*
+*Defined in [types/media.configure-story.options.ts:130](https://github.com/Nerixyz/instagram-private-api/blob/e5037ee/src/types/media.configure-story.options.ts#L130)*

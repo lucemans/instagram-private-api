@@ -1,6 +1,6 @@
 > **[instagram-private-api](../README.md)**
 
-[Globals](../README.md) / ["responses/user.feed.response"](../modules/_responses_user_feed_response_.md) / [UserFeedResponseFb_user_tags](_responses_user_feed_response_.userfeedresponsefb_user_tags.md) /
+[Globals](../globals.md) / ["responses/user.feed.response"](../modules/_responses_user_feed_response_.md) / [UserFeedResponseFb_user_tags](_responses_user_feed_response_.userfeedresponsefb_user_tags.md) /
 
 # Interface: UserFeedResponseFb_user_tags
 
@@ -20,4 +20,4 @@
 
 • **in**: *any[]*
 
-*Defined in [responses/user.feed.response.ts:90](https://github.com/dilame/instagram-private-api/blob/01eb399/src/responses/user.feed.response.ts#L90)*
+*Defined in [responses/user.feed.response.ts:90](https://github.com/Nerixyz/instagram-private-api/blob/e5037ee/src/responses/user.feed.response.ts#L90)*

@@ -1,6 +1,6 @@
 > **[instagram-private-api](../README.md)**
 
-[Globals](../README.md) / ["responses/media-comments.feed.response"](../modules/_responses_media_comments_feed_response_.md) / [MediaCommentsFeedResponseQuickResponseEmojisItem](_responses_media_comments_feed_response_.mediacommentsfeedresponsequickresponseemojisitem.md) /
+[Globals](../globals.md) / ["responses/media-comments.feed.response"](../modules/_responses_media_comments_feed_response_.md) / [MediaCommentsFeedResponseQuickResponseEmojisItem](_responses_media_comments_feed_response_.mediacommentsfeedresponsequickresponseemojisitem.md) /
 
 # Interface: MediaCommentsFeedResponseQuickResponseEmojisItem
 
@@ -20,4 +20,4 @@
 
 • **unicode**: *string*
 
-*Defined in [responses/media-comments.feed.response.ts:93](https://github.com/dilame/instagram-private-api/blob/01eb399/src/responses/media-comments.feed.response.ts#L93)*
+*Defined in [responses/media-comments.feed.response.ts:93](https://github.com/Nerixyz/instagram-private-api/blob/e5037ee/src/responses/media-comments.feed.response.ts#L93)*

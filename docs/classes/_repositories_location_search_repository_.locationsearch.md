@@ -1,6 +1,6 @@
 > **[instagram-private-api](../README.md)**
 
-[Globals](../README.md) / ["repositories/location-search.repository"](../modules/_repositories_location_search_repository_.md) / [LocationSearch](_repositories_location_search_repository_.locationsearch.md) /
+[Globals](../globals.md) / ["repositories/location-search.repository"](../modules/_repositories_location_search_repository_.md) / [LocationSearch](_repositories_location_search_repository_.locationsearch.md) /
 
 # Class: LocationSearch
 
@@ -28,7 +28,7 @@
 
 *Inherited from [Repository](_core_repository_.repository.md).[constructor](_core_repository_.repository.md#constructor)*
 
-*Defined in [core/repository.ts:6](https://github.com/dilame/instagram-private-api/blob/01eb399/src/core/repository.ts#L6)*
+*Defined in [core/repository.ts:6](https://github.com/Nerixyz/instagram-private-api/blob/e5037ee/src/core/repository.ts#L6)*
 
 **Parameters:**
 
@@ -44,7 +44,7 @@ Name | Type |
 
 ▸ **index**(`latitude`: number, `longitude`: number, `searchQuery?`: string): *`Promise<LocationRepositorySearchResponseRootObject>`*
 
-*Defined in [repositories/location-search.repository.ts:5](https://github.com/dilame/instagram-private-api/blob/01eb399/src/repositories/location-search.repository.ts#L5)*
+*Defined in [repositories/location-search.repository.ts:5](https://github.com/Nerixyz/instagram-private-api/blob/e5037ee/src/repositories/location-search.repository.ts#L5)*
 
 **Parameters:**
 

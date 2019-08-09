@@ -1,6 +1,6 @@
 > **[instagram-private-api](../README.md)**
 
-[Globals](../README.md) / ["responses/timeline.feed.response"](_responses_timeline_feed_response_.md) /
+[Globals](../globals.md) / ["responses/timeline.feed.response"](_responses_timeline_feed_response_.md) /
 
 # External module: "responses/timeline.feed.response"
 

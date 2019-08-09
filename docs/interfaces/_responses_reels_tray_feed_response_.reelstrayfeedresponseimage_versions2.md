@@ -1,6 +1,6 @@
 > **[instagram-private-api](../README.md)**
 
-[Globals](../README.md) / ["responses/reels-tray.feed.response"](../modules/_responses_reels_tray_feed_response_.md) / [ReelsTrayFeedResponseImage_versions2](_responses_reels_tray_feed_response_.reelstrayfeedresponseimage_versions2.md) /
+[Globals](../globals.md) / ["responses/reels-tray.feed.response"](../modules/_responses_reels_tray_feed_response_.md) / [ReelsTrayFeedResponseImage_versions2](_responses_reels_tray_feed_response_.reelstrayfeedresponseimage_versions2.md) /
 
 # Interface: ReelsTrayFeedResponseImage_versions2
 
@@ -20,4 +20,4 @@
 
 • **candidates**: *[ReelsTrayFeedResponseCandidatesItem](_responses_reels_tray_feed_response_.reelstrayfeedresponsecandidatesitem.md)[]*
 
-*Defined in [responses/reels-tray.feed.response.ts:97](https://github.com/dilame/instagram-private-api/blob/01eb399/src/responses/reels-tray.feed.response.ts#L97)*
+*Defined in [responses/reels-tray.feed.response.ts:97](https://github.com/Nerixyz/instagram-private-api/blob/e5037ee/src/responses/reels-tray.feed.response.ts#L97)*

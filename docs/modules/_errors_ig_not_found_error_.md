@@ -1,6 +1,6 @@
 > **[instagram-private-api](../README.md)**
 
-[Globals](../README.md) / ["errors/ig-not-found.error"](_errors_ig_not_found_error_.md) /
+[Globals](../globals.md) / ["errors/ig-not-found.error"](_errors_ig_not_found_error_.md) /
 
 # External module: "errors/ig-not-found.error"
 

@@ -1,6 +1,6 @@
 > **[instagram-private-api](../README.md)**
 
-[Globals](../README.md) / ["responses/location.repository.search.response"](../modules/_responses_location_repository_search_response_.md) / [LocationRepositorySearchResponseRootObject](_responses_location_repository_search_response_.locationrepositorysearchresponserootobject.md) /
+[Globals](../globals.md) / ["responses/location.repository.search.response"](../modules/_responses_location_repository_search_response_.md) / [LocationRepositorySearchResponseRootObject](_responses_location_repository_search_response_.locationrepositorysearchresponserootobject.md) /
 
 # Interface: LocationRepositorySearchResponseRootObject
 
@@ -25,7 +25,7 @@
 
 • **rank_token**: *string*
 
-*Defined in [responses/location.repository.search.response.ts:6](https://github.com/dilame/instagram-private-api/blob/01eb399/src/responses/location.repository.search.response.ts#L6)*
+*Defined in [responses/location.repository.search.response.ts:6](https://github.com/Nerixyz/instagram-private-api/blob/e5037ee/src/responses/location.repository.search.response.ts#L6)*
 
 ___
 
@@ -33,7 +33,7 @@ ___
 
 • **request_id**: *string*
 
-*Defined in [responses/location.repository.search.response.ts:5](https://github.com/dilame/instagram-private-api/blob/01eb399/src/responses/location.repository.search.response.ts#L5)*
+*Defined in [responses/location.repository.search.response.ts:5](https://github.com/Nerixyz/instagram-private-api/blob/e5037ee/src/responses/location.repository.search.response.ts#L5)*
 
 ___
 
@@ -43,7 +43,7 @@ ___
 
 *Inherited from [StatusResponse](_responses_status_response_.statusresponse.md).[status](_responses_status_response_.statusresponse.md#status)*
 
-*Defined in [responses/status.response.ts:2](https://github.com/dilame/instagram-private-api/blob/01eb399/src/responses/status.response.ts#L2)*
+*Defined in [responses/status.response.ts:2](https://github.com/Nerixyz/instagram-private-api/blob/e5037ee/src/responses/status.response.ts#L2)*
 
 ___
 
@@ -51,4 +51,4 @@ ___
 
 • **venues**: *[LocationRepositorySearchResponseVenuesItem](_responses_location_repository_search_response_.locationrepositorysearchresponsevenuesitem.md)[]*
 
-*Defined in [responses/location.repository.search.response.ts:4](https://github.com/dilame/instagram-private-api/blob/01eb399/src/responses/location.repository.search.response.ts#L4)*
+*Defined in [responses/location.repository.search.response.ts:4](https://github.com/Nerixyz/instagram-private-api/blob/e5037ee/src/responses/location.repository.search.response.ts#L4)*

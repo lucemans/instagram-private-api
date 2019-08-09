@@ -1,6 +1,6 @@
 > **[instagram-private-api](../README.md)**
 
-[Globals](../README.md) / ["services/simulate.service"](../modules/_services_simulate_service_.md) / [SimulateService](_services_simulate_service_.simulateservice.md) /
+[Globals](../globals.md) / ["services/simulate.service"](../modules/_services_simulate_service_.md) / [SimulateService](_services_simulate_service_.simulateservice.md) /
 
 # Class: SimulateService
 
@@ -29,7 +29,7 @@
 
 *Inherited from [Repository](_core_repository_.repository.md).[constructor](_core_repository_.repository.md#constructor)*
 
-*Defined in [core/repository.ts:6](https://github.com/dilame/instagram-private-api/blob/01eb399/src/core/repository.ts#L6)*
+*Defined in [core/repository.ts:6](https://github.com/Nerixyz/instagram-private-api/blob/e5037ee/src/core/repository.ts#L6)*
 
 **Parameters:**
 
@@ -45,7 +45,7 @@ Name | Type |
 
 ▸ **postLoginFlow**(`concurrency?`: number, `toShuffle?`: boolean): *`Promise<void>`*
 
-*Defined in [services/simulate.service.ts:71](https://github.com/dilame/instagram-private-api/blob/01eb399/src/services/simulate.service.ts#L71)*
+*Defined in [services/simulate.service.ts:71](https://github.com/Nerixyz/instagram-private-api/blob/e5037ee/src/services/simulate.service.ts#L71)*
 
 **Parameters:**
 
@@ -62,7 +62,7 @@ ___
 
 ▸ **preLoginFlow**(`concurrency?`: number, `toShuffle?`: boolean): *`Promise<void>`*
 
-*Defined in [services/simulate.service.ts:63](https://github.com/dilame/instagram-private-api/blob/01eb399/src/services/simulate.service.ts#L63)*
+*Defined in [services/simulate.service.ts:63](https://github.com/Nerixyz/instagram-private-api/blob/e5037ee/src/services/simulate.service.ts#L63)*
 
 **Parameters:**
 

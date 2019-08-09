@@ -1,6 +1,6 @@
 > **[instagram-private-api](../README.md)**
 
-[Globals](../README.md) / ["entities/profile.entity"](../modules/_entities_profile_entity_.md) / [ProfileEntity](_entities_profile_entity_.profileentity.md) /
+[Globals](../globals.md) / ["entities/profile.entity"](../modules/_entities_profile_entity_.md) / [ProfileEntity](_entities_profile_entity_.profileentity.md) /
 
 # Class: ProfileEntity
 
@@ -41,7 +41,7 @@
 
 *Inherited from [Repository](_core_repository_.repository.md).[constructor](_core_repository_.repository.md#constructor)*
 
-*Defined in [core/repository.ts:6](https://github.com/dilame/instagram-private-api/blob/01eb399/src/core/repository.ts#L6)*
+*Defined in [core/repository.ts:6](https://github.com/Nerixyz/instagram-private-api/blob/e5037ee/src/core/repository.ts#L6)*
 
 **Parameters:**
 
@@ -57,7 +57,7 @@ Name | Type |
 
 • **pk**: *string | number*
 
-*Defined in [entities/profile.entity.ts:4](https://github.com/dilame/instagram-private-api/blob/01eb399/src/entities/profile.entity.ts#L4)*
+*Defined in [entities/profile.entity.ts:4](https://github.com/Nerixyz/instagram-private-api/blob/e5037ee/src/entities/profile.entity.ts#L4)*
 
 ## Methods
 
@@ -65,7 +65,7 @@ Name | Type |
 
 ▸ **checkFollow**(): *`Promise<FriendshipRepositoryChangeResponseFriendship_status>`*
 
-*Defined in [entities/profile.entity.ts:5](https://github.com/dilame/instagram-private-api/blob/01eb399/src/entities/profile.entity.ts#L5)*
+*Defined in [entities/profile.entity.ts:5](https://github.com/Nerixyz/instagram-private-api/blob/e5037ee/src/entities/profile.entity.ts#L5)*
 
 **Returns:** *`Promise<FriendshipRepositoryChangeResponseFriendship_status>`*
 
@@ -75,6 +75,6 @@ ___
 
 ▸ **checkUnfollow**(): *`Promise<FriendshipRepositoryChangeResponseFriendship_status>`*
 
-*Defined in [entities/profile.entity.ts:10](https://github.com/dilame/instagram-private-api/blob/01eb399/src/entities/profile.entity.ts#L10)*
+*Defined in [entities/profile.entity.ts:10](https://github.com/Nerixyz/instagram-private-api/blob/e5037ee/src/entities/profile.entity.ts#L10)*
 
 **Returns:** *`Promise<FriendshipRepositoryChangeResponseFriendship_status>`*

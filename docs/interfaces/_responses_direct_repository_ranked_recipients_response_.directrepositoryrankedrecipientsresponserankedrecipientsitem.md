@@ -1,6 +1,6 @@
 > **[instagram-private-api](../README.md)**
 
-[Globals](../README.md) / ["responses/direct.repository.ranked-recipients.response"](../modules/_responses_direct_repository_ranked_recipients_response_.md) / [DirectRepositoryRankedRecipientsResponseRankedRecipientsItem](_responses_direct_repository_ranked_recipients_response_.directrepositoryrankedrecipientsresponserankedrecipientsitem.md) /
+[Globals](../globals.md) / ["responses/direct.repository.ranked-recipients.response"](../modules/_responses_direct_repository_ranked_recipients_response_.md) / [DirectRepositoryRankedRecipientsResponseRankedRecipientsItem](_responses_direct_repository_ranked_recipients_response_.directrepositoryrankedrecipientsresponserankedrecipientsitem.md) /
 
 # Interface: DirectRepositoryRankedRecipientsResponseRankedRecipientsItem
 
@@ -21,7 +21,7 @@
 
 • **thread**? : *[DirectRepositoryRankedRecipientsResponseThread](_responses_direct_repository_ranked_recipients_response_.directrepositoryrankedrecipientsresponsethread.md)*
 
-*Defined in [responses/direct.repository.ranked-recipients.response.ts:11](https://github.com/dilame/instagram-private-api/blob/01eb399/src/responses/direct.repository.ranked-recipients.response.ts#L11)*
+*Defined in [responses/direct.repository.ranked-recipients.response.ts:11](https://github.com/Nerixyz/instagram-private-api/blob/e5037ee/src/responses/direct.repository.ranked-recipients.response.ts#L11)*
 
 ___
 
@@ -29,4 +29,4 @@ ___
 
 • **user**? : *[DirectRepositoryRankedRecipientsResponseUser](_responses_direct_repository_ranked_recipients_response_.directrepositoryrankedrecipientsresponseuser.md)*
 
-*Defined in [responses/direct.repository.ranked-recipients.response.ts:10](https://github.com/dilame/instagram-private-api/blob/01eb399/src/responses/direct.repository.ranked-recipients.response.ts#L10)*
+*Defined in [responses/direct.repository.ranked-recipients.response.ts:10](https://github.com/Nerixyz/instagram-private-api/blob/e5037ee/src/responses/direct.repository.ranked-recipients.response.ts#L10)*

@@ -1,6 +1,6 @@
 > **[instagram-private-api](../README.md)**
 
-[Globals](../README.md) / ["responses/timeline.feed.response"](../modules/_responses_timeline_feed_response_.md) / [TimelineFeedResponseVideoVersionsItem](_responses_timeline_feed_response_.timelinefeedresponsevideoversionsitem.md) /
+[Globals](../globals.md) / ["responses/timeline.feed.response"](../modules/_responses_timeline_feed_response_.md) / [TimelineFeedResponseVideoVersionsItem](_responses_timeline_feed_response_.timelinefeedresponsevideoversionsitem.md) /
 
 # Interface: TimelineFeedResponseVideoVersionsItem
 
@@ -24,7 +24,7 @@
 
 • **height**: *number*
 
-*Defined in [responses/timeline.feed.response.ts:110](https://github.com/dilame/instagram-private-api/blob/01eb399/src/responses/timeline.feed.response.ts#L110)*
+*Defined in [responses/timeline.feed.response.ts:110](https://github.com/Nerixyz/instagram-private-api/blob/e5037ee/src/responses/timeline.feed.response.ts#L110)*
 
 ___
 
@@ -32,7 +32,7 @@ ___
 
 • **id**: *string*
 
-*Defined in [responses/timeline.feed.response.ts:112](https://github.com/dilame/instagram-private-api/blob/01eb399/src/responses/timeline.feed.response.ts#L112)*
+*Defined in [responses/timeline.feed.response.ts:112](https://github.com/Nerixyz/instagram-private-api/blob/e5037ee/src/responses/timeline.feed.response.ts#L112)*
 
 ___
 
@@ -40,7 +40,7 @@ ___
 
 • **type**: *number*
 
-*Defined in [responses/timeline.feed.response.ts:108](https://github.com/dilame/instagram-private-api/blob/01eb399/src/responses/timeline.feed.response.ts#L108)*
+*Defined in [responses/timeline.feed.response.ts:108](https://github.com/Nerixyz/instagram-private-api/blob/e5037ee/src/responses/timeline.feed.response.ts#L108)*
 
 ___
 
@@ -48,7 +48,7 @@ ___
 
 • **url**: *string*
 
-*Defined in [responses/timeline.feed.response.ts:111](https://github.com/dilame/instagram-private-api/blob/01eb399/src/responses/timeline.feed.response.ts#L111)*
+*Defined in [responses/timeline.feed.response.ts:111](https://github.com/Nerixyz/instagram-private-api/blob/e5037ee/src/responses/timeline.feed.response.ts#L111)*
 
 ___
 
@@ -56,4 +56,4 @@ ___
 
 • **width**: *number*
 
-*Defined in [responses/timeline.feed.response.ts:109](https://github.com/dilame/instagram-private-api/blob/01eb399/src/responses/timeline.feed.response.ts#L109)*
+*Defined in [responses/timeline.feed.response.ts:109](https://github.com/Nerixyz/instagram-private-api/blob/e5037ee/src/responses/timeline.feed.response.ts#L109)*

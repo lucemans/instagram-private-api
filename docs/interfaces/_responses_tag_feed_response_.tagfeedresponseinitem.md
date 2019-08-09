@@ -1,6 +1,6 @@
 > **[instagram-private-api](../README.md)**
 
-[Globals](../README.md) / ["responses/tag.feed.response"](../modules/_responses_tag_feed_response_.md) / [TagFeedResponseInItem](_responses_tag_feed_response_.tagfeedresponseinitem.md) /
+[Globals](../globals.md) / ["responses/tag.feed.response"](../modules/_responses_tag_feed_response_.md) / [TagFeedResponseInItem](_responses_tag_feed_response_.tagfeedresponseinitem.md) /
 
 # Interface: TagFeedResponseInItem
 
@@ -23,7 +23,7 @@
 
 • **duration_in_video_in_sec**: *null*
 
-*Defined in [responses/tag.feed.response.ts:123](https://github.com/dilame/instagram-private-api/blob/01eb399/src/responses/tag.feed.response.ts#L123)*
+*Defined in [responses/tag.feed.response.ts:123](https://github.com/Nerixyz/instagram-private-api/blob/e5037ee/src/responses/tag.feed.response.ts#L123)*
 
 ___
 
@@ -31,7 +31,7 @@ ___
 
 • **position**: *string | number[] | number[]*
 
-*Defined in [responses/tag.feed.response.ts:121](https://github.com/dilame/instagram-private-api/blob/01eb399/src/responses/tag.feed.response.ts#L121)*
+*Defined in [responses/tag.feed.response.ts:121](https://github.com/Nerixyz/instagram-private-api/blob/e5037ee/src/responses/tag.feed.response.ts#L121)*
 
 ___
 
@@ -39,7 +39,7 @@ ___
 
 • **start_time_in_video_in_sec**: *null*
 
-*Defined in [responses/tag.feed.response.ts:122](https://github.com/dilame/instagram-private-api/blob/01eb399/src/responses/tag.feed.response.ts#L122)*
+*Defined in [responses/tag.feed.response.ts:122](https://github.com/Nerixyz/instagram-private-api/blob/e5037ee/src/responses/tag.feed.response.ts#L122)*
 
 ___
 
@@ -47,4 +47,4 @@ ___
 
 • **user**: *[TagFeedResponseUser](_responses_tag_feed_response_.tagfeedresponseuser.md)*
 
-*Defined in [responses/tag.feed.response.ts:120](https://github.com/dilame/instagram-private-api/blob/01eb399/src/responses/tag.feed.response.ts#L120)*
+*Defined in [responses/tag.feed.response.ts:120](https://github.com/Nerixyz/instagram-private-api/blob/e5037ee/src/responses/tag.feed.response.ts#L120)*

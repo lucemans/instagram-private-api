@@ -1,6 +1,6 @@
 > **[instagram-private-api](../README.md)**
 
-[Globals](../README.md) / ["responses/timeline.feed.response"](../modules/_responses_timeline_feed_response_.md) / [TimelineFeedResponsePagination_info](_responses_timeline_feed_response_.timelinefeedresponsepagination_info.md) /
+[Globals](../globals.md) / ["responses/timeline.feed.response"](../modules/_responses_timeline_feed_response_.md) / [TimelineFeedResponsePagination_info](_responses_timeline_feed_response_.timelinefeedresponsepagination_info.md) /
 
 # Interface: TimelineFeedResponsePagination_info
 
@@ -21,7 +21,7 @@
 
 • **group_id**: *null*
 
-*Defined in [responses/timeline.feed.response.ts:284](https://github.com/dilame/instagram-private-api/blob/01eb399/src/responses/timeline.feed.response.ts#L284)*
+*Defined in [responses/timeline.feed.response.ts:284](https://github.com/Nerixyz/instagram-private-api/blob/e5037ee/src/responses/timeline.feed.response.ts#L284)*
 
 ___
 
@@ -29,4 +29,4 @@ ___
 
 • **source**: *null*
 
-*Defined in [responses/timeline.feed.response.ts:283](https://github.com/dilame/instagram-private-api/blob/01eb399/src/responses/timeline.feed.response.ts#L283)*
+*Defined in [responses/timeline.feed.response.ts:283](https://github.com/Nerixyz/instagram-private-api/blob/e5037ee/src/responses/timeline.feed.response.ts#L283)*

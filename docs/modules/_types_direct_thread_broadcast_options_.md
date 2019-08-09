@@ -1,6 +1,6 @@
 > **[instagram-private-api](../README.md)**
 
-[Globals](../README.md) / ["types/direct-thread.broadcast.options"](_types_direct_thread_broadcast_options_.md) /
+[Globals](../globals.md) / ["types/direct-thread.broadcast.options"](_types_direct_thread_broadcast_options_.md) /
 
 # External module: "types/direct-thread.broadcast.options"
 
@@ -16,4 +16,4 @@
 
 Ƭ **DirectThreadBroadcastOptions**: *`DirectTreadBroadcastBaseOptions` & `XOR<ExistingThreadOptions, CreateThreadOptions>`*
 
-*Defined in [types/direct-thread.broadcast.options.ts:16](https://github.com/dilame/instagram-private-api/blob/01eb399/src/types/direct-thread.broadcast.options.ts#L16)*
+*Defined in [types/direct-thread.broadcast.options.ts:16](https://github.com/Nerixyz/instagram-private-api/blob/e5037ee/src/types/direct-thread.broadcast.options.ts#L16)*

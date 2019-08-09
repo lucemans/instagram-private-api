@@ -1,6 +1,6 @@
 > **[instagram-private-api](../README.md)**
 
-[Globals](../README.md) / ["responses/live.switch-comments.response"](_responses_live_switch_comments_response_.md) /
+[Globals](../globals.md) / ["responses/live.switch-comments.response"](_responses_live_switch_comments_response_.md) /
 
 # External module: "responses/live.switch-comments.response"
 

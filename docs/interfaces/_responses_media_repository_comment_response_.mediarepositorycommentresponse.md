@@ -1,6 +1,6 @@
 > **[instagram-private-api](../README.md)**
 
-[Globals](../README.md) / ["responses/media.repository.comment.response"](../modules/_responses_media_repository_comment_response_.md) / [MediaRepositoryCommentResponse](_responses_media_repository_comment_response_.mediarepositorycommentresponse.md) /
+[Globals](../globals.md) / ["responses/media.repository.comment.response"](../modules/_responses_media_repository_comment_response_.md) / [MediaRepositoryCommentResponse](_responses_media_repository_comment_response_.mediarepositorycommentresponse.md) /
 
 # Interface: MediaRepositoryCommentResponse
 
@@ -21,7 +21,7 @@
 
 • **comment**: *[MediaRepositoryCommentResponseComment](_responses_media_repository_comment_response_.mediarepositorycommentresponsecomment.md)*
 
-*Defined in [responses/media.repository.comment.response.ts:2](https://github.com/dilame/instagram-private-api/blob/01eb399/src/responses/media.repository.comment.response.ts#L2)*
+*Defined in [responses/media.repository.comment.response.ts:2](https://github.com/Nerixyz/instagram-private-api/blob/e5037ee/src/responses/media.repository.comment.response.ts#L2)*
 
 ___
 
@@ -29,4 +29,4 @@ ___
 
 • **status**: *string*
 
-*Defined in [responses/media.repository.comment.response.ts:3](https://github.com/dilame/instagram-private-api/blob/01eb399/src/responses/media.repository.comment.response.ts#L3)*
+*Defined in [responses/media.repository.comment.response.ts:3](https://github.com/Nerixyz/instagram-private-api/blob/e5037ee/src/responses/media.repository.comment.response.ts#L3)*

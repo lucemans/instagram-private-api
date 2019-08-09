@@ -1,6 +1,6 @@
 > **[instagram-private-api](../README.md)**
 
-[Globals](../README.md) / ["responses/music.repository.genres.response"](../modules/_responses_music_repository_genres_response_.md) / [MusicRepositoryGenresResponseItemsItem](_responses_music_repository_genres_response_.musicrepositorygenresresponseitemsitem.md) /
+[Globals](../globals.md) / ["responses/music.repository.genres.response"](../modules/_responses_music_repository_genres_response_.md) / [MusicRepositoryGenresResponseItemsItem](_responses_music_repository_genres_response_.musicrepositorygenresresponseitemsitem.md) /
 
 # Interface: MusicRepositoryGenresResponseItemsItem
 
@@ -20,4 +20,4 @@
 
 • **genre**: *[MusicRepositoryGenresResponseGenre](_responses_music_repository_genres_response_.musicrepositorygenresresponsegenre.md)*
 
-*Defined in [responses/music.repository.genres.response.ts:6](https://github.com/dilame/instagram-private-api/blob/01eb399/src/responses/music.repository.genres.response.ts#L6)*
+*Defined in [responses/music.repository.genres.response.ts:6](https://github.com/Nerixyz/instagram-private-api/blob/e5037ee/src/responses/music.repository.genres.response.ts#L6)*

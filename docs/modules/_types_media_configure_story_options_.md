@@ -1,6 +1,6 @@
 > **[instagram-private-api](../README.md)**
 
-[Globals](../README.md) / ["types/media.configure-story.options"](_types_media_configure_story_options_.md) /
+[Globals](../globals.md) / ["types/media.configure-story.options"](_types_media_configure_story_options_.md) /
 
 # External module: "types/media.configure-story.options"
 

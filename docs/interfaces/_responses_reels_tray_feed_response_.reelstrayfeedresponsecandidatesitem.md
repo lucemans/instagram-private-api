@@ -1,6 +1,6 @@
 > **[instagram-private-api](../README.md)**
 
-[Globals](../README.md) / ["responses/reels-tray.feed.response"](../modules/_responses_reels_tray_feed_response_.md) / [ReelsTrayFeedResponseCandidatesItem](_responses_reels_tray_feed_response_.reelstrayfeedresponsecandidatesitem.md) /
+[Globals](../globals.md) / ["responses/reels-tray.feed.response"](../modules/_responses_reels_tray_feed_response_.md) / [ReelsTrayFeedResponseCandidatesItem](_responses_reels_tray_feed_response_.reelstrayfeedresponsecandidatesitem.md) /
 
 # Interface: ReelsTrayFeedResponseCandidatesItem
 
@@ -23,7 +23,7 @@
 
 • **estimated_scans_sizes**: *number[]*
 
-*Defined in [responses/reels-tray.feed.response.ts:103](https://github.com/dilame/instagram-private-api/blob/01eb399/src/responses/reels-tray.feed.response.ts#L103)*
+*Defined in [responses/reels-tray.feed.response.ts:103](https://github.com/Nerixyz/instagram-private-api/blob/e5037ee/src/responses/reels-tray.feed.response.ts#L103)*
 
 ___
 
@@ -31,7 +31,7 @@ ___
 
 • **height**: *number*
 
-*Defined in [responses/reels-tray.feed.response.ts:101](https://github.com/dilame/instagram-private-api/blob/01eb399/src/responses/reels-tray.feed.response.ts#L101)*
+*Defined in [responses/reels-tray.feed.response.ts:101](https://github.com/Nerixyz/instagram-private-api/blob/e5037ee/src/responses/reels-tray.feed.response.ts#L101)*
 
 ___
 
@@ -39,7 +39,7 @@ ___
 
 • **url**: *string*
 
-*Defined in [responses/reels-tray.feed.response.ts:102](https://github.com/dilame/instagram-private-api/blob/01eb399/src/responses/reels-tray.feed.response.ts#L102)*
+*Defined in [responses/reels-tray.feed.response.ts:102](https://github.com/Nerixyz/instagram-private-api/blob/e5037ee/src/responses/reels-tray.feed.response.ts#L102)*
 
 ___
 
@@ -47,4 +47,4 @@ ___
 
 • **width**: *number*
 
-*Defined in [responses/reels-tray.feed.response.ts:100](https://github.com/dilame/instagram-private-api/blob/01eb399/src/responses/reels-tray.feed.response.ts#L100)*
+*Defined in [responses/reels-tray.feed.response.ts:100](https://github.com/Nerixyz/instagram-private-api/blob/e5037ee/src/responses/reels-tray.feed.response.ts#L100)*

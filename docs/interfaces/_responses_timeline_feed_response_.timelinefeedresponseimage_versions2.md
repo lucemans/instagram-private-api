@@ -1,6 +1,6 @@
 > **[instagram-private-api](../README.md)**
 
-[Globals](../README.md) / ["responses/timeline.feed.response"](../modules/_responses_timeline_feed_response_.md) / [TimelineFeedResponseImage_versions2](_responses_timeline_feed_response_.timelinefeedresponseimage_versions2.md) /
+[Globals](../globals.md) / ["responses/timeline.feed.response"](../modules/_responses_timeline_feed_response_.md) / [TimelineFeedResponseImage_versions2](_responses_timeline_feed_response_.timelinefeedresponseimage_versions2.md) /
 
 # Interface: TimelineFeedResponseImage_versions2
 
@@ -20,4 +20,4 @@
 
 • **candidates**: *[TimelineFeedResponseCandidatesItem](_responses_timeline_feed_response_.timelinefeedresponsecandidatesitem.md)[]*
 
-*Defined in [responses/timeline.feed.response.ts:100](https://github.com/dilame/instagram-private-api/blob/01eb399/src/responses/timeline.feed.response.ts#L100)*
+*Defined in [responses/timeline.feed.response.ts:100](https://github.com/Nerixyz/instagram-private-api/blob/e5037ee/src/responses/timeline.feed.response.ts#L100)*

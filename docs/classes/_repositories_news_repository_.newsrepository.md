@@ -1,6 +1,6 @@
 > **[instagram-private-api](../README.md)**
 
-[Globals](../README.md) / ["repositories/news.repository"](../modules/_repositories_news_repository_.md) / [NewsRepository](_repositories_news_repository_.newsrepository.md) /
+[Globals](../globals.md) / ["repositories/news.repository"](../modules/_repositories_news_repository_.md) / [NewsRepository](_repositories_news_repository_.newsrepository.md) /
 
 # Class: NewsRepository
 
@@ -28,7 +28,7 @@
 
 *Inherited from [Repository](_core_repository_.repository.md).[constructor](_core_repository_.repository.md#constructor)*
 
-*Defined in [core/repository.ts:6](https://github.com/dilame/instagram-private-api/blob/01eb399/src/core/repository.ts#L6)*
+*Defined in [core/repository.ts:6](https://github.com/Nerixyz/instagram-private-api/blob/e5037ee/src/core/repository.ts#L6)*
 
 **Parameters:**
 
@@ -44,6 +44,6 @@ Name | Type |
 
 ▸ **inbox**(): *`Promise<NewsRepositoryInboxResponseRootObject>`*
 
-*Defined in [repositories/news.repository.ts:5](https://github.com/dilame/instagram-private-api/blob/01eb399/src/repositories/news.repository.ts#L5)*
+*Defined in [repositories/news.repository.ts:5](https://github.com/Nerixyz/instagram-private-api/blob/e5037ee/src/repositories/news.repository.ts#L5)*
 
 **Returns:** *`Promise<NewsRepositoryInboxResponseRootObject>`*

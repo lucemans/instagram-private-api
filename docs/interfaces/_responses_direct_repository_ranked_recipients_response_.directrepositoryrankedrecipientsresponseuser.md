@@ -1,6 +1,6 @@
 > **[instagram-private-api](../README.md)**
 
-[Globals](../README.md) / ["responses/direct.repository.ranked-recipients.response"](../modules/_responses_direct_repository_ranked_recipients_response_.md) / [DirectRepositoryRankedRecipientsResponseUser](_responses_direct_repository_ranked_recipients_response_.directrepositoryrankedrecipientsresponseuser.md) /
+[Globals](../globals.md) / ["responses/direct.repository.ranked-recipients.response"](../modules/_responses_direct_repository_ranked_recipients_response_.md) / [DirectRepositoryRankedRecipientsResponseUser](_responses_direct_repository_ranked_recipients_response_.directrepositoryrankedrecipientsresponseuser.md) /
 
 # Interface: DirectRepositoryRankedRecipientsResponseUser
 
@@ -29,7 +29,7 @@
 
 • **full_name**: *string*
 
-*Defined in [responses/direct.repository.ranked-recipients.response.ts:17](https://github.com/dilame/instagram-private-api/blob/01eb399/src/responses/direct.repository.ranked-recipients.response.ts#L17)*
+*Defined in [responses/direct.repository.ranked-recipients.response.ts:17](https://github.com/Nerixyz/instagram-private-api/blob/e5037ee/src/responses/direct.repository.ranked-recipients.response.ts#L17)*
 
 ___
 
@@ -37,7 +37,7 @@ ___
 
 • **has_anonymous_profile_picture**: *boolean*
 
-*Defined in [responses/direct.repository.ranked-recipients.response.ts:22](https://github.com/dilame/instagram-private-api/blob/01eb399/src/responses/direct.repository.ranked-recipients.response.ts#L22)*
+*Defined in [responses/direct.repository.ranked-recipients.response.ts:22](https://github.com/Nerixyz/instagram-private-api/blob/e5037ee/src/responses/direct.repository.ranked-recipients.response.ts#L22)*
 
 ___
 
@@ -45,7 +45,7 @@ ___
 
 • **is_directapp_installed**: *boolean*
 
-*Defined in [responses/direct.repository.ranked-recipients.response.ts:23](https://github.com/dilame/instagram-private-api/blob/01eb399/src/responses/direct.repository.ranked-recipients.response.ts#L23)*
+*Defined in [responses/direct.repository.ranked-recipients.response.ts:23](https://github.com/Nerixyz/instagram-private-api/blob/e5037ee/src/responses/direct.repository.ranked-recipients.response.ts#L23)*
 
 ___
 
@@ -53,7 +53,7 @@ ___
 
 • **is_private**: *boolean*
 
-*Defined in [responses/direct.repository.ranked-recipients.response.ts:18](https://github.com/dilame/instagram-private-api/blob/01eb399/src/responses/direct.repository.ranked-recipients.response.ts#L18)*
+*Defined in [responses/direct.repository.ranked-recipients.response.ts:18](https://github.com/Nerixyz/instagram-private-api/blob/e5037ee/src/responses/direct.repository.ranked-recipients.response.ts#L18)*
 
 ___
 
@@ -61,7 +61,7 @@ ___
 
 • **is_using_unified_inbox_for_direct**: *boolean*
 
-*Defined in [responses/direct.repository.ranked-recipients.response.ts:24](https://github.com/dilame/instagram-private-api/blob/01eb399/src/responses/direct.repository.ranked-recipients.response.ts#L24)*
+*Defined in [responses/direct.repository.ranked-recipients.response.ts:24](https://github.com/Nerixyz/instagram-private-api/blob/e5037ee/src/responses/direct.repository.ranked-recipients.response.ts#L24)*
 
 ___
 
@@ -69,7 +69,7 @@ ___
 
 • **is_verified**: *boolean*
 
-*Defined in [responses/direct.repository.ranked-recipients.response.ts:21](https://github.com/dilame/instagram-private-api/blob/01eb399/src/responses/direct.repository.ranked-recipients.response.ts#L21)*
+*Defined in [responses/direct.repository.ranked-recipients.response.ts:21](https://github.com/Nerixyz/instagram-private-api/blob/e5037ee/src/responses/direct.repository.ranked-recipients.response.ts#L21)*
 
 ___
 
@@ -77,7 +77,7 @@ ___
 
 • **pk**: *number*
 
-*Defined in [responses/direct.repository.ranked-recipients.response.ts:15](https://github.com/dilame/instagram-private-api/blob/01eb399/src/responses/direct.repository.ranked-recipients.response.ts#L15)*
+*Defined in [responses/direct.repository.ranked-recipients.response.ts:15](https://github.com/Nerixyz/instagram-private-api/blob/e5037ee/src/responses/direct.repository.ranked-recipients.response.ts#L15)*
 
 ___
 
@@ -85,7 +85,7 @@ ___
 
 • **profile_pic_id**: *string*
 
-*Defined in [responses/direct.repository.ranked-recipients.response.ts:20](https://github.com/dilame/instagram-private-api/blob/01eb399/src/responses/direct.repository.ranked-recipients.response.ts#L20)*
+*Defined in [responses/direct.repository.ranked-recipients.response.ts:20](https://github.com/Nerixyz/instagram-private-api/blob/e5037ee/src/responses/direct.repository.ranked-recipients.response.ts#L20)*
 
 ___
 
@@ -93,7 +93,7 @@ ___
 
 • **profile_pic_url**: *string*
 
-*Defined in [responses/direct.repository.ranked-recipients.response.ts:19](https://github.com/dilame/instagram-private-api/blob/01eb399/src/responses/direct.repository.ranked-recipients.response.ts#L19)*
+*Defined in [responses/direct.repository.ranked-recipients.response.ts:19](https://github.com/Nerixyz/instagram-private-api/blob/e5037ee/src/responses/direct.repository.ranked-recipients.response.ts#L19)*
 
 ___
 
@@ -101,4 +101,4 @@ ___
 
 • **username**: *string*
 
-*Defined in [responses/direct.repository.ranked-recipients.response.ts:16](https://github.com/dilame/instagram-private-api/blob/01eb399/src/responses/direct.repository.ranked-recipients.response.ts#L16)*
+*Defined in [responses/direct.repository.ranked-recipients.response.ts:16](https://github.com/Nerixyz/instagram-private-api/blob/e5037ee/src/responses/direct.repository.ranked-recipients.response.ts#L16)*

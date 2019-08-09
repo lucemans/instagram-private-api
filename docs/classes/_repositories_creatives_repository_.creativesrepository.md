@@ -1,6 +1,6 @@
 > **[instagram-private-api](../README.md)**
 
-[Globals](../README.md) / ["repositories/creatives.repository"](../modules/_repositories_creatives_repository_.md) / [CreativesRepository](_repositories_creatives_repository_.creativesrepository.md) /
+[Globals](../globals.md) / ["repositories/creatives.repository"](../modules/_repositories_creatives_repository_.md) / [CreativesRepository](_repositories_creatives_repository_.creativesrepository.md) /
 
 # Class: CreativesRepository
 
@@ -28,7 +28,7 @@
 
 *Inherited from [Repository](_core_repository_.repository.md).[constructor](_core_repository_.repository.md#constructor)*
 
-*Defined in [core/repository.ts:6](https://github.com/dilame/instagram-private-api/blob/01eb399/src/core/repository.ts#L6)*
+*Defined in [core/repository.ts:6](https://github.com/Nerixyz/instagram-private-api/blob/e5037ee/src/core/repository.ts#L6)*
 
 **Parameters:**
 
@@ -44,6 +44,6 @@ Name | Type |
 
 ▸ **writeSupportedCapabilities**(): *`Promise<any>`*
 
-*Defined in [repositories/creatives.repository.ts:4](https://github.com/dilame/instagram-private-api/blob/01eb399/src/repositories/creatives.repository.ts#L4)*
+*Defined in [repositories/creatives.repository.ts:4](https://github.com/Nerixyz/instagram-private-api/blob/e5037ee/src/repositories/creatives.repository.ts#L4)*
 
 **Returns:** *`Promise<any>`*

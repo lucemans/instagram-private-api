@@ -1,6 +1,6 @@
 > **[instagram-private-api](../README.md)**
 
-[Globals](../README.md) / ["responses/direct-thread.repository.approve-participant-request.response"](_responses_direct_thread_repository_approve_participant_request_response_.md) /
+[Globals](../globals.md) / ["responses/direct-thread.repository.approve-participant-request.response"](_responses_direct_thread_repository_approve_participant_request_response_.md) /
 
 # External module: "responses/direct-thread.repository.approve-participant-request.response"
 

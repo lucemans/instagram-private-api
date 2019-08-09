@@ -1,6 +1,6 @@
 > **[instagram-private-api](../README.md)**
 
-[Globals](../README.md) / ["errors/ig-upload-video-error"](_errors_ig_upload_video_error_.md) /
+[Globals](../globals.md) / ["errors/ig-upload-video-error"](_errors_ig_upload_video_error_.md) /
 
 # External module: "errors/ig-upload-video-error"
 

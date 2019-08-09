@@ -1,6 +1,6 @@
 > **[instagram-private-api](../README.md)**
 
-[Globals](../README.md) / ["responses/media.repository.info.response"](../modules/_responses_media_repository_info_response_.md) / [MediaInfoResponseFriendship_status](_responses_media_repository_info_response_.mediainforesponsefriendship_status.md) /
+[Globals](../globals.md) / ["responses/media.repository.info.response"](../modules/_responses_media_repository_info_response_.md) / [MediaInfoResponseFriendship_status](_responses_media_repository_info_response_.mediainforesponsefriendship_status.md) /
 
 # Interface: MediaInfoResponseFriendship_status
 
@@ -23,7 +23,7 @@
 
 • **following**: *boolean*
 
-*Defined in [responses/media.repository.info.response.ts:62](https://github.com/dilame/instagram-private-api/blob/01eb399/src/responses/media.repository.info.response.ts#L62)*
+*Defined in [responses/media.repository.info.response.ts:62](https://github.com/Nerixyz/instagram-private-api/blob/e5037ee/src/responses/media.repository.info.response.ts#L62)*
 
 ___
 
@@ -31,7 +31,7 @@ ___
 
 • **is_bestie**: *boolean*
 
-*Defined in [responses/media.repository.info.response.ts:64](https://github.com/dilame/instagram-private-api/blob/01eb399/src/responses/media.repository.info.response.ts#L64)*
+*Defined in [responses/media.repository.info.response.ts:64](https://github.com/Nerixyz/instagram-private-api/blob/e5037ee/src/responses/media.repository.info.response.ts#L64)*
 
 ___
 
@@ -39,7 +39,7 @@ ___
 
 • **is_restricted**: *boolean*
 
-*Defined in [responses/media.repository.info.response.ts:65](https://github.com/dilame/instagram-private-api/blob/01eb399/src/responses/media.repository.info.response.ts#L65)*
+*Defined in [responses/media.repository.info.response.ts:65](https://github.com/Nerixyz/instagram-private-api/blob/e5037ee/src/responses/media.repository.info.response.ts#L65)*
 
 ___
 
@@ -47,4 +47,4 @@ ___
 
 • **outgoing_request**: *boolean*
 
-*Defined in [responses/media.repository.info.response.ts:63](https://github.com/dilame/instagram-private-api/blob/01eb399/src/responses/media.repository.info.response.ts#L63)*
+*Defined in [responses/media.repository.info.response.ts:63](https://github.com/Nerixyz/instagram-private-api/blob/e5037ee/src/responses/media.repository.info.response.ts#L63)*

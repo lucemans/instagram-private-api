@@ -1,6 +1,6 @@
 > **[instagram-private-api](../README.md)**
 
-[Globals](../README.md) / ["responses/news.repository.inbox.response"](../modules/_responses_news_repository_inbox_response_.md) / [NewsRepositoryInboxResponseMediaItem](_responses_news_repository_inbox_response_.newsrepositoryinboxresponsemediaitem.md) /
+[Globals](../globals.md) / ["responses/news.repository.inbox.response"](../modules/_responses_news_repository_inbox_response_.md) / [NewsRepositoryInboxResponseMediaItem](_responses_news_repository_inbox_response_.newsrepositoryinboxresponsemediaitem.md) /
 
 # Interface: NewsRepositoryInboxResponseMediaItem
 
@@ -22,7 +22,7 @@
 
 • **comment_threading_enabled**? : *boolean*
 
-*Defined in [responses/news.repository.inbox.response.ts:96](https://github.com/dilame/instagram-private-api/blob/01eb399/src/responses/news.repository.inbox.response.ts#L96)*
+*Defined in [responses/news.repository.inbox.response.ts:96](https://github.com/Nerixyz/instagram-private-api/blob/e5037ee/src/responses/news.repository.inbox.response.ts#L96)*
 
 ___
 
@@ -30,7 +30,7 @@ ___
 
 • **id**: *string*
 
-*Defined in [responses/news.repository.inbox.response.ts:94](https://github.com/dilame/instagram-private-api/blob/01eb399/src/responses/news.repository.inbox.response.ts#L94)*
+*Defined in [responses/news.repository.inbox.response.ts:94](https://github.com/Nerixyz/instagram-private-api/blob/e5037ee/src/responses/news.repository.inbox.response.ts#L94)*
 
 ___
 
@@ -38,4 +38,4 @@ ___
 
 • **image**: *string*
 
-*Defined in [responses/news.repository.inbox.response.ts:95](https://github.com/dilame/instagram-private-api/blob/01eb399/src/responses/news.repository.inbox.response.ts#L95)*
+*Defined in [responses/news.repository.inbox.response.ts:95](https://github.com/Nerixyz/instagram-private-api/blob/e5037ee/src/responses/news.repository.inbox.response.ts#L95)*

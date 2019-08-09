@@ -1,6 +1,6 @@
 > **[instagram-private-api](../README.md)**
 
-[Globals](../README.md) / ["responses/upload.repository.photo.response"](_responses_upload_repository_photo_response_.md) /
+[Globals](../globals.md) / ["responses/upload.repository.photo.response"](_responses_upload_repository_photo_response_.md) /
 
 # External module: "responses/upload.repository.photo.response"
 

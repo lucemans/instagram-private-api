@@ -1,6 +1,6 @@
 > **[instagram-private-api](../README.md)**
 
-[Globals](../README.md) / ["responses/account.repository.login.error.response"](../modules/_responses_account_repository_login_error_response_.md) / [AccountRepositoryLoginErrorResponsePhoneVerificationSettings](_responses_account_repository_login_error_response_.accountrepositoryloginerrorresponsephoneverificationsettings.md) /
+[Globals](../globals.md) / ["responses/account.repository.login.error.response"](../modules/_responses_account_repository_login_error_response_.md) / [AccountRepositoryLoginErrorResponsePhoneVerificationSettings](_responses_account_repository_login_error_response_.accountrepositoryloginerrorresponsephoneverificationsettings.md) /
 
 # Interface: AccountRepositoryLoginErrorResponsePhoneVerificationSettings
 
@@ -23,7 +23,7 @@
 
 • **max_sms_count**: *number*
 
-*Defined in [responses/account.repository.login.error.response.ts:25](https://github.com/dilame/instagram-private-api/blob/01eb399/src/responses/account.repository.login.error.response.ts#L25)*
+*Defined in [responses/account.repository.login.error.response.ts:25](https://github.com/Nerixyz/instagram-private-api/blob/e5037ee/src/responses/account.repository.login.error.response.ts#L25)*
 
 ___
 
@@ -31,7 +31,7 @@ ___
 
 • **resend_sms_delay_sec**: *number*
 
-*Defined in [responses/account.repository.login.error.response.ts:26](https://github.com/dilame/instagram-private-api/blob/01eb399/src/responses/account.repository.login.error.response.ts#L26)*
+*Defined in [responses/account.repository.login.error.response.ts:26](https://github.com/Nerixyz/instagram-private-api/blob/e5037ee/src/responses/account.repository.login.error.response.ts#L26)*
 
 ___
 
@@ -39,7 +39,7 @@ ___
 
 • **robocall_after_max_sms**: *boolean*
 
-*Defined in [responses/account.repository.login.error.response.ts:28](https://github.com/dilame/instagram-private-api/blob/01eb399/src/responses/account.repository.login.error.response.ts#L28)*
+*Defined in [responses/account.repository.login.error.response.ts:28](https://github.com/Nerixyz/instagram-private-api/blob/e5037ee/src/responses/account.repository.login.error.response.ts#L28)*
 
 ___
 
@@ -47,4 +47,4 @@ ___
 
 • **robocall_count_down_time_sec**: *number*
 
-*Defined in [responses/account.repository.login.error.response.ts:27](https://github.com/dilame/instagram-private-api/blob/01eb399/src/responses/account.repository.login.error.response.ts#L27)*
+*Defined in [responses/account.repository.login.error.response.ts:27](https://github.com/Nerixyz/instagram-private-api/blob/e5037ee/src/responses/account.repository.login.error.response.ts#L27)*

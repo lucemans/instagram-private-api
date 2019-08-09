@@ -1,6 +1,6 @@
 > **[instagram-private-api](../README.md)**
 
-[Globals](../README.md) / ["repositories/music.repository"](../modules/_repositories_music_repository_.md) / [MusicRepository](_repositories_music_repository_.musicrepository.md) /
+[Globals](../globals.md) / ["repositories/music.repository"](../modules/_repositories_music_repository_.md) / [MusicRepository](_repositories_music_repository_.musicrepository.md) /
 
 # Class: MusicRepository
 
@@ -30,7 +30,7 @@
 
 *Inherited from [Repository](_core_repository_.repository.md).[constructor](_core_repository_.repository.md#constructor)*
 
-*Defined in [core/repository.ts:6](https://github.com/dilame/instagram-private-api/blob/01eb399/src/core/repository.ts#L6)*
+*Defined in [core/repository.ts:6](https://github.com/Nerixyz/instagram-private-api/blob/e5037ee/src/core/repository.ts#L6)*
 
 **Parameters:**
 
@@ -46,7 +46,7 @@ Name | Type |
 
 ▸ **genres**(`product?`: [IgAppModule](../modules/_types_common_types_.md#igappmodule)): *`Promise<MusicRepositoryGenresResponseRootObject>`*
 
-*Defined in [repositories/music.repository.ts:22](https://github.com/dilame/instagram-private-api/blob/01eb399/src/repositories/music.repository.ts#L22)*
+*Defined in [repositories/music.repository.ts:22](https://github.com/Nerixyz/instagram-private-api/blob/e5037ee/src/repositories/music.repository.ts#L22)*
 
 **Parameters:**
 
@@ -62,7 +62,7 @@ ___
 
 ▸ **lyrics**(`trackId`: number | string): *`Promise<MusicRepositoryLyricsResponseRootObject>`*
 
-*Defined in [repositories/music.repository.ts:37](https://github.com/dilame/instagram-private-api/blob/01eb399/src/repositories/music.repository.ts#L37)*
+*Defined in [repositories/music.repository.ts:37](https://github.com/Nerixyz/instagram-private-api/blob/e5037ee/src/repositories/music.repository.ts#L37)*
 
 **Parameters:**
 
@@ -78,7 +78,7 @@ ___
 
 ▸ **moods**(`product?`: [IgAppModule](../modules/_types_common_types_.md#igappmodule)): *`Promise<MusicRepositoryMoodsResponseRootObject>`*
 
-*Defined in [repositories/music.repository.ts:7](https://github.com/dilame/instagram-private-api/blob/01eb399/src/repositories/music.repository.ts#L7)*
+*Defined in [repositories/music.repository.ts:7](https://github.com/Nerixyz/instagram-private-api/blob/e5037ee/src/repositories/music.repository.ts#L7)*
 
 **Parameters:**
 

@@ -1,6 +1,6 @@
 > **[instagram-private-api](../README.md)**
 
-[Globals](../README.md) / ["responses/live.start-broadcast.response"](../modules/_responses_live_start_broadcast_response_.md) / [LiveStartBroadcastResponseRootObject](_responses_live_start_broadcast_response_.livestartbroadcastresponserootobject.md) /
+[Globals](../globals.md) / ["responses/live.start-broadcast.response"](../modules/_responses_live_start_broadcast_response_.md) / [LiveStartBroadcastResponseRootObject](_responses_live_start_broadcast_response_.livestartbroadcastresponserootobject.md) /
 
 # Interface: LiveStartBroadcastResponseRootObject
 
@@ -21,7 +21,7 @@
 
 • **media_id**: *string*
 
-*Defined in [responses/live.start-broadcast.response.ts:2](https://github.com/dilame/instagram-private-api/blob/01eb399/src/responses/live.start-broadcast.response.ts#L2)*
+*Defined in [responses/live.start-broadcast.response.ts:2](https://github.com/Nerixyz/instagram-private-api/blob/e5037ee/src/responses/live.start-broadcast.response.ts#L2)*
 
 ___
 
@@ -29,4 +29,4 @@ ___
 
 • **status**: *string*
 
-*Defined in [responses/live.start-broadcast.response.ts:3](https://github.com/dilame/instagram-private-api/blob/01eb399/src/responses/live.start-broadcast.response.ts#L3)*
+*Defined in [responses/live.start-broadcast.response.ts:3](https://github.com/Nerixyz/instagram-private-api/blob/e5037ee/src/responses/live.start-broadcast.response.ts#L3)*

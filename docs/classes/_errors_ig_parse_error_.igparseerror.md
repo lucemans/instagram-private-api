@@ -1,6 +1,6 @@
 > **[instagram-private-api](../README.md)**
 
-[Globals](../README.md) / ["errors/ig-parse.error"](../modules/_errors_ig_parse_error_.md) / [IgParseError](_errors_ig_parse_error_.igparseerror.md) /
+[Globals](../globals.md) / ["errors/ig-parse.error"](../modules/_errors_ig_parse_error_.md) / [IgParseError](_errors_ig_parse_error_.igparseerror.md) /
 
 # Class: IgParseError
 
@@ -31,7 +31,7 @@
 
 *Overrides [IgClientError](_errors_ig_client_error_.igclienterror.md).[constructor](_errors_ig_client_error_.igclienterror.md#constructor)*
 
-*Defined in [errors/ig-parse.error.ts:3](https://github.com/dilame/instagram-private-api/blob/01eb399/src/errors/ig-parse.error.ts#L3)*
+*Defined in [errors/ig-parse.error.ts:3](https://github.com/Nerixyz/instagram-private-api/blob/e5037ee/src/errors/ig-parse.error.ts#L3)*
 
 **Parameters:**
 
@@ -47,7 +47,7 @@ Name | Type |
 
 • **body**: *string*
 
-*Defined in [errors/ig-parse.error.ts:4](https://github.com/dilame/instagram-private-api/blob/01eb399/src/errors/ig-parse.error.ts#L4)*
+*Defined in [errors/ig-parse.error.ts:4](https://github.com/Nerixyz/instagram-private-api/blob/e5037ee/src/errors/ig-parse.error.ts#L4)*
 
 ___
 
@@ -57,7 +57,7 @@ ___
 
 *Inherited from void*
 
-Defined in /Users/bowzee/WebstormProjects/instagram-private-api/node_modules/typedoc/node_modules/typescript/lib/lib.es5.d.ts:964
+Defined in D:/GitHubDesktopRepos/SKMNetSharp/instagram-private-api/node_modules/typedoc/node_modules/typescript/lib/lib.es5.d.ts:964
 
 ___
 
@@ -69,7 +69,7 @@ ___
 
 *Overrides void*
 
-Defined in /Users/bowzee/WebstormProjects/instagram-private-api/node_modules/ts-custom-error/dist/custom-error.d.ts:2
+Defined in D:/GitHubDesktopRepos/SKMNetSharp/instagram-private-api/node_modules/ts-custom-error/dist/custom-error.d.ts:2
 
 ___
 
@@ -81,4 +81,4 @@ ___
 
 *Overrides void*
 
-Defined in /Users/bowzee/WebstormProjects/instagram-private-api/node_modules/typedoc/node_modules/typescript/lib/lib.es5.d.ts:965
+Defined in D:/GitHubDesktopRepos/SKMNetSharp/instagram-private-api/node_modules/typedoc/node_modules/typescript/lib/lib.es5.d.ts:965

@@ -1,6 +1,6 @@
 > **[instagram-private-api](../README.md)**
 
-[Globals](../README.md) / ["responses/challenge.state.response"](_responses_challenge_state_response_.md) /
+[Globals](../globals.md) / ["responses/challenge.state.response"](_responses_challenge_state_response_.md) /
 
 # External module: "responses/challenge.state.response"
 

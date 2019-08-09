@@ -1,6 +1,6 @@
 > **[instagram-private-api](../README.md)**
 
-[Globals](../README.md) / ["types/media.configure-sidecar.options"](_types_media_configure_sidecar_options_.md) /
+[Globals](../globals.md) / ["types/media.configure-sidecar.options"](_types_media_configure_sidecar_options_.md) /
 
 # External module: "types/media.configure-sidecar.options"
 

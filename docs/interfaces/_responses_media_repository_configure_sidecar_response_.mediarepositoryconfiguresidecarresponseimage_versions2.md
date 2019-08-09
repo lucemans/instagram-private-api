@@ -1,6 +1,6 @@
 > **[instagram-private-api](../README.md)**
 
-[Globals](../README.md) / ["responses/media.repository.configure-sidecar.response"](../modules/_responses_media_repository_configure_sidecar_response_.md) / [MediaRepositoryConfigureSidecarResponseImage_versions2](_responses_media_repository_configure_sidecar_response_.mediarepositoryconfiguresidecarresponseimage_versions2.md) /
+[Globals](../globals.md) / ["responses/media.repository.configure-sidecar.response"](../modules/_responses_media_repository_configure_sidecar_response_.md) / [MediaRepositoryConfigureSidecarResponseImage_versions2](_responses_media_repository_configure_sidecar_response_.mediarepositoryconfiguresidecarresponseimage_versions2.md) /
 
 # Interface: MediaRepositoryConfigureSidecarResponseImage_versions2
 
@@ -20,4 +20,4 @@
 
 • **candidates**: *[MediaRepositoryConfigureSidecarResponseCandidatesItem](_responses_media_repository_configure_sidecar_response_.mediarepositoryconfiguresidecarresponsecandidatesitem.md)[]*
 
-*Defined in [responses/media.repository.configure-sidecar.response.ts:49](https://github.com/dilame/instagram-private-api/blob/01eb399/src/responses/media.repository.configure-sidecar.response.ts#L49)*
+*Defined in [responses/media.repository.configure-sidecar.response.ts:49](https://github.com/Nerixyz/instagram-private-api/blob/e5037ee/src/responses/media.repository.configure-sidecar.response.ts#L49)*

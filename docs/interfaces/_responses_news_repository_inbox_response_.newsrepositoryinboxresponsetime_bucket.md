@@ -1,6 +1,6 @@
 > **[instagram-private-api](../README.md)**
 
-[Globals](../README.md) / ["responses/news.repository.inbox.response"](../modules/_responses_news_repository_inbox_response_.md) / [NewsRepositoryInboxResponseTime_bucket](_responses_news_repository_inbox_response_.newsrepositoryinboxresponsetime_bucket.md) /
+[Globals](../globals.md) / ["responses/news.repository.inbox.response"](../modules/_responses_news_repository_inbox_response_.md) / [NewsRepositoryInboxResponseTime_bucket](_responses_news_repository_inbox_response_.newsrepositoryinboxresponsetime_bucket.md) /
 
 # Interface: NewsRepositoryInboxResponseTime_bucket
 
@@ -21,7 +21,7 @@
 
 • **headers**: *string[]*
 
-*Defined in [responses/news.repository.inbox.response.ts:114](https://github.com/dilame/instagram-private-api/blob/01eb399/src/responses/news.repository.inbox.response.ts#L114)*
+*Defined in [responses/news.repository.inbox.response.ts:114](https://github.com/Nerixyz/instagram-private-api/blob/e5037ee/src/responses/news.repository.inbox.response.ts#L114)*
 
 ___
 
@@ -29,4 +29,4 @@ ___
 
 • **indices**: *number[]*
 
-*Defined in [responses/news.repository.inbox.response.ts:115](https://github.com/dilame/instagram-private-api/blob/01eb399/src/responses/news.repository.inbox.response.ts#L115)*
+*Defined in [responses/news.repository.inbox.response.ts:115](https://github.com/Nerixyz/instagram-private-api/blob/e5037ee/src/responses/news.repository.inbox.response.ts#L115)*

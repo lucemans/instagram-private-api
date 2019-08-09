@@ -1,6 +1,6 @@
 > **[instagram-private-api](../README.md)**
 
-[Globals](../README.md) / ["responses/direct-thread.repository.approve-participant-request.response"](../modules/_responses_direct_thread_repository_approve_participant_request_response_.md) / [DirectThreadRepositoryApproveParticipantRequestResponseFriendship_status](_responses_direct_thread_repository_approve_participant_request_response_.directthreadrepositoryapproveparticipantrequestresponsefriendship_status.md) /
+[Globals](../globals.md) / ["responses/direct-thread.repository.approve-participant-request.response"](../modules/_responses_direct_thread_repository_approve_participant_request_response_.md) / [DirectThreadRepositoryApproveParticipantRequestResponseFriendship_status](_responses_direct_thread_repository_approve_participant_request_response_.directthreadrepositoryapproveparticipantrequestresponsefriendship_status.md) /
 
 # Interface: DirectThreadRepositoryApproveParticipantRequestResponseFriendship_status
 
@@ -26,7 +26,7 @@
 
 • **blocking**: *boolean*
 
-*Defined in [responses/direct-thread.repository.approve-participant-request.response.ts:57](https://github.com/dilame/instagram-private-api/blob/01eb399/src/responses/direct-thread.repository.approve-participant-request.response.ts#L57)*
+*Defined in [responses/direct-thread.repository.approve-participant-request.response.ts:57](https://github.com/Nerixyz/instagram-private-api/blob/e5037ee/src/responses/direct-thread.repository.approve-participant-request.response.ts#L57)*
 
 ___
 
@@ -34,7 +34,7 @@ ___
 
 • **following**: *boolean*
 
-*Defined in [responses/direct-thread.repository.approve-participant-request.response.ts:56](https://github.com/dilame/instagram-private-api/blob/01eb399/src/responses/direct-thread.repository.approve-participant-request.response.ts#L56)*
+*Defined in [responses/direct-thread.repository.approve-participant-request.response.ts:56](https://github.com/Nerixyz/instagram-private-api/blob/e5037ee/src/responses/direct-thread.repository.approve-participant-request.response.ts#L56)*
 
 ___
 
@@ -42,7 +42,7 @@ ___
 
 • **incoming_request**: *boolean*
 
-*Defined in [responses/direct-thread.repository.approve-participant-request.response.ts:59](https://github.com/dilame/instagram-private-api/blob/01eb399/src/responses/direct-thread.repository.approve-participant-request.response.ts#L59)*
+*Defined in [responses/direct-thread.repository.approve-participant-request.response.ts:59](https://github.com/Nerixyz/instagram-private-api/blob/e5037ee/src/responses/direct-thread.repository.approve-participant-request.response.ts#L59)*
 
 ___
 
@@ -50,7 +50,7 @@ ___
 
 • **is_bestie**: *boolean*
 
-*Defined in [responses/direct-thread.repository.approve-participant-request.response.ts:61](https://github.com/dilame/instagram-private-api/blob/01eb399/src/responses/direct-thread.repository.approve-participant-request.response.ts#L61)*
+*Defined in [responses/direct-thread.repository.approve-participant-request.response.ts:61](https://github.com/Nerixyz/instagram-private-api/blob/e5037ee/src/responses/direct-thread.repository.approve-participant-request.response.ts#L61)*
 
 ___
 
@@ -58,7 +58,7 @@ ___
 
 • **is_private**: *boolean*
 
-*Defined in [responses/direct-thread.repository.approve-participant-request.response.ts:58](https://github.com/dilame/instagram-private-api/blob/01eb399/src/responses/direct-thread.repository.approve-participant-request.response.ts#L58)*
+*Defined in [responses/direct-thread.repository.approve-participant-request.response.ts:58](https://github.com/Nerixyz/instagram-private-api/blob/e5037ee/src/responses/direct-thread.repository.approve-participant-request.response.ts#L58)*
 
 ___
 
@@ -66,7 +66,7 @@ ___
 
 • **is_restricted**: *boolean*
 
-*Defined in [responses/direct-thread.repository.approve-participant-request.response.ts:62](https://github.com/dilame/instagram-private-api/blob/01eb399/src/responses/direct-thread.repository.approve-participant-request.response.ts#L62)*
+*Defined in [responses/direct-thread.repository.approve-participant-request.response.ts:62](https://github.com/Nerixyz/instagram-private-api/blob/e5037ee/src/responses/direct-thread.repository.approve-participant-request.response.ts#L62)*
 
 ___
 
@@ -74,4 +74,4 @@ ___
 
 • **outgoing_request**: *boolean*
 
-*Defined in [responses/direct-thread.repository.approve-participant-request.response.ts:60](https://github.com/dilame/instagram-private-api/blob/01eb399/src/responses/direct-thread.repository.approve-participant-request.response.ts#L60)*
+*Defined in [responses/direct-thread.repository.approve-participant-request.response.ts:60](https://github.com/Nerixyz/instagram-private-api/blob/e5037ee/src/responses/direct-thread.repository.approve-participant-request.response.ts#L60)*

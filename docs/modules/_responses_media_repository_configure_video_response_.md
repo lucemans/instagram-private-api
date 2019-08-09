@@ -1,6 +1,6 @@
 > **[instagram-private-api](../README.md)**
 
-[Globals](../README.md) / ["responses/media.repository.configure-video.response"](_responses_media_repository_configure_video_response_.md) /
+[Globals](../globals.md) / ["responses/media.repository.configure-video.response"](_responses_media_repository_configure_video_response_.md) /
 
 # External module: "responses/media.repository.configure-video.response"
 

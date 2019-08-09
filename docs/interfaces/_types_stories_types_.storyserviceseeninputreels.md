@@ -1,6 +1,6 @@
 > **[instagram-private-api](../README.md)**
 
-[Globals](../README.md) / ["types/stories.types"](../modules/_types_stories_types_.md) / [StoryServiceSeenInputReels](_types_stories_types_.storyserviceseeninputreels.md) /
+[Globals](../globals.md) / ["types/stories.types"](../modules/_types_stories_types_.md) / [StoryServiceSeenInputReels](_types_stories_types_.storyserviceseeninputreels.md) /
 
 # Interface: StoryServiceSeenInputReels
 
@@ -20,4 +20,4 @@
 
 • **items**: *[StoryServiceSeenInputItems](_types_stories_types_.storyserviceseeninputitems.md)[]*
 
-*Defined in [types/stories.types.ts:10](https://github.com/dilame/instagram-private-api/blob/01eb399/src/types/stories.types.ts#L10)*
+*Defined in [types/stories.types.ts:10](https://github.com/Nerixyz/instagram-private-api/blob/e5037ee/src/types/stories.types.ts#L10)*

@@ -1,6 +1,6 @@
 > **[instagram-private-api](../README.md)**
 
-[Globals](../README.md) / ["responses/direct-thread.repository.update-title.response"](../modules/_responses_direct_thread_repository_update_title_response_.md) / [DirectThreadRepositoryUpdateTitleResponseBoldItem](_responses_direct_thread_repository_update_title_response_.directthreadrepositoryupdatetitleresponsebolditem.md) /
+[Globals](../globals.md) / ["responses/direct-thread.repository.update-title.response"](../modules/_responses_direct_thread_repository_update_title_response_.md) / [DirectThreadRepositoryUpdateTitleResponseBoldItem](_responses_direct_thread_repository_update_title_response_.directthreadrepositoryupdatetitleresponsebolditem.md) /
 
 # Interface: DirectThreadRepositoryUpdateTitleResponseBoldItem
 
@@ -21,7 +21,7 @@
 
 • **end**: *number*
 
-*Defined in [responses/direct-thread.repository.update-title.response.ts:89](https://github.com/dilame/instagram-private-api/blob/01eb399/src/responses/direct-thread.repository.update-title.response.ts#L89)*
+*Defined in [responses/direct-thread.repository.update-title.response.ts:89](https://github.com/Nerixyz/instagram-private-api/blob/e5037ee/src/responses/direct-thread.repository.update-title.response.ts#L89)*
 
 ___
 
@@ -29,4 +29,4 @@ ___
 
 • **start**: *number*
 
-*Defined in [responses/direct-thread.repository.update-title.response.ts:88](https://github.com/dilame/instagram-private-api/blob/01eb399/src/responses/direct-thread.repository.update-title.response.ts#L88)*
+*Defined in [responses/direct-thread.repository.update-title.response.ts:88](https://github.com/Nerixyz/instagram-private-api/blob/e5037ee/src/responses/direct-thread.repository.update-title.response.ts#L88)*

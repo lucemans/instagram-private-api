@@ -1,6 +1,6 @@
 > **[instagram-private-api](../README.md)**
 
-[Globals](../README.md) / ["responses/saved.feed.response"](../modules/_responses_saved_feed_response_.md) / [SavedFeedResponseFriendship_status](_responses_saved_feed_response_.savedfeedresponsefriendship_status.md) /
+[Globals](../globals.md) / ["responses/saved.feed.response"](../modules/_responses_saved_feed_response_.md) / [SavedFeedResponseFriendship_status](_responses_saved_feed_response_.savedfeedresponsefriendship_status.md) /
 
 # Interface: SavedFeedResponseFriendship_status
 
@@ -23,7 +23,7 @@
 
 • **following**: *boolean*
 
-*Defined in [responses/saved.feed.response.ts:87](https://github.com/dilame/instagram-private-api/blob/01eb399/src/responses/saved.feed.response.ts#L87)*
+*Defined in [responses/saved.feed.response.ts:87](https://github.com/Nerixyz/instagram-private-api/blob/e5037ee/src/responses/saved.feed.response.ts#L87)*
 
 ___
 
@@ -31,7 +31,7 @@ ___
 
 • **is_bestie**: *boolean*
 
-*Defined in [responses/saved.feed.response.ts:89](https://github.com/dilame/instagram-private-api/blob/01eb399/src/responses/saved.feed.response.ts#L89)*
+*Defined in [responses/saved.feed.response.ts:89](https://github.com/Nerixyz/instagram-private-api/blob/e5037ee/src/responses/saved.feed.response.ts#L89)*
 
 ___
 
@@ -39,7 +39,7 @@ ___
 
 • **is_restricted**: *boolean*
 
-*Defined in [responses/saved.feed.response.ts:90](https://github.com/dilame/instagram-private-api/blob/01eb399/src/responses/saved.feed.response.ts#L90)*
+*Defined in [responses/saved.feed.response.ts:90](https://github.com/Nerixyz/instagram-private-api/blob/e5037ee/src/responses/saved.feed.response.ts#L90)*
 
 ___
 
@@ -47,4 +47,4 @@ ___
 
 • **outgoing_request**: *boolean*
 
-*Defined in [responses/saved.feed.response.ts:88](https://github.com/dilame/instagram-private-api/blob/01eb399/src/responses/saved.feed.response.ts#L88)*
+*Defined in [responses/saved.feed.response.ts:88](https://github.com/Nerixyz/instagram-private-api/blob/e5037ee/src/responses/saved.feed.response.ts#L88)*

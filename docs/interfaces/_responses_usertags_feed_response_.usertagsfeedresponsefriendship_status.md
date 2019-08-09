@@ -1,6 +1,6 @@
 > **[instagram-private-api](../README.md)**
 
-[Globals](../README.md) / ["responses/usertags.feed.response"](../modules/_responses_usertags_feed_response_.md) / [UsertagsFeedResponseFriendship_status](_responses_usertags_feed_response_.usertagsfeedresponsefriendship_status.md) /
+[Globals](../globals.md) / ["responses/usertags.feed.response"](../modules/_responses_usertags_feed_response_.md) / [UsertagsFeedResponseFriendship_status](_responses_usertags_feed_response_.usertagsfeedresponsefriendship_status.md) /
 
 # Interface: UsertagsFeedResponseFriendship_status
 
@@ -23,7 +23,7 @@
 
 • **following**: *boolean*
 
-*Defined in [responses/usertags.feed.response.ts:71](https://github.com/dilame/instagram-private-api/blob/01eb399/src/responses/usertags.feed.response.ts#L71)*
+*Defined in [responses/usertags.feed.response.ts:71](https://github.com/Nerixyz/instagram-private-api/blob/e5037ee/src/responses/usertags.feed.response.ts#L71)*
 
 ___
 
@@ -31,7 +31,7 @@ ___
 
 • **is_bestie**: *boolean*
 
-*Defined in [responses/usertags.feed.response.ts:73](https://github.com/dilame/instagram-private-api/blob/01eb399/src/responses/usertags.feed.response.ts#L73)*
+*Defined in [responses/usertags.feed.response.ts:73](https://github.com/Nerixyz/instagram-private-api/blob/e5037ee/src/responses/usertags.feed.response.ts#L73)*
 
 ___
 
@@ -39,7 +39,7 @@ ___
 
 • **is_restricted**: *boolean*
 
-*Defined in [responses/usertags.feed.response.ts:74](https://github.com/dilame/instagram-private-api/blob/01eb399/src/responses/usertags.feed.response.ts#L74)*
+*Defined in [responses/usertags.feed.response.ts:74](https://github.com/Nerixyz/instagram-private-api/blob/e5037ee/src/responses/usertags.feed.response.ts#L74)*
 
 ___
 
@@ -47,4 +47,4 @@ ___
 
 • **outgoing_request**: *boolean*
 
-*Defined in [responses/usertags.feed.response.ts:72](https://github.com/dilame/instagram-private-api/blob/01eb399/src/responses/usertags.feed.response.ts#L72)*
+*Defined in [responses/usertags.feed.response.ts:72](https://github.com/Nerixyz/instagram-private-api/blob/e5037ee/src/responses/usertags.feed.response.ts#L72)*

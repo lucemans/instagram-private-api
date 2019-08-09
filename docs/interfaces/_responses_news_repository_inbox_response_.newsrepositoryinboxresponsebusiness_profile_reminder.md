@@ -1,6 +1,6 @@
 > **[instagram-private-api](../README.md)**
 
-[Globals](../README.md) / ["responses/news.repository.inbox.response"](../modules/_responses_news_repository_inbox_response_.md) / [NewsRepositoryInboxResponseBusiness_profile_reminder](_responses_news_repository_inbox_response_.newsrepositoryinboxresponsebusiness_profile_reminder.md) /
+[Globals](../globals.md) / ["responses/news.repository.inbox.response"](../modules/_responses_news_repository_inbox_response_.md) / [NewsRepositoryInboxResponseBusiness_profile_reminder](_responses_news_repository_inbox_response_.newsrepositoryinboxresponsebusiness_profile_reminder.md) /
 
 # Interface: NewsRepositoryInboxResponseBusiness_profile_reminder
 
@@ -21,7 +21,7 @@
 
 • **subtitle**: *string*
 
-*Defined in [responses/news.repository.inbox.response.ts:122](https://github.com/dilame/instagram-private-api/blob/01eb399/src/responses/news.repository.inbox.response.ts#L122)*
+*Defined in [responses/news.repository.inbox.response.ts:122](https://github.com/Nerixyz/instagram-private-api/blob/e5037ee/src/responses/news.repository.inbox.response.ts#L122)*
 
 ___
 
@@ -29,4 +29,4 @@ ___
 
 • **title**: *string*
 
-*Defined in [responses/news.repository.inbox.response.ts:121](https://github.com/dilame/instagram-private-api/blob/01eb399/src/responses/news.repository.inbox.response.ts#L121)*
+*Defined in [responses/news.repository.inbox.response.ts:121](https://github.com/Nerixyz/instagram-private-api/blob/e5037ee/src/responses/news.repository.inbox.response.ts#L121)*

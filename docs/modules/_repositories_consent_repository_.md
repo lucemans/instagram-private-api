@@ -1,6 +1,6 @@
 > **[instagram-private-api](../README.md)**
 
-[Globals](../README.md) / ["repositories/consent.repository"](_repositories_consent_repository_.md) /
+[Globals](../globals.md) / ["repositories/consent.repository"](_repositories_consent_repository_.md) /
 
 # External module: "repositories/consent.repository"
 

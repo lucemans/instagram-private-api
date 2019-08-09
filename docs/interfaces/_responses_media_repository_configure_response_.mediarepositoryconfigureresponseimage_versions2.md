@@ -1,6 +1,6 @@
 > **[instagram-private-api](../README.md)**
 
-[Globals](../README.md) / ["responses/media.repository.configure.response"](../modules/_responses_media_repository_configure_response_.md) / [MediaRepositoryConfigureResponseImage_versions2](_responses_media_repository_configure_response_.mediarepositoryconfigureresponseimage_versions2.md) /
+[Globals](../globals.md) / ["responses/media.repository.configure.response"](../modules/_responses_media_repository_configure_response_.md) / [MediaRepositoryConfigureResponseImage_versions2](_responses_media_repository_configure_response_.mediarepositoryconfigureresponseimage_versions2.md) /
 
 # Interface: MediaRepositoryConfigureResponseImage_versions2
 
@@ -20,4 +20,4 @@
 
 • **candidates**: *[MediaRepositoryConfigureResponseCandidatesItem](_responses_media_repository_configure_response_.mediarepositoryconfigureresponsecandidatesitem.md)[]*
 
-*Defined in [responses/media.repository.configure.response.ts:37](https://github.com/dilame/instagram-private-api/blob/01eb399/src/responses/media.repository.configure.response.ts#L37)*
+*Defined in [responses/media.repository.configure.response.ts:37](https://github.com/Nerixyz/instagram-private-api/blob/e5037ee/src/responses/media.repository.configure.response.ts#L37)*

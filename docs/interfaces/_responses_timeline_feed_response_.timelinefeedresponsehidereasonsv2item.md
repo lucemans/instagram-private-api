@@ -1,6 +1,6 @@
 > **[instagram-private-api](../README.md)**
 
-[Globals](../README.md) / ["responses/timeline.feed.response"](../modules/_responses_timeline_feed_response_.md) / [TimelineFeedResponseHideReasonsV2Item](_responses_timeline_feed_response_.timelinefeedresponsehidereasonsv2item.md) /
+[Globals](../globals.md) / ["responses/timeline.feed.response"](../modules/_responses_timeline_feed_response_.md) / [TimelineFeedResponseHideReasonsV2Item](_responses_timeline_feed_response_.timelinefeedresponsehidereasonsv2item.md) /
 
 # Interface: TimelineFeedResponseHideReasonsV2Item
 
@@ -21,7 +21,7 @@
 
 • **reason**: *string | null*
 
-*Defined in [responses/timeline.feed.response.ts:173](https://github.com/dilame/instagram-private-api/blob/01eb399/src/responses/timeline.feed.response.ts#L173)*
+*Defined in [responses/timeline.feed.response.ts:173](https://github.com/Nerixyz/instagram-private-api/blob/e5037ee/src/responses/timeline.feed.response.ts#L173)*
 
 ___
 
@@ -29,4 +29,4 @@ ___
 
 • **text**: *string*
 
-*Defined in [responses/timeline.feed.response.ts:172](https://github.com/dilame/instagram-private-api/blob/01eb399/src/responses/timeline.feed.response.ts#L172)*
+*Defined in [responses/timeline.feed.response.ts:172](https://github.com/Nerixyz/instagram-private-api/blob/e5037ee/src/responses/timeline.feed.response.ts#L172)*

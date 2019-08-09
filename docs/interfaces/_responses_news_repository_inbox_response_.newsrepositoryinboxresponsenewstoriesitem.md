@@ -1,6 +1,6 @@
 > **[instagram-private-api](../README.md)**
 
-[Globals](../README.md) / ["responses/news.repository.inbox.response"](../modules/_responses_news_repository_inbox_response_.md) / [NewsRepositoryInboxResponseNewStoriesItem](_responses_news_repository_inbox_response_.newsrepositoryinboxresponsenewstoriesitem.md) /
+[Globals](../globals.md) / ["responses/news.repository.inbox.response"](../modules/_responses_news_repository_inbox_response_.md) / [NewsRepositoryInboxResponseNewStoriesItem](_responses_news_repository_inbox_response_.newsrepositoryinboxresponsenewstoriesitem.md) /
 
 # Interface: NewsRepositoryInboxResponseNewStoriesItem
 
@@ -24,7 +24,7 @@
 
 • **args**: *[NewsRepositoryInboxResponseArgs](_responses_news_repository_inbox_response_.newsrepositoryinboxresponseargs.md)*
 
-*Defined in [responses/news.repository.inbox.response.ts:57](https://github.com/dilame/instagram-private-api/blob/01eb399/src/responses/news.repository.inbox.response.ts#L57)*
+*Defined in [responses/news.repository.inbox.response.ts:57](https://github.com/Nerixyz/instagram-private-api/blob/e5037ee/src/responses/news.repository.inbox.response.ts#L57)*
 
 ___
 
@@ -32,7 +32,7 @@ ___
 
 • **counts**: *[NewsRepositoryInboxResponseCounts](_responses_news_repository_inbox_response_.newsrepositoryinboxresponsecounts.md)*
 
-*Defined in [responses/news.repository.inbox.response.ts:58](https://github.com/dilame/instagram-private-api/blob/01eb399/src/responses/news.repository.inbox.response.ts#L58)*
+*Defined in [responses/news.repository.inbox.response.ts:58](https://github.com/Nerixyz/instagram-private-api/blob/e5037ee/src/responses/news.repository.inbox.response.ts#L58)*
 
 ___
 
@@ -40,7 +40,7 @@ ___
 
 • **pk**: *string*
 
-*Defined in [responses/news.repository.inbox.response.ts:59](https://github.com/dilame/instagram-private-api/blob/01eb399/src/responses/news.repository.inbox.response.ts#L59)*
+*Defined in [responses/news.repository.inbox.response.ts:59](https://github.com/Nerixyz/instagram-private-api/blob/e5037ee/src/responses/news.repository.inbox.response.ts#L59)*
 
 ___
 
@@ -48,7 +48,7 @@ ___
 
 • **story_type**: *number*
 
-*Defined in [responses/news.repository.inbox.response.ts:56](https://github.com/dilame/instagram-private-api/blob/01eb399/src/responses/news.repository.inbox.response.ts#L56)*
+*Defined in [responses/news.repository.inbox.response.ts:56](https://github.com/Nerixyz/instagram-private-api/blob/e5037ee/src/responses/news.repository.inbox.response.ts#L56)*
 
 ___
 
@@ -56,4 +56,4 @@ ___
 
 • **type**: *number*
 
-*Defined in [responses/news.repository.inbox.response.ts:55](https://github.com/dilame/instagram-private-api/blob/01eb399/src/responses/news.repository.inbox.response.ts#L55)*
+*Defined in [responses/news.repository.inbox.response.ts:55](https://github.com/Nerixyz/instagram-private-api/blob/e5037ee/src/responses/news.repository.inbox.response.ts#L55)*

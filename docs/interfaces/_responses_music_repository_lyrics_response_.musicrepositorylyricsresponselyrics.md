@@ -1,6 +1,6 @@
 > **[instagram-private-api](../README.md)**
 
-[Globals](../README.md) / ["responses/music.repository.lyrics.response"](../modules/_responses_music_repository_lyrics_response_.md) / [MusicRepositoryLyricsResponseLyrics](_responses_music_repository_lyrics_response_.musicrepositorylyricsresponselyrics.md) /
+[Globals](../globals.md) / ["responses/music.repository.lyrics.response"](../modules/_responses_music_repository_lyrics_response_.md) / [MusicRepositoryLyricsResponseLyrics](_responses_music_repository_lyrics_response_.musicrepositorylyricsresponselyrics.md) /
 
 # Interface: MusicRepositoryLyricsResponseLyrics
 
@@ -20,4 +20,4 @@
 
 • **phrases**: *[MusicRepositoryLyricsResponsePhrasesItem](_responses_music_repository_lyrics_response_.musicrepositorylyricsresponsephrasesitem.md)[]*
 
-*Defined in [responses/music.repository.lyrics.response.ts:6](https://github.com/dilame/instagram-private-api/blob/01eb399/src/responses/music.repository.lyrics.response.ts#L6)*
+*Defined in [responses/music.repository.lyrics.response.ts:6](https://github.com/Nerixyz/instagram-private-api/blob/e5037ee/src/responses/music.repository.lyrics.response.ts#L6)*

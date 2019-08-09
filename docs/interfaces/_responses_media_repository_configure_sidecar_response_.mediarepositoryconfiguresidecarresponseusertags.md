@@ -1,6 +1,6 @@
 > **[instagram-private-api](../README.md)**
 
-[Globals](../README.md) / ["responses/media.repository.configure-sidecar.response"](../modules/_responses_media_repository_configure_sidecar_response_.md) / [MediaRepositoryConfigureSidecarResponseUsertags](_responses_media_repository_configure_sidecar_response_.mediarepositoryconfiguresidecarresponseusertags.md) /
+[Globals](../globals.md) / ["responses/media.repository.configure-sidecar.response"](../modules/_responses_media_repository_configure_sidecar_response_.md) / [MediaRepositoryConfigureSidecarResponseUsertags](_responses_media_repository_configure_sidecar_response_.mediarepositoryconfiguresidecarresponseusertags.md) /
 
 # Interface: MediaRepositoryConfigureSidecarResponseUsertags
 
@@ -20,4 +20,4 @@
 
 • **in**: *[MediaRepositoryConfigureSidecarResponseInItem](_responses_media_repository_configure_sidecar_response_.mediarepositoryconfiguresidecarresponseinitem.md)[]*
 
-*Defined in [responses/media.repository.configure-sidecar.response.ts:65](https://github.com/dilame/instagram-private-api/blob/01eb399/src/responses/media.repository.configure-sidecar.response.ts#L65)*
+*Defined in [responses/media.repository.configure-sidecar.response.ts:65](https://github.com/Nerixyz/instagram-private-api/blob/e5037ee/src/responses/media.repository.configure-sidecar.response.ts#L65)*

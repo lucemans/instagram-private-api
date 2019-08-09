@@ -1,6 +1,6 @@
 > **[instagram-private-api](../README.md)**
 
-[Globals](../README.md) / ["responses/live.final-viewers.response"](_responses_live_final_viewers_response_.md) /
+[Globals](../globals.md) / ["responses/live.final-viewers.response"](_responses_live_final_viewers_response_.md) /
 
 # External module: "responses/live.final-viewers.response"
 

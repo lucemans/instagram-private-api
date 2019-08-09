@@ -1,6 +1,6 @@
 > **[instagram-private-api](../README.md)**
 
-[Globals](../README.md) / ["feeds/account-friendships.feed"](_feeds_account_friendships_feed_.md) /
+[Globals](../globals.md) / ["feeds/account-friendships.feed"](_feeds_account_friendships_feed_.md) /
 
 # External module: "feeds/account-friendships.feed"
 

@@ -1,6 +1,6 @@
 > **[instagram-private-api](../README.md)**
 
-[Globals](../README.md) / ["repositories/linked-account.repository"](../modules/_repositories_linked_account_repository_.md) / [LinkedAccountRepository](_repositories_linked_account_repository_.linkedaccountrepository.md) /
+[Globals](../globals.md) / ["repositories/linked-account.repository"](../modules/_repositories_linked_account_repository_.md) / [LinkedAccountRepository](_repositories_linked_account_repository_.linkedaccountrepository.md) /
 
 # Class: LinkedAccountRepository
 
@@ -28,7 +28,7 @@
 
 *Inherited from [Repository](_core_repository_.repository.md).[constructor](_core_repository_.repository.md#constructor)*
 
-*Defined in [core/repository.ts:6](https://github.com/dilame/instagram-private-api/blob/01eb399/src/core/repository.ts#L6)*
+*Defined in [core/repository.ts:6](https://github.com/Nerixyz/instagram-private-api/blob/e5037ee/src/core/repository.ts#L6)*
 
 **Parameters:**
 
@@ -44,6 +44,6 @@ Name | Type |
 
 ▸ **getLinkageStatus**(): *`Promise<any>`*
 
-*Defined in [repositories/linked-account.repository.ts:4](https://github.com/dilame/instagram-private-api/blob/01eb399/src/repositories/linked-account.repository.ts#L4)*
+*Defined in [repositories/linked-account.repository.ts:4](https://github.com/Nerixyz/instagram-private-api/blob/e5037ee/src/repositories/linked-account.repository.ts#L4)*
 
 **Returns:** *`Promise<any>`*

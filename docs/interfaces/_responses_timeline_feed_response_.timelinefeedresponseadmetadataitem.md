@@ -1,6 +1,6 @@
 > **[instagram-private-api](../README.md)**
 
-[Globals](../README.md) / ["responses/timeline.feed.response"](../modules/_responses_timeline_feed_response_.md) / [TimelineFeedResponseAdMetadataItem](_responses_timeline_feed_response_.timelinefeedresponseadmetadataitem.md) /
+[Globals](../globals.md) / ["responses/timeline.feed.response"](../modules/_responses_timeline_feed_response_.md) / [TimelineFeedResponseAdMetadataItem](_responses_timeline_feed_response_.timelinefeedresponseadmetadataitem.md) /
 
 # Interface: TimelineFeedResponseAdMetadataItem
 
@@ -21,7 +21,7 @@
 
 • **type**: *number*
 
-*Defined in [responses/timeline.feed.response.ts:177](https://github.com/dilame/instagram-private-api/blob/01eb399/src/responses/timeline.feed.response.ts#L177)*
+*Defined in [responses/timeline.feed.response.ts:177](https://github.com/Nerixyz/instagram-private-api/blob/e5037ee/src/responses/timeline.feed.response.ts#L177)*
 
 ___
 
@@ -29,4 +29,4 @@ ___
 
 • **value**: *string*
 
-*Defined in [responses/timeline.feed.response.ts:176](https://github.com/dilame/instagram-private-api/blob/01eb399/src/responses/timeline.feed.response.ts#L176)*
+*Defined in [responses/timeline.feed.response.ts:176](https://github.com/Nerixyz/instagram-private-api/blob/e5037ee/src/responses/timeline.feed.response.ts#L176)*

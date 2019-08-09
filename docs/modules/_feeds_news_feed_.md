@@ -1,6 +1,6 @@
 > **[instagram-private-api](../README.md)**
 
-[Globals](../README.md) / ["feeds/news.feed"](_feeds_news_feed_.md) /
+[Globals](../globals.md) / ["feeds/news.feed"](_feeds_news_feed_.md) /
 
 # External module: "feeds/news.feed"
 

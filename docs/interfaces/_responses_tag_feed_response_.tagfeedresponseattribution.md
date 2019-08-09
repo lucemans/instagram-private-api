@@ -1,6 +1,6 @@
 > **[instagram-private-api](../README.md)**
 
-[Globals](../README.md) / ["responses/tag.feed.response"](../modules/_responses_tag_feed_response_.md) / [TagFeedResponseAttribution](_responses_tag_feed_response_.tagfeedresponseattribution.md) /
+[Globals](../globals.md) / ["responses/tag.feed.response"](../modules/_responses_tag_feed_response_.md) / [TagFeedResponseAttribution](_responses_tag_feed_response_.tagfeedresponseattribution.md) /
 
 # Interface: TagFeedResponseAttribution
 
@@ -20,4 +20,4 @@
 
 • **name**: *string*
 
-*Defined in [responses/tag.feed.response.ts:220](https://github.com/dilame/instagram-private-api/blob/01eb399/src/responses/tag.feed.response.ts#L220)*
+*Defined in [responses/tag.feed.response.ts:220](https://github.com/Nerixyz/instagram-private-api/blob/e5037ee/src/responses/tag.feed.response.ts#L220)*

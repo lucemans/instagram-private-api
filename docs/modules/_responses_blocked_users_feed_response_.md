@@ -1,6 +1,6 @@
 > **[instagram-private-api](../README.md)**
 
-[Globals](../README.md) / ["responses/blocked-users.feed.response"](_responses_blocked_users_feed_response_.md) /
+[Globals](../globals.md) / ["responses/blocked-users.feed.response"](_responses_blocked_users_feed_response_.md) /
 
 # External module: "responses/blocked-users.feed.response"
 

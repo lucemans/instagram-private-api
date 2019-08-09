@@ -1,6 +1,6 @@
 > **[instagram-private-api](../README.md)**
 
-[Globals](../README.md) / ["responses/news.repository.inbox.response"](../modules/_responses_news_repository_inbox_response_.md) / [NewsRepositoryInboxResponsePartition](_responses_news_repository_inbox_response_.newsrepositoryinboxresponsepartition.md) /
+[Globals](../globals.md) / ["responses/news.repository.inbox.response"](../modules/_responses_news_repository_inbox_response_.md) / [NewsRepositoryInboxResponsePartition](_responses_news_repository_inbox_response_.newsrepositoryinboxresponsepartition.md) /
 
 # Interface: NewsRepositoryInboxResponsePartition
 
@@ -20,4 +20,4 @@
 
 • **time_bucket**: *[NewsRepositoryInboxResponseTime_bucket](_responses_news_repository_inbox_response_.newsrepositoryinboxresponsetime_bucket.md)*
 
-*Defined in [responses/news.repository.inbox.response.ts:111](https://github.com/dilame/instagram-private-api/blob/01eb399/src/responses/news.repository.inbox.response.ts#L111)*
+*Defined in [responses/news.repository.inbox.response.ts:111](https://github.com/Nerixyz/instagram-private-api/blob/e5037ee/src/responses/news.repository.inbox.response.ts#L111)*

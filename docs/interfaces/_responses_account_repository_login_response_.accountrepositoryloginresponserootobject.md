@@ -1,6 +1,6 @@
 > **[instagram-private-api](../README.md)**
 
-[Globals](../README.md) / ["responses/account.repository.login.response"](../modules/_responses_account_repository_login_response_.md) / [AccountRepositoryLoginResponseRootObject](_responses_account_repository_login_response_.accountrepositoryloginresponserootobject.md) /
+[Globals](../globals.md) / ["responses/account.repository.login.response"](../modules/_responses_account_repository_login_response_.md) / [AccountRepositoryLoginResponseRootObject](_responses_account_repository_login_response_.accountrepositoryloginresponserootobject.md) /
 
 # Interface: AccountRepositoryLoginResponseRootObject
 
@@ -21,7 +21,7 @@
 
 • **logged_in_user**: *[AccountRepositoryLoginResponseLogged_in_user](_responses_account_repository_login_response_.accountrepositoryloginresponselogged_in_user.md)*
 
-*Defined in [responses/account.repository.login.response.ts:2](https://github.com/dilame/instagram-private-api/blob/01eb399/src/responses/account.repository.login.response.ts#L2)*
+*Defined in [responses/account.repository.login.response.ts:2](https://github.com/Nerixyz/instagram-private-api/blob/e5037ee/src/responses/account.repository.login.response.ts#L2)*
 
 ___
 
@@ -29,4 +29,4 @@ ___
 
 • **status**: *string*
 
-*Defined in [responses/account.repository.login.response.ts:3](https://github.com/dilame/instagram-private-api/blob/01eb399/src/responses/account.repository.login.response.ts#L3)*
+*Defined in [responses/account.repository.login.response.ts:3](https://github.com/Nerixyz/instagram-private-api/blob/e5037ee/src/responses/account.repository.login.response.ts#L3)*

@@ -1,6 +1,6 @@
 > **[instagram-private-api](../README.md)**
 
-[Globals](../README.md) / ["responses/location.feed.response"](../modules/_responses_location_feed_response_.md) / [LocationFeedResponseFriendship_status](_responses_location_feed_response_.locationfeedresponsefriendship_status.md) /
+[Globals](../globals.md) / ["responses/location.feed.response"](../modules/_responses_location_feed_response_.md) / [LocationFeedResponseFriendship_status](_responses_location_feed_response_.locationfeedresponsefriendship_status.md) /
 
 # Interface: LocationFeedResponseFriendship_status
 
@@ -22,7 +22,7 @@
 
 • **following**: *boolean*
 
-*Defined in [responses/location.feed.response.ts:134](https://github.com/dilame/instagram-private-api/blob/01eb399/src/responses/location.feed.response.ts#L134)*
+*Defined in [responses/location.feed.response.ts:134](https://github.com/Nerixyz/instagram-private-api/blob/e5037ee/src/responses/location.feed.response.ts#L134)*
 
 ___
 
@@ -30,7 +30,7 @@ ___
 
 • **is_bestie**: *boolean*
 
-*Defined in [responses/location.feed.response.ts:136](https://github.com/dilame/instagram-private-api/blob/01eb399/src/responses/location.feed.response.ts#L136)*
+*Defined in [responses/location.feed.response.ts:136](https://github.com/Nerixyz/instagram-private-api/blob/e5037ee/src/responses/location.feed.response.ts#L136)*
 
 ___
 
@@ -38,4 +38,4 @@ ___
 
 • **outgoing_request**: *boolean*
 
-*Defined in [responses/location.feed.response.ts:135](https://github.com/dilame/instagram-private-api/blob/01eb399/src/responses/location.feed.response.ts#L135)*
+*Defined in [responses/location.feed.response.ts:135](https://github.com/Nerixyz/instagram-private-api/blob/e5037ee/src/responses/location.feed.response.ts#L135)*

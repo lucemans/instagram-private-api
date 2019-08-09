@@ -1,6 +1,6 @@
 > **[instagram-private-api](../README.md)**
 
-[Globals](../README.md) / ["responses/reels-media.feed.response"](../modules/_responses_reels_media_feed_response_.md) / [ReelsMediaFeedResponseUser](_responses_reels_media_feed_response_.reelsmediafeedresponseuser.md) /
+[Globals](../globals.md) / ["responses/reels-media.feed.response"](../modules/_responses_reels_media_feed_response_.md) / [ReelsMediaFeedResponseUser](_responses_reels_media_feed_response_.reelsmediafeedresponseuser.md) /
 
 # Interface: ReelsMediaFeedResponseUser
 
@@ -27,7 +27,7 @@
 
 • **friendship_status**? : *[ReelsMediaFeedResponseFriendshipStatus](_responses_reels_media_feed_response_.reelsmediafeedresponsefriendshipstatus.md)*
 
-*Defined in [responses/reels-media.feed.response.ts:28](https://github.com/dilame/instagram-private-api/blob/01eb399/src/responses/reels-media.feed.response.ts#L28)*
+*Defined in [responses/reels-media.feed.response.ts:28](https://github.com/Nerixyz/instagram-private-api/blob/e5037ee/src/responses/reels-media.feed.response.ts#L28)*
 
 ___
 
@@ -35,7 +35,7 @@ ___
 
 • **full_name**? : *string*
 
-*Defined in [responses/reels-media.feed.response.ts:24](https://github.com/dilame/instagram-private-api/blob/01eb399/src/responses/reels-media.feed.response.ts#L24)*
+*Defined in [responses/reels-media.feed.response.ts:24](https://github.com/Nerixyz/instagram-private-api/blob/e5037ee/src/responses/reels-media.feed.response.ts#L24)*
 
 ___
 
@@ -43,7 +43,7 @@ ___
 
 • **is_private**? : *boolean*
 
-*Defined in [responses/reels-media.feed.response.ts:25](https://github.com/dilame/instagram-private-api/blob/01eb399/src/responses/reels-media.feed.response.ts#L25)*
+*Defined in [responses/reels-media.feed.response.ts:25](https://github.com/Nerixyz/instagram-private-api/blob/e5037ee/src/responses/reels-media.feed.response.ts#L25)*
 
 ___
 
@@ -51,7 +51,7 @@ ___
 
 • **is_verified**? : *boolean*
 
-*Defined in [responses/reels-media.feed.response.ts:29](https://github.com/dilame/instagram-private-api/blob/01eb399/src/responses/reels-media.feed.response.ts#L29)*
+*Defined in [responses/reels-media.feed.response.ts:29](https://github.com/Nerixyz/instagram-private-api/blob/e5037ee/src/responses/reels-media.feed.response.ts#L29)*
 
 ___
 
@@ -59,7 +59,7 @@ ___
 
 • **pk**: *number*
 
-*Defined in [responses/reels-media.feed.response.ts:22](https://github.com/dilame/instagram-private-api/blob/01eb399/src/responses/reels-media.feed.response.ts#L22)*
+*Defined in [responses/reels-media.feed.response.ts:22](https://github.com/Nerixyz/instagram-private-api/blob/e5037ee/src/responses/reels-media.feed.response.ts#L22)*
 
 ___
 
@@ -67,7 +67,7 @@ ___
 
 • **profile_pic_id**? : *string*
 
-*Defined in [responses/reels-media.feed.response.ts:27](https://github.com/dilame/instagram-private-api/blob/01eb399/src/responses/reels-media.feed.response.ts#L27)*
+*Defined in [responses/reels-media.feed.response.ts:27](https://github.com/Nerixyz/instagram-private-api/blob/e5037ee/src/responses/reels-media.feed.response.ts#L27)*
 
 ___
 
@@ -75,7 +75,7 @@ ___
 
 • **profile_pic_url**? : *string*
 
-*Defined in [responses/reels-media.feed.response.ts:26](https://github.com/dilame/instagram-private-api/blob/01eb399/src/responses/reels-media.feed.response.ts#L26)*
+*Defined in [responses/reels-media.feed.response.ts:26](https://github.com/Nerixyz/instagram-private-api/blob/e5037ee/src/responses/reels-media.feed.response.ts#L26)*
 
 ___
 
@@ -83,4 +83,4 @@ ___
 
 • **username**? : *string*
 
-*Defined in [responses/reels-media.feed.response.ts:23](https://github.com/dilame/instagram-private-api/blob/01eb399/src/responses/reels-media.feed.response.ts#L23)*
+*Defined in [responses/reels-media.feed.response.ts:23](https://github.com/Nerixyz/instagram-private-api/blob/e5037ee/src/responses/reels-media.feed.response.ts#L23)*

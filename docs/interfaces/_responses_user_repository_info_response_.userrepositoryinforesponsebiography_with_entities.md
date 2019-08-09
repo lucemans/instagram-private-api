@@ -1,6 +1,6 @@
 > **[instagram-private-api](../README.md)**
 
-[Globals](../README.md) / ["responses/user.repository.info.response"](../modules/_responses_user_repository_info_response_.md) / [UserRepositoryInfoResponseBiography_with_entities](_responses_user_repository_info_response_.userrepositoryinforesponsebiography_with_entities.md) /
+[Globals](../globals.md) / ["responses/user.repository.info.response"](../modules/_responses_user_repository_info_response_.md) / [UserRepositoryInfoResponseBiography_with_entities](_responses_user_repository_info_response_.userrepositoryinforesponsebiography_with_entities.md) /
 
 # Interface: UserRepositoryInfoResponseBiography_with_entities
 
@@ -21,7 +21,7 @@
 
 • **entities**: *any[]*
 
-*Defined in [responses/user.repository.info.response.ts:75](https://github.com/dilame/instagram-private-api/blob/01eb399/src/responses/user.repository.info.response.ts#L75)*
+*Defined in [responses/user.repository.info.response.ts:75](https://github.com/Nerixyz/instagram-private-api/blob/e5037ee/src/responses/user.repository.info.response.ts#L75)*
 
 ___
 
@@ -29,4 +29,4 @@ ___
 
 • **raw_text**: *string*
 
-*Defined in [responses/user.repository.info.response.ts:74](https://github.com/dilame/instagram-private-api/blob/01eb399/src/responses/user.repository.info.response.ts#L74)*
+*Defined in [responses/user.repository.info.response.ts:74](https://github.com/Nerixyz/instagram-private-api/blob/e5037ee/src/responses/user.repository.info.response.ts#L74)*

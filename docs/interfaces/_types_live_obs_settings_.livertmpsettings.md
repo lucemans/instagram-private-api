@@ -1,6 +1,6 @@
 > **[instagram-private-api](../README.md)**
 
-[Globals](../README.md) / ["types/live.obs-settings"](../modules/_types_live_obs_settings_.md) / [LiveRtmpSettings](_types_live_obs_settings_.livertmpsettings.md) /
+[Globals](../globals.md) / ["types/live.obs-settings"](../modules/_types_live_obs_settings_.md) / [LiveRtmpSettings](_types_live_obs_settings_.livertmpsettings.md) /
 
 # Interface: LiveRtmpSettings
 
@@ -21,7 +21,7 @@
 
 • **stream_key**: *string*
 
-*Defined in [types/live.obs-settings.ts:3](https://github.com/dilame/instagram-private-api/blob/01eb399/src/types/live.obs-settings.ts#L3)*
+*Defined in [types/live.obs-settings.ts:3](https://github.com/Nerixyz/instagram-private-api/blob/e5037ee/src/types/live.obs-settings.ts#L3)*
 
 ___
 
@@ -29,4 +29,4 @@ ___
 
 • **stream_url**: *string*
 
-*Defined in [types/live.obs-settings.ts:2](https://github.com/dilame/instagram-private-api/blob/01eb399/src/types/live.obs-settings.ts#L2)*
+*Defined in [types/live.obs-settings.ts:2](https://github.com/Nerixyz/instagram-private-api/blob/e5037ee/src/types/live.obs-settings.ts#L2)*

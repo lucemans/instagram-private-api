@@ -1,6 +1,6 @@
 > **[instagram-private-api](../README.md)**
 
-[Globals](../README.md) / ["responses/direct-thread.repository.approve-participant-request.response"](../modules/_responses_direct_thread_repository_approve_participant_request_response_.md) / [DirectThreadRepositoryApproveParticipantRequestResponseRootObject](_responses_direct_thread_repository_approve_participant_request_response_.directthreadrepositoryapproveparticipantrequestresponserootobject.md) /
+[Globals](../globals.md) / ["responses/direct-thread.repository.approve-participant-request.response"](../modules/_responses_direct_thread_repository_approve_participant_request_response_.md) / [DirectThreadRepositoryApproveParticipantRequestResponseRootObject](_responses_direct_thread_repository_approve_participant_request_response_.directthreadrepositoryapproveparticipantrequestresponserootobject.md) /
 
 # Interface: DirectThreadRepositoryApproveParticipantRequestResponseRootObject
 
@@ -21,7 +21,7 @@
 
 • **status**: *string*
 
-*Defined in [responses/direct-thread.repository.approve-participant-request.response.ts:3](https://github.com/dilame/instagram-private-api/blob/01eb399/src/responses/direct-thread.repository.approve-participant-request.response.ts#L3)*
+*Defined in [responses/direct-thread.repository.approve-participant-request.response.ts:3](https://github.com/Nerixyz/instagram-private-api/blob/e5037ee/src/responses/direct-thread.repository.approve-participant-request.response.ts#L3)*
 
 ___
 
@@ -29,4 +29,4 @@ ___
 
 • **thread**: *[DirectThreadRepositoryApproveParticipantRequestResponseThread](_responses_direct_thread_repository_approve_participant_request_response_.directthreadrepositoryapproveparticipantrequestresponsethread.md)*
 
-*Defined in [responses/direct-thread.repository.approve-participant-request.response.ts:2](https://github.com/dilame/instagram-private-api/blob/01eb399/src/responses/direct-thread.repository.approve-participant-request.response.ts#L2)*
+*Defined in [responses/direct-thread.repository.approve-participant-request.response.ts:2](https://github.com/Nerixyz/instagram-private-api/blob/e5037ee/src/responses/direct-thread.repository.approve-participant-request.response.ts#L2)*

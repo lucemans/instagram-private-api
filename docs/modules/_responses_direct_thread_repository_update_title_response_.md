@@ -1,6 +1,6 @@
 > **[instagram-private-api](../README.md)**
 
-[Globals](../README.md) / ["responses/direct-thread.repository.update-title.response"](_responses_direct_thread_repository_update_title_response_.md) /
+[Globals](../globals.md) / ["responses/direct-thread.repository.update-title.response"](_responses_direct_thread_repository_update_title_response_.md) /
 
 # External module: "responses/direct-thread.repository.update-title.response"
 

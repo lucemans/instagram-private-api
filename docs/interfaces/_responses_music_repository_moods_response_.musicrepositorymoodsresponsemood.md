@@ -1,6 +1,6 @@
 > **[instagram-private-api](../README.md)**
 
-[Globals](../README.md) / ["responses/music.repository.moods.response"](../modules/_responses_music_repository_moods_response_.md) / [MusicRepositoryMoodsResponseMood](_responses_music_repository_moods_response_.musicrepositorymoodsresponsemood.md) /
+[Globals](../globals.md) / ["responses/music.repository.moods.response"](../modules/_responses_music_repository_moods_response_.md) / [MusicRepositoryMoodsResponseMood](_responses_music_repository_moods_response_.musicrepositorymoodsresponsemood.md) /
 
 # Interface: MusicRepositoryMoodsResponseMood
 
@@ -22,7 +22,7 @@
 
 • **cover_artwork_uri**: *string*
 
-*Defined in [responses/music.repository.moods.response.ts:11](https://github.com/dilame/instagram-private-api/blob/01eb399/src/responses/music.repository.moods.response.ts#L11)*
+*Defined in [responses/music.repository.moods.response.ts:11](https://github.com/Nerixyz/instagram-private-api/blob/e5037ee/src/responses/music.repository.moods.response.ts#L11)*
 
 ___
 
@@ -30,7 +30,7 @@ ___
 
 • **id**: *string*
 
-*Defined in [responses/music.repository.moods.response.ts:9](https://github.com/dilame/instagram-private-api/blob/01eb399/src/responses/music.repository.moods.response.ts#L9)*
+*Defined in [responses/music.repository.moods.response.ts:9](https://github.com/Nerixyz/instagram-private-api/blob/e5037ee/src/responses/music.repository.moods.response.ts#L9)*
 
 ___
 
@@ -38,4 +38,4 @@ ___
 
 • **name**: *string*
 
-*Defined in [responses/music.repository.moods.response.ts:10](https://github.com/dilame/instagram-private-api/blob/01eb399/src/responses/music.repository.moods.response.ts#L10)*
+*Defined in [responses/music.repository.moods.response.ts:10](https://github.com/Nerixyz/instagram-private-api/blob/e5037ee/src/responses/music.repository.moods.response.ts#L10)*

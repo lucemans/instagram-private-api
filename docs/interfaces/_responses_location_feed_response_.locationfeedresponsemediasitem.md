@@ -1,6 +1,6 @@
 > **[instagram-private-api](../README.md)**
 
-[Globals](../README.md) / ["responses/location.feed.response"](../modules/_responses_location_feed_response_.md) / [LocationFeedResponseMediasItem](_responses_location_feed_response_.locationfeedresponsemediasitem.md) /
+[Globals](../globals.md) / ["responses/location.feed.response"](../modules/_responses_location_feed_response_.md) / [LocationFeedResponseMediasItem](_responses_location_feed_response_.locationfeedresponsemediasitem.md) /
 
 # Interface: LocationFeedResponseMediasItem
 
@@ -20,4 +20,4 @@
 
 • **media**: *[LocationFeedResponseMedia](_responses_location_feed_response_.locationfeedresponsemedia.md)*
 
-*Defined in [responses/location.feed.response.ts:19](https://github.com/dilame/instagram-private-api/blob/01eb399/src/responses/location.feed.response.ts#L19)*
+*Defined in [responses/location.feed.response.ts:19](https://github.com/Nerixyz/instagram-private-api/blob/e5037ee/src/responses/location.feed.response.ts#L19)*

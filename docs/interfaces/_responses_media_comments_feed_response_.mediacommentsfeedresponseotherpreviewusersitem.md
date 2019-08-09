@@ -1,6 +1,6 @@
 > **[instagram-private-api](../README.md)**
 
-[Globals](../README.md) / ["responses/media-comments.feed.response"](../modules/_responses_media_comments_feed_response_.md) / [MediaCommentsFeedResponseOtherPreviewUsersItem](_responses_media_comments_feed_response_.mediacommentsfeedresponseotherpreviewusersitem.md) /
+[Globals](../globals.md) / ["responses/media-comments.feed.response"](../modules/_responses_media_comments_feed_response_.md) / [MediaCommentsFeedResponseOtherPreviewUsersItem](_responses_media_comments_feed_response_.mediacommentsfeedresponseotherpreviewusersitem.md) /
 
 # Interface: MediaCommentsFeedResponseOtherPreviewUsersItem
 
@@ -21,7 +21,7 @@
 
 • **id**: *number*
 
-*Defined in [responses/media-comments.feed.response.ts:74](https://github.com/dilame/instagram-private-api/blob/01eb399/src/responses/media-comments.feed.response.ts#L74)*
+*Defined in [responses/media-comments.feed.response.ts:74](https://github.com/Nerixyz/instagram-private-api/blob/e5037ee/src/responses/media-comments.feed.response.ts#L74)*
 
 ___
 
@@ -29,4 +29,4 @@ ___
 
 • **profile_pic_url**: *string*
 
-*Defined in [responses/media-comments.feed.response.ts:75](https://github.com/dilame/instagram-private-api/blob/01eb399/src/responses/media-comments.feed.response.ts#L75)*
+*Defined in [responses/media-comments.feed.response.ts:75](https://github.com/Nerixyz/instagram-private-api/blob/e5037ee/src/responses/media-comments.feed.response.ts#L75)*

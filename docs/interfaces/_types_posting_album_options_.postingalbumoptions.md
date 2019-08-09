@@ -1,6 +1,6 @@
 > **[instagram-private-api](../README.md)**
 
-[Globals](../README.md) / ["types/posting.album.options"](../modules/_types_posting_album_options_.md) / [PostingAlbumOptions](_types_posting_album_options_.postingalbumoptions.md) /
+[Globals](../globals.md) / ["types/posting.album.options"](../modules/_types_posting_album_options_.md) / [PostingAlbumOptions](_types_posting_album_options_.postingalbumoptions.md) /
 
 # Interface: PostingAlbumOptions
 
@@ -21,7 +21,7 @@
 
 • **caption**? : *string*
 
-*Defined in [types/posting.album.options.ts:4](https://github.com/dilame/instagram-private-api/blob/01eb399/src/types/posting.album.options.ts#L4)*
+*Defined in [types/posting.album.options.ts:4](https://github.com/Nerixyz/instagram-private-api/blob/e5037ee/src/types/posting.album.options.ts#L4)*
 
 ___
 
@@ -29,4 +29,4 @@ ___
 
 • **items**: *`Array<PostingAlbumPhotoItem | PostingAlbumVideoItem>`*
 
-*Defined in [types/posting.album.options.ts:5](https://github.com/dilame/instagram-private-api/blob/01eb399/src/types/posting.album.options.ts#L5)*
+*Defined in [types/posting.album.options.ts:5](https://github.com/Nerixyz/instagram-private-api/blob/e5037ee/src/types/posting.album.options.ts#L5)*

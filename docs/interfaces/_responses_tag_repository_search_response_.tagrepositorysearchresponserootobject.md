@@ -1,6 +1,6 @@
 > **[instagram-private-api](../README.md)**
 
-[Globals](../README.md) / ["responses/tag.repository.search.response"](../modules/_responses_tag_repository_search_response_.md) / [TagRepositorySearchResponseRootObject](_responses_tag_repository_search_response_.tagrepositorysearchresponserootobject.md) /
+[Globals](../globals.md) / ["responses/tag.repository.search.response"](../modules/_responses_tag_repository_search_response_.md) / [TagRepositorySearchResponseRootObject](_responses_tag_repository_search_response_.tagrepositorysearchresponserootobject.md) /
 
 # Interface: TagRepositorySearchResponseRootObject
 
@@ -23,7 +23,7 @@
 
 • **has_more**: *boolean*
 
-*Defined in [responses/tag.repository.search.response.ts:3](https://github.com/dilame/instagram-private-api/blob/01eb399/src/responses/tag.repository.search.response.ts#L3)*
+*Defined in [responses/tag.repository.search.response.ts:3](https://github.com/Nerixyz/instagram-private-api/blob/e5037ee/src/responses/tag.repository.search.response.ts#L3)*
 
 ___
 
@@ -31,7 +31,7 @@ ___
 
 • **rank_token**: *string*
 
-*Defined in [responses/tag.repository.search.response.ts:4](https://github.com/dilame/instagram-private-api/blob/01eb399/src/responses/tag.repository.search.response.ts#L4)*
+*Defined in [responses/tag.repository.search.response.ts:4](https://github.com/Nerixyz/instagram-private-api/blob/e5037ee/src/responses/tag.repository.search.response.ts#L4)*
 
 ___
 
@@ -39,7 +39,7 @@ ___
 
 • **results**: *[TagRepositorySearchResponseResultsItem](_responses_tag_repository_search_response_.tagrepositorysearchresponseresultsitem.md)[]*
 
-*Defined in [responses/tag.repository.search.response.ts:2](https://github.com/dilame/instagram-private-api/blob/01eb399/src/responses/tag.repository.search.response.ts#L2)*
+*Defined in [responses/tag.repository.search.response.ts:2](https://github.com/Nerixyz/instagram-private-api/blob/e5037ee/src/responses/tag.repository.search.response.ts#L2)*
 
 ___
 
@@ -47,4 +47,4 @@ ___
 
 • **status**: *string*
 
-*Defined in [responses/tag.repository.search.response.ts:5](https://github.com/dilame/instagram-private-api/blob/01eb399/src/responses/tag.repository.search.response.ts#L5)*
+*Defined in [responses/tag.repository.search.response.ts:5](https://github.com/Nerixyz/instagram-private-api/blob/e5037ee/src/responses/tag.repository.search.response.ts#L5)*

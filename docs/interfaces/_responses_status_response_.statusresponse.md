@@ -1,6 +1,6 @@
 > **[instagram-private-api](../README.md)**
 
-[Globals](../README.md) / ["responses/status.response"](../modules/_responses_status_response_.md) / [StatusResponse](_responses_status_response_.statusresponse.md) /
+[Globals](../globals.md) / ["responses/status.response"](../modules/_responses_status_response_.md) / [StatusResponse](_responses_status_response_.statusresponse.md) /
 
 # Interface: StatusResponse
 
@@ -24,4 +24,4 @@
 
 • **status**: *string*
 
-*Defined in [responses/status.response.ts:2](https://github.com/dilame/instagram-private-api/blob/01eb399/src/responses/status.response.ts#L2)*
+*Defined in [responses/status.response.ts:2](https://github.com/Nerixyz/instagram-private-api/blob/e5037ee/src/responses/status.response.ts#L2)*

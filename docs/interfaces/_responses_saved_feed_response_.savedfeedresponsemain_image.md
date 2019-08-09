@@ -1,6 +1,6 @@
 > **[instagram-private-api](../README.md)**
 
-[Globals](../README.md) / ["responses/saved.feed.response"](../modules/_responses_saved_feed_response_.md) / [SavedFeedResponseMain_image](_responses_saved_feed_response_.savedfeedresponsemain_image.md) /
+[Globals](../globals.md) / ["responses/saved.feed.response"](../modules/_responses_saved_feed_response_.md) / [SavedFeedResponseMain_image](_responses_saved_feed_response_.savedfeedresponsemain_image.md) /
 
 # Interface: SavedFeedResponseMain_image
 
@@ -21,7 +21,7 @@
 
 • **image_versions2**: *[SavedFeedResponseImage_versions2](_responses_saved_feed_response_.savedfeedresponseimage_versions2.md)*
 
-*Defined in [responses/saved.feed.response.ts:147](https://github.com/dilame/instagram-private-api/blob/01eb399/src/responses/saved.feed.response.ts#L147)*
+*Defined in [responses/saved.feed.response.ts:147](https://github.com/Nerixyz/instagram-private-api/blob/e5037ee/src/responses/saved.feed.response.ts#L147)*
 
 ___
 
@@ -29,4 +29,4 @@ ___
 
 • **preview**: *null*
 
-*Defined in [responses/saved.feed.response.ts:148](https://github.com/dilame/instagram-private-api/blob/01eb399/src/responses/saved.feed.response.ts#L148)*
+*Defined in [responses/saved.feed.response.ts:148](https://github.com/Nerixyz/instagram-private-api/blob/e5037ee/src/responses/saved.feed.response.ts#L148)*

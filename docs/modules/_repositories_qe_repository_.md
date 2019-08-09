@@ -1,6 +1,6 @@
 > **[instagram-private-api](../README.md)**
 
-[Globals](../README.md) / ["repositories/qe.repository"](_repositories_qe_repository_.md) /
+[Globals](../globals.md) / ["repositories/qe.repository"](_repositories_qe_repository_.md) /
 
 # External module: "repositories/qe.repository"
 

@@ -1,6 +1,6 @@
 > **[instagram-private-api](../README.md)**
 
-[Globals](../README.md) / ["responses/user.feed.response"](../modules/_responses_user_feed_response_.md) / [UserFeedResponseVideoVersionsItem](_responses_user_feed_response_.userfeedresponsevideoversionsitem.md) /
+[Globals](../globals.md) / ["responses/user.feed.response"](../modules/_responses_user_feed_response_.md) / [UserFeedResponseVideoVersionsItem](_responses_user_feed_response_.userfeedresponsevideoversionsitem.md) /
 
 # Interface: UserFeedResponseVideoVersionsItem
 
@@ -24,7 +24,7 @@
 
 • **height**: *number*
 
-*Defined in [responses/user.feed.response.ts:139](https://github.com/dilame/instagram-private-api/blob/01eb399/src/responses/user.feed.response.ts#L139)*
+*Defined in [responses/user.feed.response.ts:139](https://github.com/Nerixyz/instagram-private-api/blob/e5037ee/src/responses/user.feed.response.ts#L139)*
 
 ___
 
@@ -32,7 +32,7 @@ ___
 
 • **id**: *string*
 
-*Defined in [responses/user.feed.response.ts:141](https://github.com/dilame/instagram-private-api/blob/01eb399/src/responses/user.feed.response.ts#L141)*
+*Defined in [responses/user.feed.response.ts:141](https://github.com/Nerixyz/instagram-private-api/blob/e5037ee/src/responses/user.feed.response.ts#L141)*
 
 ___
 
@@ -40,7 +40,7 @@ ___
 
 • **type**: *number*
 
-*Defined in [responses/user.feed.response.ts:137](https://github.com/dilame/instagram-private-api/blob/01eb399/src/responses/user.feed.response.ts#L137)*
+*Defined in [responses/user.feed.response.ts:137](https://github.com/Nerixyz/instagram-private-api/blob/e5037ee/src/responses/user.feed.response.ts#L137)*
 
 ___
 
@@ -48,7 +48,7 @@ ___
 
 • **url**: *string*
 
-*Defined in [responses/user.feed.response.ts:140](https://github.com/dilame/instagram-private-api/blob/01eb399/src/responses/user.feed.response.ts#L140)*
+*Defined in [responses/user.feed.response.ts:140](https://github.com/Nerixyz/instagram-private-api/blob/e5037ee/src/responses/user.feed.response.ts#L140)*
 
 ___
 
@@ -56,4 +56,4 @@ ___
 
 • **width**: *number*
 
-*Defined in [responses/user.feed.response.ts:138](https://github.com/dilame/instagram-private-api/blob/01eb399/src/responses/user.feed.response.ts#L138)*
+*Defined in [responses/user.feed.response.ts:138](https://github.com/Nerixyz/instagram-private-api/blob/e5037ee/src/responses/user.feed.response.ts#L138)*

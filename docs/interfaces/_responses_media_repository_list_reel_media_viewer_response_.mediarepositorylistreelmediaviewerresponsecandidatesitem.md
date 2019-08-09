@@ -1,6 +1,6 @@
 > **[instagram-private-api](../README.md)**
 
-[Globals](../README.md) / ["responses/media.repository.list-reel-media-viewer.response"](../modules/_responses_media_repository_list_reel_media_viewer_response_.md) / [MediaRepositoryListReelMediaViewerResponseCandidatesItem](_responses_media_repository_list_reel_media_viewer_response_.mediarepositorylistreelmediaviewerresponsecandidatesitem.md) /
+[Globals](../globals.md) / ["responses/media.repository.list-reel-media-viewer.response"](../modules/_responses_media_repository_list_reel_media_viewer_response_.md) / [MediaRepositoryListReelMediaViewerResponseCandidatesItem](_responses_media_repository_list_reel_media_viewer_response_.mediarepositorylistreelmediaviewerresponsecandidatesitem.md) /
 
 # Interface: MediaRepositoryListReelMediaViewerResponseCandidatesItem
 
@@ -23,7 +23,7 @@
 
 • **estimated_scans_sizes**: *number[]*
 
-*Defined in [responses/media.repository.list-reel-media-viewer.response.ts:73](https://github.com/dilame/instagram-private-api/blob/01eb399/src/responses/media.repository.list-reel-media-viewer.response.ts#L73)*
+*Defined in [responses/media.repository.list-reel-media-viewer.response.ts:73](https://github.com/Nerixyz/instagram-private-api/blob/e5037ee/src/responses/media.repository.list-reel-media-viewer.response.ts#L73)*
 
 ___
 
@@ -31,7 +31,7 @@ ___
 
 • **height**: *number*
 
-*Defined in [responses/media.repository.list-reel-media-viewer.response.ts:71](https://github.com/dilame/instagram-private-api/blob/01eb399/src/responses/media.repository.list-reel-media-viewer.response.ts#L71)*
+*Defined in [responses/media.repository.list-reel-media-viewer.response.ts:71](https://github.com/Nerixyz/instagram-private-api/blob/e5037ee/src/responses/media.repository.list-reel-media-viewer.response.ts#L71)*
 
 ___
 
@@ -39,7 +39,7 @@ ___
 
 • **url**: *string*
 
-*Defined in [responses/media.repository.list-reel-media-viewer.response.ts:72](https://github.com/dilame/instagram-private-api/blob/01eb399/src/responses/media.repository.list-reel-media-viewer.response.ts#L72)*
+*Defined in [responses/media.repository.list-reel-media-viewer.response.ts:72](https://github.com/Nerixyz/instagram-private-api/blob/e5037ee/src/responses/media.repository.list-reel-media-viewer.response.ts#L72)*
 
 ___
 
@@ -47,4 +47,4 @@ ___
 
 • **width**: *number*
 
-*Defined in [responses/media.repository.list-reel-media-viewer.response.ts:70](https://github.com/dilame/instagram-private-api/blob/01eb399/src/responses/media.repository.list-reel-media-viewer.response.ts#L70)*
+*Defined in [responses/media.repository.list-reel-media-viewer.response.ts:70](https://github.com/Nerixyz/instagram-private-api/blob/e5037ee/src/responses/media.repository.list-reel-media-viewer.response.ts#L70)*

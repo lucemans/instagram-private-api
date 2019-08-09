@@ -1,6 +1,6 @@
 > **[instagram-private-api](../README.md)**
 
-[Globals](../README.md) / ["responses/news.repository.inbox.response"](../modules/_responses_news_repository_inbox_response_.md) / [NewsRepositoryInboxResponseAds_manager](_responses_news_repository_inbox_response_.newsrepositoryinboxresponseads_manager.md) /
+[Globals](../globals.md) / ["responses/news.repository.inbox.response"](../modules/_responses_news_repository_inbox_response_.md) / [NewsRepositoryInboxResponseAds_manager](_responses_news_repository_inbox_response_.newsrepositoryinboxresponseads_manager.md) /
 
 # Interface: NewsRepositoryInboxResponseAds_manager
 
@@ -20,4 +20,4 @@
 
 • **pending_count**: *number*
 
-*Defined in [responses/news.repository.inbox.response.ts:118](https://github.com/dilame/instagram-private-api/blob/01eb399/src/responses/news.repository.inbox.response.ts#L118)*
+*Defined in [responses/news.repository.inbox.response.ts:118](https://github.com/Nerixyz/instagram-private-api/blob/e5037ee/src/responses/news.repository.inbox.response.ts#L118)*

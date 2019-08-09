@@ -1,6 +1,6 @@
 > **[instagram-private-api](../README.md)**
 
-[Globals](../README.md) / ["decorators/enumerable.decorator"](_decorators_enumerable_decorator_.md) /
+[Globals](../globals.md) / ["decorators/enumerable.decorator"](_decorators_enumerable_decorator_.md) /
 
 # External module: "decorators/enumerable.decorator"
 
@@ -16,7 +16,7 @@
 
 ▸ **Enumerable**(`value`: boolean): *`(Anonymous function)`*
 
-*Defined in [decorators/enumerable.decorator.ts:1](https://github.com/dilame/instagram-private-api/blob/01eb399/src/decorators/enumerable.decorator.ts#L1)*
+*Defined in [decorators/enumerable.decorator.ts:1](https://github.com/Nerixyz/instagram-private-api/blob/e5037ee/src/decorators/enumerable.decorator.ts#L1)*
 
 **Parameters:**
 

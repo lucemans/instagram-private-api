@@ -1,6 +1,6 @@
 > **[instagram-private-api](../README.md)**
 
-[Globals](../README.md) / ["responses/music-search.feed.response"](../modules/_responses_music_search_feed_response_.md) / [MusicSearchFeedResponsePage_info](_responses_music_search_feed_response_.musicsearchfeedresponsepage_info.md) /
+[Globals](../globals.md) / ["responses/music-search.feed.response"](../modules/_responses_music_search_feed_response_.md) / [MusicSearchFeedResponsePage_info](_responses_music_search_feed_response_.musicsearchfeedresponsepage_info.md) /
 
 # Interface: MusicSearchFeedResponsePage_info
 
@@ -22,7 +22,7 @@
 
 • **auto_load_more_available**: *boolean*
 
-*Defined in [responses/music-search.feed.response.ts:27](https://github.com/dilame/instagram-private-api/blob/01eb399/src/responses/music-search.feed.response.ts#L27)*
+*Defined in [responses/music-search.feed.response.ts:27](https://github.com/Nerixyz/instagram-private-api/blob/e5037ee/src/responses/music-search.feed.response.ts#L27)*
 
 ___
 
@@ -30,7 +30,7 @@ ___
 
 • **more_available**: *boolean*
 
-*Defined in [responses/music-search.feed.response.ts:26](https://github.com/dilame/instagram-private-api/blob/01eb399/src/responses/music-search.feed.response.ts#L26)*
+*Defined in [responses/music-search.feed.response.ts:26](https://github.com/Nerixyz/instagram-private-api/blob/e5037ee/src/responses/music-search.feed.response.ts#L26)*
 
 ___
 
@@ -38,4 +38,4 @@ ___
 
 • **next_max_id**: *string*
 
-*Defined in [responses/music-search.feed.response.ts:25](https://github.com/dilame/instagram-private-api/blob/01eb399/src/responses/music-search.feed.response.ts#L25)*
+*Defined in [responses/music-search.feed.response.ts:25](https://github.com/Nerixyz/instagram-private-api/blob/e5037ee/src/responses/music-search.feed.response.ts#L25)*

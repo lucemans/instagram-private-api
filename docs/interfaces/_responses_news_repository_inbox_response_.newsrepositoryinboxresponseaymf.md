@@ -1,6 +1,6 @@
 > **[instagram-private-api](../README.md)**
 
-[Globals](../README.md) / ["responses/news.repository.inbox.response"](../modules/_responses_news_repository_inbox_response_.md) / [NewsRepositoryInboxResponseAymf](_responses_news_repository_inbox_response_.newsrepositoryinboxresponseaymf.md) /
+[Globals](../globals.md) / ["responses/news.repository.inbox.response"](../modules/_responses_news_repository_inbox_response_.md) / [NewsRepositoryInboxResponseAymf](_responses_news_repository_inbox_response_.newsrepositoryinboxresponseaymf.md) /
 
 # Interface: NewsRepositoryInboxResponseAymf
 
@@ -21,7 +21,7 @@
 
 • **items**: *[NewsRepositoryInboxResponseItemsItem](_responses_news_repository_inbox_response_.newsrepositoryinboxresponseitemsitem.md)[]*
 
-*Defined in [responses/news.repository.inbox.response.ts:15](https://github.com/dilame/instagram-private-api/blob/01eb399/src/responses/news.repository.inbox.response.ts#L15)*
+*Defined in [responses/news.repository.inbox.response.ts:15](https://github.com/Nerixyz/instagram-private-api/blob/e5037ee/src/responses/news.repository.inbox.response.ts#L15)*
 
 ___
 
@@ -29,4 +29,4 @@ ___
 
 • **more_available**: *boolean*
 
-*Defined in [responses/news.repository.inbox.response.ts:16](https://github.com/dilame/instagram-private-api/blob/01eb399/src/responses/news.repository.inbox.response.ts#L16)*
+*Defined in [responses/news.repository.inbox.response.ts:16](https://github.com/Nerixyz/instagram-private-api/blob/e5037ee/src/responses/news.repository.inbox.response.ts#L16)*

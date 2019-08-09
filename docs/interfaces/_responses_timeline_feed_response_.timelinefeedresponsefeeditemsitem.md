@@ -1,6 +1,6 @@
 > **[instagram-private-api](../README.md)**
 
-[Globals](../README.md) / ["responses/timeline.feed.response"](../modules/_responses_timeline_feed_response_.md) / [TimelineFeedResponseFeedItemsItem](_responses_timeline_feed_response_.timelinefeedresponsefeeditemsitem.md) /
+[Globals](../globals.md) / ["responses/timeline.feed.response"](../modules/_responses_timeline_feed_response_.md) / [TimelineFeedResponseFeedItemsItem](_responses_timeline_feed_response_.timelinefeedresponsefeeditemsitem.md) /
 
 # Interface: TimelineFeedResponseFeedItemsItem
 
@@ -21,7 +21,7 @@
 
 • **media_or_ad**: *[TimelineFeedResponseMedia_or_ad](_responses_timeline_feed_response_.timelinefeedresponsemedia_or_ad.md)*
 
-*Defined in [responses/timeline.feed.response.ts:17](https://github.com/dilame/instagram-private-api/blob/01eb399/src/responses/timeline.feed.response.ts#L17)*
+*Defined in [responses/timeline.feed.response.ts:17](https://github.com/Nerixyz/instagram-private-api/blob/e5037ee/src/responses/timeline.feed.response.ts#L17)*
 
 ___
 
@@ -29,4 +29,4 @@ ___
 
 • **stories_netego**? : *[TimelineFeedResponseStories_netego](_responses_timeline_feed_response_.timelinefeedresponsestories_netego.md)*
 
-*Defined in [responses/timeline.feed.response.ts:18](https://github.com/dilame/instagram-private-api/blob/01eb399/src/responses/timeline.feed.response.ts#L18)*
+*Defined in [responses/timeline.feed.response.ts:18](https://github.com/Nerixyz/instagram-private-api/blob/e5037ee/src/responses/timeline.feed.response.ts#L18)*

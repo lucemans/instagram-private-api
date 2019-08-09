@@ -1,6 +1,6 @@
 > **[instagram-private-api](../README.md)**
 
-[Globals](../README.md) / ["responses/media-comments.feed.response"](_responses_media_comments_feed_response_.md) /
+[Globals](../globals.md) / ["responses/media-comments.feed.response"](_responses_media_comments_feed_response_.md) /
 
 # External module: "responses/media-comments.feed.response"
 

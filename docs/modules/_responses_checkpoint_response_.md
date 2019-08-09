@@ -1,6 +1,6 @@
 > **[instagram-private-api](../README.md)**
 
-[Globals](../README.md) / ["responses/checkpoint.response"](_responses_checkpoint_response_.md) /
+[Globals](../globals.md) / ["responses/checkpoint.response"](_responses_checkpoint_response_.md) /
 
 # External module: "responses/checkpoint.response"
 

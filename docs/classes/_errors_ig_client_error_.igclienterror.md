@@ -1,6 +1,6 @@
 > **[instagram-private-api](../README.md)**
 
-[Globals](../README.md) / ["errors/ig-client.error"](../modules/_errors_ig_client_error_.md) / [IgClientError](_errors_ig_client_error_.igclienterror.md) /
+[Globals](../globals.md) / ["errors/ig-client.error"](../modules/_errors_ig_client_error_.md) / [IgClientError](_errors_ig_client_error_.igclienterror.md) /
 
 # Class: IgClientError
 
@@ -48,7 +48,7 @@
 
 *Overrides void*
 
-*Defined in [errors/ig-client.error.ts:3](https://github.com/dilame/instagram-private-api/blob/01eb399/src/errors/ig-client.error.ts#L3)*
+*Defined in [errors/ig-client.error.ts:3](https://github.com/Nerixyz/instagram-private-api/blob/e5037ee/src/errors/ig-client.error.ts#L3)*
 
 **Parameters:**
 
@@ -66,7 +66,7 @@ Name | Type | Default |
 
 *Inherited from void*
 
-Defined in /Users/bowzee/WebstormProjects/instagram-private-api/node_modules/typedoc/node_modules/typescript/lib/lib.es5.d.ts:964
+Defined in D:/GitHubDesktopRepos/SKMNetSharp/instagram-private-api/node_modules/typedoc/node_modules/typescript/lib/lib.es5.d.ts:964
 
 ___
 
@@ -78,7 +78,7 @@ ___
 
 *Overrides void*
 
-Defined in /Users/bowzee/WebstormProjects/instagram-private-api/node_modules/ts-custom-error/dist/custom-error.d.ts:2
+Defined in D:/GitHubDesktopRepos/SKMNetSharp/instagram-private-api/node_modules/ts-custom-error/dist/custom-error.d.ts:2
 
 ___
 
@@ -90,4 +90,4 @@ ___
 
 *Overrides void*
 
-Defined in /Users/bowzee/WebstormProjects/instagram-private-api/node_modules/typedoc/node_modules/typescript/lib/lib.es5.d.ts:965
+Defined in D:/GitHubDesktopRepos/SKMNetSharp/instagram-private-api/node_modules/typedoc/node_modules/typescript/lib/lib.es5.d.ts:965

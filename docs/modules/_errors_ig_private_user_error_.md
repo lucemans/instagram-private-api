@@ -1,6 +1,6 @@
 > **[instagram-private-api](../README.md)**
 
-[Globals](../README.md) / ["errors/ig-private-user.error"](_errors_ig_private_user_error_.md) /
+[Globals](../globals.md) / ["errors/ig-private-user.error"](_errors_ig_private_user_error_.md) /
 
 # External module: "errors/ig-private-user.error"
 

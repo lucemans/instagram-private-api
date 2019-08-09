@@ -1,6 +1,6 @@
 > **[instagram-private-api](../README.md)**
 
-[Globals](../README.md) / ["errors/ig-login-required.error"](../modules/_errors_ig_login_required_error_.md) / [IgLoginRequiredError](_errors_ig_login_required_error_.igloginrequirederror.md) /
+[Globals](../globals.md) / ["errors/ig-login-required.error"](../modules/_errors_ig_login_required_error_.md) / [IgLoginRequiredError](_errors_ig_login_required_error_.igloginrequirederror.md) /
 
 # Class: IgLoginRequiredError
 
@@ -34,7 +34,7 @@
 
 *Overrides [IgClientError](_errors_ig_client_error_.igclienterror.md).[constructor](_errors_ig_client_error_.igclienterror.md#constructor)*
 
-*Defined in [errors/ig-response.error.ts:9](https://github.com/dilame/instagram-private-api/blob/01eb399/src/errors/ig-response.error.ts#L9)*
+*Defined in [errors/ig-response.error.ts:9](https://github.com/Nerixyz/instagram-private-api/blob/e5037ee/src/errors/ig-response.error.ts#L9)*
 
 **Parameters:**
 
@@ -52,7 +52,7 @@ Name | Type |
 
 *Inherited from void*
 
-Defined in /Users/bowzee/WebstormProjects/instagram-private-api/node_modules/typedoc/node_modules/typescript/lib/lib.es5.d.ts:964
+Defined in D:/GitHubDesktopRepos/SKMNetSharp/instagram-private-api/node_modules/typedoc/node_modules/typescript/lib/lib.es5.d.ts:964
 
 ___
 
@@ -64,7 +64,7 @@ ___
 
 *Overrides void*
 
-Defined in /Users/bowzee/WebstormProjects/instagram-private-api/node_modules/ts-custom-error/dist/custom-error.d.ts:2
+Defined in D:/GitHubDesktopRepos/SKMNetSharp/instagram-private-api/node_modules/ts-custom-error/dist/custom-error.d.ts:2
 
 ___
 
@@ -74,7 +74,7 @@ ___
 
 *Inherited from [IgResponseError](_errors_ig_response_error_.igresponseerror.md).[response](_errors_ig_response_error_.igresponseerror.md#response)*
 
-*Defined in [errors/ig-response.error.ts:9](https://github.com/dilame/instagram-private-api/blob/01eb399/src/errors/ig-response.error.ts#L9)*
+*Defined in [errors/ig-response.error.ts:9](https://github.com/Nerixyz/instagram-private-api/blob/e5037ee/src/errors/ig-response.error.ts#L9)*
 
 ___
 
@@ -86,7 +86,7 @@ ___
 
 *Overrides void*
 
-Defined in /Users/bowzee/WebstormProjects/instagram-private-api/node_modules/typedoc/node_modules/typescript/lib/lib.es5.d.ts:965
+Defined in D:/GitHubDesktopRepos/SKMNetSharp/instagram-private-api/node_modules/typedoc/node_modules/typescript/lib/lib.es5.d.ts:965
 
 ___
 
@@ -96,4 +96,4 @@ ___
 
 *Inherited from [IgResponseError](_errors_ig_response_error_.igresponseerror.md).[text](_errors_ig_response_error_.igresponseerror.md#text)*
 
-*Defined in [errors/ig-response.error.ts:7](https://github.com/dilame/instagram-private-api/blob/01eb399/src/errors/ig-response.error.ts#L7)*
+*Defined in [errors/ig-response.error.ts:7](https://github.com/Nerixyz/instagram-private-api/blob/e5037ee/src/errors/ig-response.error.ts#L7)*

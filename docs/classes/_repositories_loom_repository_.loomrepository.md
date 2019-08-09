@@ -1,6 +1,6 @@
 > **[instagram-private-api](../README.md)**
 
-[Globals](../README.md) / ["repositories/loom.repository"](../modules/_repositories_loom_repository_.md) / [LoomRepository](_repositories_loom_repository_.loomrepository.md) /
+[Globals](../globals.md) / ["repositories/loom.repository"](../modules/_repositories_loom_repository_.md) / [LoomRepository](_repositories_loom_repository_.loomrepository.md) /
 
 # Class: LoomRepository
 
@@ -28,7 +28,7 @@
 
 *Inherited from [Repository](_core_repository_.repository.md).[constructor](_core_repository_.repository.md#constructor)*
 
-*Defined in [core/repository.ts:6](https://github.com/dilame/instagram-private-api/blob/01eb399/src/core/repository.ts#L6)*
+*Defined in [core/repository.ts:6](https://github.com/Nerixyz/instagram-private-api/blob/e5037ee/src/core/repository.ts#L6)*
 
 **Parameters:**
 
@@ -44,6 +44,6 @@ Name | Type |
 
 ▸ **fetchConfig**(): *`Promise<any>`*
 
-*Defined in [repositories/loom.repository.ts:4](https://github.com/dilame/instagram-private-api/blob/01eb399/src/repositories/loom.repository.ts#L4)*
+*Defined in [repositories/loom.repository.ts:4](https://github.com/Nerixyz/instagram-private-api/blob/e5037ee/src/repositories/loom.repository.ts#L4)*
 
 **Returns:** *`Promise<any>`*

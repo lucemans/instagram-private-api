@@ -1,6 +1,6 @@
 > **[instagram-private-api](../README.md)**
 
-[Globals](../README.md) / ["types/posting.options"](../modules/_types_posting_options_.md) / [PostingUsertags](_types_posting_options_.postingusertags.md) /
+[Globals](../globals.md) / ["types/posting.options"](../modules/_types_posting_options_.md) / [PostingUsertags](_types_posting_options_.postingusertags.md) /
 
 # Interface: PostingUsertags
 
@@ -20,4 +20,4 @@
 
 • **in**: *`Array<object>`*
 
-*Defined in [types/posting.options.ts:14](https://github.com/dilame/instagram-private-api/blob/01eb399/src/types/posting.options.ts#L14)*
+*Defined in [types/posting.options.ts:14](https://github.com/Nerixyz/instagram-private-api/blob/e5037ee/src/types/posting.options.ts#L14)*

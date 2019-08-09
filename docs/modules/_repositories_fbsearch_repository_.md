@@ -1,6 +1,6 @@
 > **[instagram-private-api](../README.md)**
 
-[Globals](../README.md) / ["repositories/fbsearch.repository"](_repositories_fbsearch_repository_.md) /
+[Globals](../globals.md) / ["repositories/fbsearch.repository"](_repositories_fbsearch_repository_.md) /
 
 # External module: "repositories/fbsearch.repository"
 

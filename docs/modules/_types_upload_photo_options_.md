@@ -1,6 +1,6 @@
 > **[instagram-private-api](../README.md)**
 
-[Globals](../README.md) / ["types/upload.photo.options"](_types_upload_photo_options_.md) /
+[Globals](../globals.md) / ["types/upload.photo.options"](_types_upload_photo_options_.md) /
 
 # External module: "types/upload.photo.options"
 

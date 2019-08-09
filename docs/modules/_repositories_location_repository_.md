@@ -1,6 +1,6 @@
 > **[instagram-private-api](../README.md)**
 
-[Globals](../README.md) / ["repositories/location.repository"](_repositories_location_repository_.md) /
+[Globals](../globals.md) / ["repositories/location.repository"](_repositories_location_repository_.md) /
 
 # External module: "repositories/location.repository"
 

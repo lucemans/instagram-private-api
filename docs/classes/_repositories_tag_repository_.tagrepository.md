@@ -1,6 +1,6 @@
 > **[instagram-private-api](../README.md)**
 
-[Globals](../README.md) / ["repositories/tag.repository"](../modules/_repositories_tag_repository_.md) / [TagRepository](_repositories_tag_repository_.tagrepository.md) /
+[Globals](../globals.md) / ["repositories/tag.repository"](../modules/_repositories_tag_repository_.md) / [TagRepository](_repositories_tag_repository_.tagrepository.md) /
 
 # Class: TagRepository
 
@@ -28,7 +28,7 @@
 
 *Inherited from [Repository](_core_repository_.repository.md).[constructor](_core_repository_.repository.md#constructor)*
 
-*Defined in [core/repository.ts:6](https://github.com/dilame/instagram-private-api/blob/01eb399/src/core/repository.ts#L6)*
+*Defined in [core/repository.ts:6](https://github.com/Nerixyz/instagram-private-api/blob/e5037ee/src/core/repository.ts#L6)*
 
 **Parameters:**
 
@@ -44,7 +44,7 @@ Name | Type |
 
 ▸ **search**(`q`: string): *`Promise<TagRepositorySearchResponseRootObject>`*
 
-*Defined in [repositories/tag.repository.ts:5](https://github.com/dilame/instagram-private-api/blob/01eb399/src/repositories/tag.repository.ts#L5)*
+*Defined in [repositories/tag.repository.ts:5](https://github.com/Nerixyz/instagram-private-api/blob/e5037ee/src/repositories/tag.repository.ts#L5)*
 
 **Parameters:**
 

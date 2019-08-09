@@ -1,6 +1,6 @@
 > **[instagram-private-api](../README.md)**
 
-[Globals](../README.md) / ["entities/profile.entity"](_entities_profile_entity_.md) /
+[Globals](../globals.md) / ["entities/profile.entity"](_entities_profile_entity_.md) /
 
 # External module: "entities/profile.entity"
 

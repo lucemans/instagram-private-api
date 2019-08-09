@@ -1,6 +1,6 @@
 > **[instagram-private-api](../README.md)**
 
-[Globals](../README.md) / ["responses/user.repository.info.response"](../modules/_responses_user_repository_info_response_.md) / [UserRepositoryInfoResponseHdProfilePicVersionsItem](_responses_user_repository_info_response_.userrepositoryinforesponsehdprofilepicversionsitem.md) /
+[Globals](../globals.md) / ["responses/user.repository.info.response"](../modules/_responses_user_repository_info_response_.md) / [UserRepositoryInfoResponseHdProfilePicVersionsItem](_responses_user_repository_info_response_.userrepositoryinforesponsehdprofilepicversionsitem.md) /
 
 # Interface: UserRepositoryInfoResponseHdProfilePicVersionsItem
 
@@ -22,7 +22,7 @@
 
 • **height**: *number*
 
-*Defined in [responses/user.repository.info.response.ts:79](https://github.com/dilame/instagram-private-api/blob/01eb399/src/responses/user.repository.info.response.ts#L79)*
+*Defined in [responses/user.repository.info.response.ts:79](https://github.com/Nerixyz/instagram-private-api/blob/e5037ee/src/responses/user.repository.info.response.ts#L79)*
 
 ___
 
@@ -30,7 +30,7 @@ ___
 
 • **url**: *string*
 
-*Defined in [responses/user.repository.info.response.ts:80](https://github.com/dilame/instagram-private-api/blob/01eb399/src/responses/user.repository.info.response.ts#L80)*
+*Defined in [responses/user.repository.info.response.ts:80](https://github.com/Nerixyz/instagram-private-api/blob/e5037ee/src/responses/user.repository.info.response.ts#L80)*
 
 ___
 
@@ -38,4 +38,4 @@ ___
 
 • **width**: *number*
 
-*Defined in [responses/user.repository.info.response.ts:78](https://github.com/dilame/instagram-private-api/blob/01eb399/src/responses/user.repository.info.response.ts#L78)*
+*Defined in [responses/user.repository.info.response.ts:78](https://github.com/Nerixyz/instagram-private-api/blob/e5037ee/src/responses/user.repository.info.response.ts#L78)*

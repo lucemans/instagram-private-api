@@ -1,6 +1,6 @@
 > **[instagram-private-api](../README.md)**
 
-[Globals](../README.md) / ["responses/user.feed.response"](../modules/_responses_user_feed_response_.md) / [UserFeedResponse](_responses_user_feed_response_.userfeedresponse.md) /
+[Globals](../globals.md) / ["responses/user.feed.response"](../modules/_responses_user_feed_response_.md) / [UserFeedResponse](_responses_user_feed_response_.userfeedresponse.md) /
 
 # Interface: UserFeedResponse
 
@@ -25,7 +25,7 @@
 
 • **auto_load_more_enabled**: *boolean*
 
-*Defined in [responses/user.feed.response.ts:6](https://github.com/dilame/instagram-private-api/blob/01eb399/src/responses/user.feed.response.ts#L6)*
+*Defined in [responses/user.feed.response.ts:6](https://github.com/Nerixyz/instagram-private-api/blob/e5037ee/src/responses/user.feed.response.ts#L6)*
 
 ___
 
@@ -33,7 +33,7 @@ ___
 
 • **items**: *[UserFeedResponseItemsItem](_responses_user_feed_response_.userfeedresponseitemsitem.md)[]*
 
-*Defined in [responses/user.feed.response.ts:2](https://github.com/dilame/instagram-private-api/blob/01eb399/src/responses/user.feed.response.ts#L2)*
+*Defined in [responses/user.feed.response.ts:2](https://github.com/Nerixyz/instagram-private-api/blob/e5037ee/src/responses/user.feed.response.ts#L2)*
 
 ___
 
@@ -41,7 +41,7 @@ ___
 
 • **more_available**: *boolean*
 
-*Defined in [responses/user.feed.response.ts:4](https://github.com/dilame/instagram-private-api/blob/01eb399/src/responses/user.feed.response.ts#L4)*
+*Defined in [responses/user.feed.response.ts:4](https://github.com/Nerixyz/instagram-private-api/blob/e5037ee/src/responses/user.feed.response.ts#L4)*
 
 ___
 
@@ -49,7 +49,7 @@ ___
 
 • **next_max_id**: *string*
 
-*Defined in [responses/user.feed.response.ts:5](https://github.com/dilame/instagram-private-api/blob/01eb399/src/responses/user.feed.response.ts#L5)*
+*Defined in [responses/user.feed.response.ts:5](https://github.com/Nerixyz/instagram-private-api/blob/e5037ee/src/responses/user.feed.response.ts#L5)*
 
 ___
 
@@ -57,7 +57,7 @@ ___
 
 • **num_results**: *number*
 
-*Defined in [responses/user.feed.response.ts:3](https://github.com/dilame/instagram-private-api/blob/01eb399/src/responses/user.feed.response.ts#L3)*
+*Defined in [responses/user.feed.response.ts:3](https://github.com/Nerixyz/instagram-private-api/blob/e5037ee/src/responses/user.feed.response.ts#L3)*
 
 ___
 
@@ -65,4 +65,4 @@ ___
 
 • **status**: *string*
 
-*Defined in [responses/user.feed.response.ts:7](https://github.com/dilame/instagram-private-api/blob/01eb399/src/responses/user.feed.response.ts#L7)*
+*Defined in [responses/user.feed.response.ts:7](https://github.com/Nerixyz/instagram-private-api/blob/e5037ee/src/responses/user.feed.response.ts#L7)*

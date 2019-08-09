@@ -1,6 +1,6 @@
 > **[instagram-private-api](../README.md)**
 
-[Globals](../README.md) / ["responses/timeline.feed.response"](../modules/_responses_timeline_feed_response_.md) / [TimelineFeedResponseClientGapEnforcerMatrixItem](_responses_timeline_feed_response_.timelinefeedresponseclientgapenforcermatrixitem.md) /
+[Globals](../globals.md) / ["responses/timeline.feed.response"](../modules/_responses_timeline_feed_response_.md) / [TimelineFeedResponseClientGapEnforcerMatrixItem](_responses_timeline_feed_response_.timelinefeedresponseclientgapenforcermatrixitem.md) /
 
 # Interface: TimelineFeedResponseClientGapEnforcerMatrixItem
 
@@ -20,4 +20,4 @@
 
 • **list**: *number[]*
 
-*Defined in [responses/timeline.feed.response.ts:287](https://github.com/dilame/instagram-private-api/blob/01eb399/src/responses/timeline.feed.response.ts#L287)*
+*Defined in [responses/timeline.feed.response.ts:287](https://github.com/Nerixyz/instagram-private-api/blob/e5037ee/src/responses/timeline.feed.response.ts#L287)*

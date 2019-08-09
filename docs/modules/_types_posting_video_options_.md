@@ -1,6 +1,6 @@
 > **[instagram-private-api](../README.md)**
 
-[Globals](../README.md) / ["types/posting.video.options"](_types_posting_video_options_.md) /
+[Globals](../globals.md) / ["types/posting.video.options"](_types_posting_video_options_.md) /
 
 # External module: "types/posting.video.options"
 

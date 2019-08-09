@@ -1,6 +1,6 @@
 > **[instagram-private-api](../README.md)**
 
-[Globals](../README.md) / ["responses/media.repository.configure-video.response"](../modules/_responses_media_repository_configure_video_response_.md) / [MediaRepositoryConfigureVideoResponseRootObject](_responses_media_repository_configure_video_response_.mediarepositoryconfigurevideoresponserootobject.md) /
+[Globals](../globals.md) / ["responses/media.repository.configure-video.response"](../modules/_responses_media_repository_configure_video_response_.md) / [MediaRepositoryConfigureVideoResponseRootObject](_responses_media_repository_configure_video_response_.mediarepositoryconfigurevideoresponserootobject.md) /
 
 # Interface: MediaRepositoryConfigureVideoResponseRootObject
 
@@ -22,7 +22,7 @@
 
 • **media**: *[MediaRepositoryConfigureVideoResponseMedia](_responses_media_repository_configure_video_response_.mediarepositoryconfigurevideoresponsemedia.md)*
 
-*Defined in [responses/media.repository.configure-video.response.ts:2](https://github.com/dilame/instagram-private-api/blob/01eb399/src/responses/media.repository.configure-video.response.ts#L2)*
+*Defined in [responses/media.repository.configure-video.response.ts:2](https://github.com/Nerixyz/instagram-private-api/blob/e5037ee/src/responses/media.repository.configure-video.response.ts#L2)*
 
 ___
 
@@ -30,7 +30,7 @@ ___
 
 • **status**: *string*
 
-*Defined in [responses/media.repository.configure-video.response.ts:4](https://github.com/dilame/instagram-private-api/blob/01eb399/src/responses/media.repository.configure-video.response.ts#L4)*
+*Defined in [responses/media.repository.configure-video.response.ts:4](https://github.com/Nerixyz/instagram-private-api/blob/e5037ee/src/responses/media.repository.configure-video.response.ts#L4)*
 
 ___
 
@@ -38,4 +38,4 @@ ___
 
 • **upload_id**: *string*
 
-*Defined in [responses/media.repository.configure-video.response.ts:3](https://github.com/dilame/instagram-private-api/blob/01eb399/src/responses/media.repository.configure-video.response.ts#L3)*
+*Defined in [responses/media.repository.configure-video.response.ts:3](https://github.com/Nerixyz/instagram-private-api/blob/e5037ee/src/responses/media.repository.configure-video.response.ts#L3)*

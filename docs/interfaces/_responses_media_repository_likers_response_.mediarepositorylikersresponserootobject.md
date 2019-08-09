@@ -1,6 +1,6 @@
 > **[instagram-private-api](../README.md)**
 
-[Globals](../README.md) / ["responses/media.repository.likers.response"](../modules/_responses_media_repository_likers_response_.md) / [MediaRepositoryLikersResponseRootObject](_responses_media_repository_likers_response_.mediarepositorylikersresponserootobject.md) /
+[Globals](../globals.md) / ["responses/media.repository.likers.response"](../modules/_responses_media_repository_likers_response_.md) / [MediaRepositoryLikersResponseRootObject](_responses_media_repository_likers_response_.mediarepositorylikersresponserootobject.md) /
 
 # Interface: MediaRepositoryLikersResponseRootObject
 
@@ -22,7 +22,7 @@
 
 • **status**: *string*
 
-*Defined in [responses/media.repository.likers.response.ts:4](https://github.com/dilame/instagram-private-api/blob/01eb399/src/responses/media.repository.likers.response.ts#L4)*
+*Defined in [responses/media.repository.likers.response.ts:4](https://github.com/Nerixyz/instagram-private-api/blob/e5037ee/src/responses/media.repository.likers.response.ts#L4)*
 
 ___
 
@@ -30,7 +30,7 @@ ___
 
 • **user_count**: *number*
 
-*Defined in [responses/media.repository.likers.response.ts:3](https://github.com/dilame/instagram-private-api/blob/01eb399/src/responses/media.repository.likers.response.ts#L3)*
+*Defined in [responses/media.repository.likers.response.ts:3](https://github.com/Nerixyz/instagram-private-api/blob/e5037ee/src/responses/media.repository.likers.response.ts#L3)*
 
 ___
 
@@ -38,4 +38,4 @@ ___
 
 • **users**: *[MediaRepositoryLikersResponseUsersItem](_responses_media_repository_likers_response_.mediarepositorylikersresponseusersitem.md)[]*
 
-*Defined in [responses/media.repository.likers.response.ts:2](https://github.com/dilame/instagram-private-api/blob/01eb399/src/responses/media.repository.likers.response.ts#L2)*
+*Defined in [responses/media.repository.likers.response.ts:2](https://github.com/Nerixyz/instagram-private-api/blob/e5037ee/src/responses/media.repository.likers.response.ts#L2)*

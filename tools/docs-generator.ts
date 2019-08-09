@@ -1,19 +1,22 @@
-const TypeDoc = require('typedoc');
+import { Application } from 'typedoc';
 
-const app = new TypeDoc.Application({
+const app = new Application({
+  categoryOrder: '*',
   experimentalDecorators: true,
   ignoreCompilerErrors: true,
   logger: 'none',
   theme: 'markdown',
-  readme: 'none',
+  readme: './tools/README.md',
   excludePrivate: true,
   excludeProtected: true,
   excludeNotExported: true,
   target: 'ES6',
-  tsconfig: './tsconfig.js'
+  tsconfig: './tsconfig.js',
 });
 
-const project = app.convert(app.expandInputFiles(['src']));
+const input = app.expandInputFiles(['src']);
+const project = app.convert(input);
 
-if (project)
+if (project) {
   app.generateDocs(project, 'docs');
+}

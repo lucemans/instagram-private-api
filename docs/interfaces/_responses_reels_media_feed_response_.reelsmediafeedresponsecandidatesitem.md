@@ -1,6 +1,6 @@
 > **[instagram-private-api](../README.md)**
 
-[Globals](../README.md) / ["responses/reels-media.feed.response"](../modules/_responses_reels_media_feed_response_.md) / [ReelsMediaFeedResponseCandidatesItem](_responses_reels_media_feed_response_.reelsmediafeedresponsecandidatesitem.md) /
+[Globals](../globals.md) / ["responses/reels-media.feed.response"](../modules/_responses_reels_media_feed_response_.md) / [ReelsMediaFeedResponseCandidatesItem](_responses_reels_media_feed_response_.reelsmediafeedresponsecandidatesitem.md) /
 
 # Interface: ReelsMediaFeedResponseCandidatesItem
 
@@ -22,7 +22,7 @@
 
 • **height**: *number*
 
-*Defined in [responses/reels-media.feed.response.ts:82](https://github.com/dilame/instagram-private-api/blob/01eb399/src/responses/reels-media.feed.response.ts#L82)*
+*Defined in [responses/reels-media.feed.response.ts:82](https://github.com/Nerixyz/instagram-private-api/blob/e5037ee/src/responses/reels-media.feed.response.ts#L82)*
 
 ___
 
@@ -30,7 +30,7 @@ ___
 
 • **url**: *string*
 
-*Defined in [responses/reels-media.feed.response.ts:83](https://github.com/dilame/instagram-private-api/blob/01eb399/src/responses/reels-media.feed.response.ts#L83)*
+*Defined in [responses/reels-media.feed.response.ts:83](https://github.com/Nerixyz/instagram-private-api/blob/e5037ee/src/responses/reels-media.feed.response.ts#L83)*
 
 ___
 
@@ -38,4 +38,4 @@ ___
 
 • **width**: *number*
 
-*Defined in [responses/reels-media.feed.response.ts:81](https://github.com/dilame/instagram-private-api/blob/01eb399/src/responses/reels-media.feed.response.ts#L81)*
+*Defined in [responses/reels-media.feed.response.ts:81](https://github.com/Nerixyz/instagram-private-api/blob/e5037ee/src/responses/reels-media.feed.response.ts#L81)*

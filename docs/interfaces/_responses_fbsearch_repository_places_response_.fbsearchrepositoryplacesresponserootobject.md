@@ -1,6 +1,6 @@
 > **[instagram-private-api](../README.md)**
 
-[Globals](../README.md) / ["responses/fbsearch.repository.places.response"](../modules/_responses_fbsearch_repository_places_response_.md) / [FbsearchRepositoryPlacesResponseRootObject](_responses_fbsearch_repository_places_response_.fbsearchrepositoryplacesresponserootobject.md) /
+[Globals](../globals.md) / ["responses/fbsearch.repository.places.response"](../modules/_responses_fbsearch_repository_places_response_.md) / [FbsearchRepositoryPlacesResponseRootObject](_responses_fbsearch_repository_places_response_.fbsearchrepositoryplacesresponserootobject.md) /
 
 # Interface: FbsearchRepositoryPlacesResponseRootObject
 
@@ -23,7 +23,7 @@
 
 • **has_more**: *boolean*
 
-*Defined in [responses/fbsearch.repository.places.response.ts:3](https://github.com/dilame/instagram-private-api/blob/01eb399/src/responses/fbsearch.repository.places.response.ts#L3)*
+*Defined in [responses/fbsearch.repository.places.response.ts:3](https://github.com/Nerixyz/instagram-private-api/blob/e5037ee/src/responses/fbsearch.repository.places.response.ts#L3)*
 
 ___
 
@@ -31,7 +31,7 @@ ___
 
 • **items**: *[FbsearchRepositoryPlacesResponseItemsItem](_responses_fbsearch_repository_places_response_.fbsearchrepositoryplacesresponseitemsitem.md)[]*
 
-*Defined in [responses/fbsearch.repository.places.response.ts:2](https://github.com/dilame/instagram-private-api/blob/01eb399/src/responses/fbsearch.repository.places.response.ts#L2)*
+*Defined in [responses/fbsearch.repository.places.response.ts:2](https://github.com/Nerixyz/instagram-private-api/blob/e5037ee/src/responses/fbsearch.repository.places.response.ts#L2)*
 
 ___
 
@@ -39,7 +39,7 @@ ___
 
 • **rank_token**: *string*
 
-*Defined in [responses/fbsearch.repository.places.response.ts:4](https://github.com/dilame/instagram-private-api/blob/01eb399/src/responses/fbsearch.repository.places.response.ts#L4)*
+*Defined in [responses/fbsearch.repository.places.response.ts:4](https://github.com/Nerixyz/instagram-private-api/blob/e5037ee/src/responses/fbsearch.repository.places.response.ts#L4)*
 
 ___
 
@@ -47,4 +47,4 @@ ___
 
 • **status**: *string*
 
-*Defined in [responses/fbsearch.repository.places.response.ts:5](https://github.com/dilame/instagram-private-api/blob/01eb399/src/responses/fbsearch.repository.places.response.ts#L5)*
+*Defined in [responses/fbsearch.repository.places.response.ts:5](https://github.com/Nerixyz/instagram-private-api/blob/e5037ee/src/responses/fbsearch.repository.places.response.ts#L5)*

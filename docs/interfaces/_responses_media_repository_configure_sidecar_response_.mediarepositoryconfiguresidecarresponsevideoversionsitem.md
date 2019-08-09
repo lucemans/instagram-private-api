@@ -1,6 +1,6 @@
 > **[instagram-private-api](../README.md)**
 
-[Globals](../README.md) / ["responses/media.repository.configure-sidecar.response"](../modules/_responses_media_repository_configure_sidecar_response_.md) / [MediaRepositoryConfigureSidecarResponseVideoVersionsItem](_responses_media_repository_configure_sidecar_response_.mediarepositoryconfiguresidecarresponsevideoversionsitem.md) /
+[Globals](../globals.md) / ["responses/media.repository.configure-sidecar.response"](../modules/_responses_media_repository_configure_sidecar_response_.md) / [MediaRepositoryConfigureSidecarResponseVideoVersionsItem](_responses_media_repository_configure_sidecar_response_.mediarepositoryconfiguresidecarresponsevideoversionsitem.md) /
 
 # Interface: MediaRepositoryConfigureSidecarResponseVideoVersionsItem
 
@@ -24,7 +24,7 @@
 
 • **height**: *number*
 
-*Defined in [responses/media.repository.configure-sidecar.response.ts:60](https://github.com/dilame/instagram-private-api/blob/01eb399/src/responses/media.repository.configure-sidecar.response.ts#L60)*
+*Defined in [responses/media.repository.configure-sidecar.response.ts:60](https://github.com/Nerixyz/instagram-private-api/blob/e5037ee/src/responses/media.repository.configure-sidecar.response.ts#L60)*
 
 ___
 
@@ -32,7 +32,7 @@ ___
 
 • **id**: *string*
 
-*Defined in [responses/media.repository.configure-sidecar.response.ts:62](https://github.com/dilame/instagram-private-api/blob/01eb399/src/responses/media.repository.configure-sidecar.response.ts#L62)*
+*Defined in [responses/media.repository.configure-sidecar.response.ts:62](https://github.com/Nerixyz/instagram-private-api/blob/e5037ee/src/responses/media.repository.configure-sidecar.response.ts#L62)*
 
 ___
 
@@ -40,7 +40,7 @@ ___
 
 • **type**: *number*
 
-*Defined in [responses/media.repository.configure-sidecar.response.ts:58](https://github.com/dilame/instagram-private-api/blob/01eb399/src/responses/media.repository.configure-sidecar.response.ts#L58)*
+*Defined in [responses/media.repository.configure-sidecar.response.ts:58](https://github.com/Nerixyz/instagram-private-api/blob/e5037ee/src/responses/media.repository.configure-sidecar.response.ts#L58)*
 
 ___
 
@@ -48,7 +48,7 @@ ___
 
 • **url**: *string*
 
-*Defined in [responses/media.repository.configure-sidecar.response.ts:61](https://github.com/dilame/instagram-private-api/blob/01eb399/src/responses/media.repository.configure-sidecar.response.ts#L61)*
+*Defined in [responses/media.repository.configure-sidecar.response.ts:61](https://github.com/Nerixyz/instagram-private-api/blob/e5037ee/src/responses/media.repository.configure-sidecar.response.ts#L61)*
 
 ___
 
@@ -56,4 +56,4 @@ ___
 
 • **width**: *number*
 
-*Defined in [responses/media.repository.configure-sidecar.response.ts:59](https://github.com/dilame/instagram-private-api/blob/01eb399/src/responses/media.repository.configure-sidecar.response.ts#L59)*
+*Defined in [responses/media.repository.configure-sidecar.response.ts:59](https://github.com/Nerixyz/instagram-private-api/blob/e5037ee/src/responses/media.repository.configure-sidecar.response.ts#L59)*

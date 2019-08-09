@@ -1,6 +1,6 @@
 > **[instagram-private-api](../README.md)**
 
-[Globals](../README.md) / ["types/timeline-feed.types"](_types_timeline_feed_types_.md) /
+[Globals](../globals.md) / ["types/timeline-feed.types"](_types_timeline_feed_types_.md) /
 
 # External module: "types/timeline-feed.types"
 
@@ -20,4 +20,4 @@
 
 Ƭ **TimelineFeedReason**: *"pagination" | "pull_to_refresh" | "warm_start_fetch" | "cold_start_fetch"*
 
-*Defined in [types/timeline-feed.types.ts:1](https://github.com/dilame/instagram-private-api/blob/01eb399/src/types/timeline-feed.types.ts#L1)*
+*Defined in [types/timeline-feed.types.ts:1](https://github.com/Nerixyz/instagram-private-api/blob/e5037ee/src/types/timeline-feed.types.ts#L1)*

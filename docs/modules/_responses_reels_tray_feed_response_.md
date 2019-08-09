@@ -1,6 +1,6 @@
 > **[instagram-private-api](../README.md)**
 
-[Globals](../README.md) / ["responses/reels-tray.feed.response"](_responses_reels_tray_feed_response_.md) /
+[Globals](../globals.md) / ["responses/reels-tray.feed.response"](_responses_reels_tray_feed_response_.md) /
 
 # External module: "responses/reels-tray.feed.response"
 

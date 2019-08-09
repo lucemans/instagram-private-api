@@ -1,6 +1,6 @@
 > **[instagram-private-api](../README.md)**
 
-[Globals](../README.md) / ["responses/music.repository.moods.response"](_responses_music_repository_moods_response_.md) /
+[Globals](../globals.md) / ["responses/music.repository.moods.response"](_responses_music_repository_moods_response_.md) /
 
 # External module: "responses/music.repository.moods.response"
 

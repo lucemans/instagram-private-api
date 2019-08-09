@@ -1,6 +1,6 @@
 > **[instagram-private-api](../README.md)**
 
-[Globals](../README.md) / ["responses/live.viewer-list.response"](../modules/_responses_live_viewer_list_response_.md) / [LiveViewerListResponseRootObject](_responses_live_viewer_list_response_.liveviewerlistresponserootobject.md) /
+[Globals](../globals.md) / ["responses/live.viewer-list.response"](../modules/_responses_live_viewer_list_response_.md) / [LiveViewerListResponseRootObject](_responses_live_viewer_list_response_.liveviewerlistresponserootobject.md) /
 
 # Interface: LiveViewerListResponseRootObject
 
@@ -21,7 +21,7 @@
 
 • **status**: *string*
 
-*Defined in [responses/live.viewer-list.response.ts:3](https://github.com/dilame/instagram-private-api/blob/01eb399/src/responses/live.viewer-list.response.ts#L3)*
+*Defined in [responses/live.viewer-list.response.ts:3](https://github.com/Nerixyz/instagram-private-api/blob/e5037ee/src/responses/live.viewer-list.response.ts#L3)*
 
 ___
 
@@ -29,4 +29,4 @@ ___
 
 • **users**: *[LiveViewerListResponseUsersItem](_responses_live_viewer_list_response_.liveviewerlistresponseusersitem.md)[]*
 
-*Defined in [responses/live.viewer-list.response.ts:2](https://github.com/dilame/instagram-private-api/blob/01eb399/src/responses/live.viewer-list.response.ts#L2)*
+*Defined in [responses/live.viewer-list.response.ts:2](https://github.com/Nerixyz/instagram-private-api/blob/e5037ee/src/responses/live.viewer-list.response.ts#L2)*

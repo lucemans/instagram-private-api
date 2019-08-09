@@ -1,6 +1,6 @@
 > **[instagram-private-api](../README.md)**
 
-[Globals](../README.md) / ["responses/media.repository.list-reel-media-viewer.response"](../modules/_responses_media_repository_list_reel_media_viewer_response_.md) / [MediaRepositoryListReelMediaViewerResponseImage_versions2](_responses_media_repository_list_reel_media_viewer_response_.mediarepositorylistreelmediaviewerresponseimage_versions2.md) /
+[Globals](../globals.md) / ["responses/media.repository.list-reel-media-viewer.response"](../modules/_responses_media_repository_list_reel_media_viewer_response_.md) / [MediaRepositoryListReelMediaViewerResponseImage_versions2](_responses_media_repository_list_reel_media_viewer_response_.mediarepositorylistreelmediaviewerresponseimage_versions2.md) /
 
 # Interface: MediaRepositoryListReelMediaViewerResponseImage_versions2
 
@@ -20,4 +20,4 @@
 
 • **candidates**: *[MediaRepositoryListReelMediaViewerResponseCandidatesItem](_responses_media_repository_list_reel_media_viewer_response_.mediarepositorylistreelmediaviewerresponsecandidatesitem.md)[]*
 
-*Defined in [responses/media.repository.list-reel-media-viewer.response.ts:67](https://github.com/dilame/instagram-private-api/blob/01eb399/src/responses/media.repository.list-reel-media-viewer.response.ts#L67)*
+*Defined in [responses/media.repository.list-reel-media-viewer.response.ts:67](https://github.com/Nerixyz/instagram-private-api/blob/e5037ee/src/responses/media.repository.list-reel-media-viewer.response.ts#L67)*

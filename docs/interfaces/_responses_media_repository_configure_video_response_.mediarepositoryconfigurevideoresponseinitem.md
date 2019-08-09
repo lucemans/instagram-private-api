@@ -1,6 +1,6 @@
 > **[instagram-private-api](../README.md)**
 
-[Globals](../README.md) / ["responses/media.repository.configure-video.response"](../modules/_responses_media_repository_configure_video_response_.md) / [MediaRepositoryConfigureVideoResponseInItem](_responses_media_repository_configure_video_response_.mediarepositoryconfigurevideoresponseinitem.md) /
+[Globals](../globals.md) / ["responses/media.repository.configure-video.response"](../modules/_responses_media_repository_configure_video_response_.md) / [MediaRepositoryConfigureVideoResponseInItem](_responses_media_repository_configure_video_response_.mediarepositoryconfigurevideoresponseinitem.md) /
 
 # Interface: MediaRepositoryConfigureVideoResponseInItem
 
@@ -23,7 +23,7 @@
 
 • **duration_in_video_in_sec**: *null*
 
-*Defined in [responses/media.repository.configure-video.response.ts:68](https://github.com/dilame/instagram-private-api/blob/01eb399/src/responses/media.repository.configure-video.response.ts#L68)*
+*Defined in [responses/media.repository.configure-video.response.ts:68](https://github.com/Nerixyz/instagram-private-api/blob/e5037ee/src/responses/media.repository.configure-video.response.ts#L68)*
 
 ___
 
@@ -31,7 +31,7 @@ ___
 
 • **position**: *number[]*
 
-*Defined in [responses/media.repository.configure-video.response.ts:66](https://github.com/dilame/instagram-private-api/blob/01eb399/src/responses/media.repository.configure-video.response.ts#L66)*
+*Defined in [responses/media.repository.configure-video.response.ts:66](https://github.com/Nerixyz/instagram-private-api/blob/e5037ee/src/responses/media.repository.configure-video.response.ts#L66)*
 
 ___
 
@@ -39,7 +39,7 @@ ___
 
 • **start_time_in_video_in_sec**: *null*
 
-*Defined in [responses/media.repository.configure-video.response.ts:67](https://github.com/dilame/instagram-private-api/blob/01eb399/src/responses/media.repository.configure-video.response.ts#L67)*
+*Defined in [responses/media.repository.configure-video.response.ts:67](https://github.com/Nerixyz/instagram-private-api/blob/e5037ee/src/responses/media.repository.configure-video.response.ts#L67)*
 
 ___
 
@@ -47,4 +47,4 @@ ___
 
 • **user**: *[MediaRepositoryConfigureVideoResponseUser](_responses_media_repository_configure_video_response_.mediarepositoryconfigurevideoresponseuser.md)*
 
-*Defined in [responses/media.repository.configure-video.response.ts:65](https://github.com/dilame/instagram-private-api/blob/01eb399/src/responses/media.repository.configure-video.response.ts#L65)*
+*Defined in [responses/media.repository.configure-video.response.ts:65](https://github.com/Nerixyz/instagram-private-api/blob/e5037ee/src/responses/media.repository.configure-video.response.ts#L65)*

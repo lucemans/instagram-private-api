@@ -1,6 +1,6 @@
 > **[instagram-private-api](../README.md)**
 
-[Globals](../README.md) / ["responses/media.repository.list-reel-media-viewer.response"](_responses_media_repository_list_reel_media_viewer_response_.md) /
+[Globals](../globals.md) / ["responses/media.repository.list-reel-media-viewer.response"](_responses_media_repository_list_reel_media_viewer_response_.md) /
 
 # External module: "responses/media.repository.list-reel-media-viewer.response"
 

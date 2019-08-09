@@ -1,6 +1,6 @@
 > **[instagram-private-api](../README.md)**
 
-[Globals](../README.md) / ["responses/direct-inbox.feed.response"](../modules/_responses_direct_inbox_feed_response_.md) / [DirectInboxFeedResponsePlaceholder](_responses_direct_inbox_feed_response_.directinboxfeedresponseplaceholder.md) /
+[Globals](../globals.md) / ["responses/direct-inbox.feed.response"](../modules/_responses_direct_inbox_feed_response_.md) / [DirectInboxFeedResponsePlaceholder](_responses_direct_inbox_feed_response_.directinboxfeedresponseplaceholder.md) /
 
 # Interface: DirectInboxFeedResponsePlaceholder
 
@@ -22,7 +22,7 @@
 
 • **is_linked**: *boolean*
 
-*Defined in [responses/direct-inbox.feed.response.ts:159](https://github.com/dilame/instagram-private-api/blob/01eb399/src/responses/direct-inbox.feed.response.ts#L159)*
+*Defined in [responses/direct-inbox.feed.response.ts:159](https://github.com/Nerixyz/instagram-private-api/blob/e5037ee/src/responses/direct-inbox.feed.response.ts#L159)*
 
 ___
 
@@ -30,7 +30,7 @@ ___
 
 • **message**: *string*
 
-*Defined in [responses/direct-inbox.feed.response.ts:161](https://github.com/dilame/instagram-private-api/blob/01eb399/src/responses/direct-inbox.feed.response.ts#L161)*
+*Defined in [responses/direct-inbox.feed.response.ts:161](https://github.com/Nerixyz/instagram-private-api/blob/e5037ee/src/responses/direct-inbox.feed.response.ts#L161)*
 
 ___
 
@@ -38,4 +38,4 @@ ___
 
 • **title**: *string*
 
-*Defined in [responses/direct-inbox.feed.response.ts:160](https://github.com/dilame/instagram-private-api/blob/01eb399/src/responses/direct-inbox.feed.response.ts#L160)*
+*Defined in [responses/direct-inbox.feed.response.ts:160](https://github.com/Nerixyz/instagram-private-api/blob/e5037ee/src/responses/direct-inbox.feed.response.ts#L160)*

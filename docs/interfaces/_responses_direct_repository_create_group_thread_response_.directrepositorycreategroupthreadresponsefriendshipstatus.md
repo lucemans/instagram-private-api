@@ -1,6 +1,6 @@
 > **[instagram-private-api](../README.md)**
 
-[Globals](../README.md) / ["responses/direct.repository.create-group-thread.response"](../modules/_responses_direct_repository_create_group_thread_response_.md) / [DirectRepositoryCreateGroupThreadResponseFriendshipStatus](_responses_direct_repository_create_group_thread_response_.directrepositorycreategroupthreadresponsefriendshipstatus.md) /
+[Globals](../globals.md) / ["responses/direct.repository.create-group-thread.response"](../modules/_responses_direct_repository_create_group_thread_response_.md) / [DirectRepositoryCreateGroupThreadResponseFriendshipStatus](_responses_direct_repository_create_group_thread_response_.directrepositorycreategroupthreadresponsefriendshipstatus.md) /
 
 # Interface: DirectRepositoryCreateGroupThreadResponseFriendshipStatus
 
@@ -26,7 +26,7 @@
 
 • **blocking**: *boolean*
 
-*Defined in [responses/direct.repository.create-group-thread.response.ts:53](https://github.com/dilame/instagram-private-api/blob/01eb399/src/responses/direct.repository.create-group-thread.response.ts#L53)*
+*Defined in [responses/direct.repository.create-group-thread.response.ts:53](https://github.com/Nerixyz/instagram-private-api/blob/e5037ee/src/responses/direct.repository.create-group-thread.response.ts#L53)*
 
 ___
 
@@ -34,7 +34,7 @@ ___
 
 • **following**: *boolean*
 
-*Defined in [responses/direct.repository.create-group-thread.response.ts:52](https://github.com/dilame/instagram-private-api/blob/01eb399/src/responses/direct.repository.create-group-thread.response.ts#L52)*
+*Defined in [responses/direct.repository.create-group-thread.response.ts:52](https://github.com/Nerixyz/instagram-private-api/blob/e5037ee/src/responses/direct.repository.create-group-thread.response.ts#L52)*
 
 ___
 
@@ -42,7 +42,7 @@ ___
 
 • **incoming_request**: *boolean*
 
-*Defined in [responses/direct.repository.create-group-thread.response.ts:55](https://github.com/dilame/instagram-private-api/blob/01eb399/src/responses/direct.repository.create-group-thread.response.ts#L55)*
+*Defined in [responses/direct.repository.create-group-thread.response.ts:55](https://github.com/Nerixyz/instagram-private-api/blob/e5037ee/src/responses/direct.repository.create-group-thread.response.ts#L55)*
 
 ___
 
@@ -50,7 +50,7 @@ ___
 
 • **is_bestie**: *boolean*
 
-*Defined in [responses/direct.repository.create-group-thread.response.ts:57](https://github.com/dilame/instagram-private-api/blob/01eb399/src/responses/direct.repository.create-group-thread.response.ts#L57)*
+*Defined in [responses/direct.repository.create-group-thread.response.ts:57](https://github.com/Nerixyz/instagram-private-api/blob/e5037ee/src/responses/direct.repository.create-group-thread.response.ts#L57)*
 
 ___
 
@@ -58,7 +58,7 @@ ___
 
 • **is_private**: *boolean*
 
-*Defined in [responses/direct.repository.create-group-thread.response.ts:54](https://github.com/dilame/instagram-private-api/blob/01eb399/src/responses/direct.repository.create-group-thread.response.ts#L54)*
+*Defined in [responses/direct.repository.create-group-thread.response.ts:54](https://github.com/Nerixyz/instagram-private-api/blob/e5037ee/src/responses/direct.repository.create-group-thread.response.ts#L54)*
 
 ___
 
@@ -66,7 +66,7 @@ ___
 
 • **is_restricted**: *boolean*
 
-*Defined in [responses/direct.repository.create-group-thread.response.ts:58](https://github.com/dilame/instagram-private-api/blob/01eb399/src/responses/direct.repository.create-group-thread.response.ts#L58)*
+*Defined in [responses/direct.repository.create-group-thread.response.ts:58](https://github.com/Nerixyz/instagram-private-api/blob/e5037ee/src/responses/direct.repository.create-group-thread.response.ts#L58)*
 
 ___
 
@@ -74,4 +74,4 @@ ___
 
 • **outgoing_request**: *boolean*
 
-*Defined in [responses/direct.repository.create-group-thread.response.ts:56](https://github.com/dilame/instagram-private-api/blob/01eb399/src/responses/direct.repository.create-group-thread.response.ts#L56)*
+*Defined in [responses/direct.repository.create-group-thread.response.ts:56](https://github.com/Nerixyz/instagram-private-api/blob/e5037ee/src/responses/direct.repository.create-group-thread.response.ts#L56)*

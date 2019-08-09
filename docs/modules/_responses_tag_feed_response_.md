@@ -1,6 +1,6 @@
 > **[instagram-private-api](../README.md)**
 
-[Globals](../README.md) / ["responses/tag.feed.response"](_responses_tag_feed_response_.md) /
+[Globals](../globals.md) / ["responses/tag.feed.response"](_responses_tag_feed_response_.md) /
 
 # External module: "responses/tag.feed.response"
 

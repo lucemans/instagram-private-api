@@ -1,6 +1,6 @@
 > **[instagram-private-api](../README.md)**
 
-[Globals](../README.md) / ["core/client"](_core_client_.md) /
+[Globals](../globals.md) / ["core/client"](_core_client_.md) /
 
 # External module: "core/client"
 

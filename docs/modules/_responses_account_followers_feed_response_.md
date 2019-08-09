@@ -1,6 +1,6 @@
 > **[instagram-private-api](../README.md)**
 
-[Globals](../README.md) / ["responses/account-followers.feed.response"](_responses_account_followers_feed_response_.md) /
+[Globals](../globals.md) / ["responses/account-followers.feed.response"](_responses_account_followers_feed_response_.md) /
 
 # External module: "responses/account-followers.feed.response"
 

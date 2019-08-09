@@ -1,6 +1,6 @@
 > **[instagram-private-api](../README.md)**
 
-[Globals](../README.md) / ["responses/blocked-users.feed.response"](../modules/_responses_blocked_users_feed_response_.md) / [BlockedUsersFeedResponseRootObject](_responses_blocked_users_feed_response_.blockedusersfeedresponserootobject.md) /
+[Globals](../globals.md) / ["responses/blocked-users.feed.response"](../modules/_responses_blocked_users_feed_response_.md) / [BlockedUsersFeedResponseRootObject](_responses_blocked_users_feed_response_.blockedusersfeedresponserootobject.md) /
 
 # Interface: BlockedUsersFeedResponseRootObject
 
@@ -23,7 +23,7 @@
 
 • **blocked_list**: *[BlockedUsersFeedResponseBlockedListItem](../classes/_responses_blocked_users_feed_response_.blockedusersfeedresponseblockedlistitem.md)[]*
 
-*Defined in [responses/blocked-users.feed.response.ts:4](https://github.com/dilame/instagram-private-api/blob/01eb399/src/responses/blocked-users.feed.response.ts#L4)*
+*Defined in [responses/blocked-users.feed.response.ts:4](https://github.com/Nerixyz/instagram-private-api/blob/e5037ee/src/responses/blocked-users.feed.response.ts#L4)*
 
 ___
 
@@ -31,7 +31,7 @@ ___
 
 • **next_max_id**: *string*
 
-*Defined in [responses/blocked-users.feed.response.ts:5](https://github.com/dilame/instagram-private-api/blob/01eb399/src/responses/blocked-users.feed.response.ts#L5)*
+*Defined in [responses/blocked-users.feed.response.ts:5](https://github.com/Nerixyz/instagram-private-api/blob/e5037ee/src/responses/blocked-users.feed.response.ts#L5)*
 
 ___
 
@@ -39,7 +39,7 @@ ___
 
 • **page_size**: *number*
 
-*Defined in [responses/blocked-users.feed.response.ts:6](https://github.com/dilame/instagram-private-api/blob/01eb399/src/responses/blocked-users.feed.response.ts#L6)*
+*Defined in [responses/blocked-users.feed.response.ts:6](https://github.com/Nerixyz/instagram-private-api/blob/e5037ee/src/responses/blocked-users.feed.response.ts#L6)*
 
 ___
 
@@ -47,4 +47,4 @@ ___
 
 • **status**: *string*
 
-*Defined in [responses/blocked-users.feed.response.ts:7](https://github.com/dilame/instagram-private-api/blob/01eb399/src/responses/blocked-users.feed.response.ts#L7)*
+*Defined in [responses/blocked-users.feed.response.ts:7](https://github.com/Nerixyz/instagram-private-api/blob/e5037ee/src/responses/blocked-users.feed.response.ts#L7)*

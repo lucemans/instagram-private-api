@@ -1,6 +1,6 @@
 > **[instagram-private-api](../README.md)**
 
-[Globals](../README.md) / ["responses/saved.feed.response"](../modules/_responses_saved_feed_response_.md) / [SavedFeedResponseCandidatesItem](_responses_saved_feed_response_.savedfeedresponsecandidatesitem.md) /
+[Globals](../globals.md) / ["responses/saved.feed.response"](../modules/_responses_saved_feed_response_.md) / [SavedFeedResponseCandidatesItem](_responses_saved_feed_response_.savedfeedresponsecandidatesitem.md) /
 
 # Interface: SavedFeedResponseCandidatesItem
 
@@ -23,7 +23,7 @@
 
 • **estimated_scans_sizes**? : *number[]*
 
-*Defined in [responses/saved.feed.response.ts:67](https://github.com/dilame/instagram-private-api/blob/01eb399/src/responses/saved.feed.response.ts#L67)*
+*Defined in [responses/saved.feed.response.ts:67](https://github.com/Nerixyz/instagram-private-api/blob/e5037ee/src/responses/saved.feed.response.ts#L67)*
 
 ___
 
@@ -31,7 +31,7 @@ ___
 
 • **height**: *number*
 
-*Defined in [responses/saved.feed.response.ts:65](https://github.com/dilame/instagram-private-api/blob/01eb399/src/responses/saved.feed.response.ts#L65)*
+*Defined in [responses/saved.feed.response.ts:65](https://github.com/Nerixyz/instagram-private-api/blob/e5037ee/src/responses/saved.feed.response.ts#L65)*
 
 ___
 
@@ -39,7 +39,7 @@ ___
 
 • **url**: *string*
 
-*Defined in [responses/saved.feed.response.ts:66](https://github.com/dilame/instagram-private-api/blob/01eb399/src/responses/saved.feed.response.ts#L66)*
+*Defined in [responses/saved.feed.response.ts:66](https://github.com/Nerixyz/instagram-private-api/blob/e5037ee/src/responses/saved.feed.response.ts#L66)*
 
 ___
 
@@ -47,4 +47,4 @@ ___
 
 • **width**: *number*
 
-*Defined in [responses/saved.feed.response.ts:64](https://github.com/dilame/instagram-private-api/blob/01eb399/src/responses/saved.feed.response.ts#L64)*
+*Defined in [responses/saved.feed.response.ts:64](https://github.com/Nerixyz/instagram-private-api/blob/e5037ee/src/responses/saved.feed.response.ts#L64)*
